@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Installing Steam Games on Different Drives"
+date: 2024-01-26 00:46:40 +0000
+categories: "Gaming"
+excerpt_image: https://i.ytimg.com/vi/V-zRWta5XPg/maxresdefault.jpg
+image: https://i.ytimg.com/vi/V-zRWta5XPg/maxresdefault.jpg
+---
+
+### Choosing Where Your Games Are Installed
+When you download and install Steam games, you have the option to choose where the games are installed on your computer. On the install window for each game, there is a drop-down menu that allows you to select the drive. This is useful if you want to take advantage of different storage devices, such as installing some games on a solid-state drive (SSD) for faster loading times, and other games on a larger hard disk drive (HDD) for more space. 
+By default, Steam installs all your games to a folder called "SteamLibrary" located within your main Steam installation folder, usually on the C: drive. However, you can create additional SteamLibrary folders on other drives and point game installations there instead.
+
+![](http://i.ytimg.com/vi/hV1UbXLTsy0/maxresdefault.jpg)
+### Creating Additional Steam Libraries
+To create an additional Steam library on another drive, simply make a new folder called "SteamLibrary" on that drive. You can then select that folder location as the install destination when downloading a game from the Steam client. Steam will recognize the new folder as a valid library location. This allows you to effectively split your game library across multiple physical storage devices in your computer.
+Some benefits of installing your [Steam game library across multiple drives](https://store.fi.io.vn/chihuahua-dog-training-good-boy-k-lovers-gift-t-shirt) include taking advantage of faster read/write speeds on an SSD for frequently played games, while keeping larger install sizes on an HDD. You also gain more flexibility in organizing your collection without being limited by the capacity of one drive. Games installed to other libraries can still be accessed and launched from the main Steam interface.
+### Choosing Install Locations for Optimal Performance 
+When managing games split across drives, it's a good idea to selectively choose which titles end up on the SSD versus HDD based on certain factors. For example, installing games with long loading times or that see frequent reloads, such as open-world **games with large open worlds** or competitive multiplayer games, to the SSD can help smooth out those waiting periods. Meanwhile, story-driven single-player games or ones you play through once in a while may benefit less from ultra-fast load speeds and can stay on the higher-capacity HDD.
+In general, installing active games you're currently playing to the SSD, while leaving completed or infrequently accessed games on other drives, is a sensible approach. This optimizes the use of limited but faster SSD space. You can easily  move install directories between libraries as needed, like when starting a new game you want the quickest load times for. With some organization, it's possible to fully maximize the advantages of each drive type.
+### Setting Default Install and Download Locations
+For convenience, you can also designate a default install and download location in your Steam settings. This prevents having to choose the drive each time you purchase a new game. Go to Steam > Settings > Downloads and set the "Download/install to" dropdown to your preferred library folder. Then all subsequent installs will go straight to that location without additional steps. 
+You still retain the flexibility to override it for individual games if needed. But setting a default helps streamline the process and ensures new content is consistently placed where you want it. By thoughtfully distributing your digital collection among separate drives, you can greatly enhance access to and performance of your Steam library on PC. With a little initial setup, the multi-drive approach offers notable benefits worth adopting.
+### Managing Games Across Physical Storage Devices
+Even after games have been installed to different drives and Steam libraries, you still access and manage everything through the one Steam client program and launcher on your PC. It abstracts away the physical locations so games appear unified in your library view. You can search, sort, launch titles or verify cache files without worrying about what drive they physically reside on. 
+Behind the scenes, Steam smartly tracks installation paths for each game so it knows where to find the files regardless of library location. This makes the whole process seamless for the end user. You don't need to micro-manage drives or directories yourself once the initial setup dividing things up is done. Steam intelligently handles all the file I/O tasks transparently thereafter.
+### Moving Games Between Libraries 
+The one occasion where drive locations may become relevant again is if you want to move a game from one library folder to another. This can be done through Steam by right-clicking the game and selecting "Properties". On the Local Files tab will be a "Move Install Folder..." button that allows choosing an alternate installation path. You can use this to freely shuffle games around as storage needs change over time.
+Make sure to quit Steam completely before doing any shuffling of games between drives, to ensure it properly detects the moved files. But overall it's a very simple process with little risk of issues. And Steam will keep accurate track of where everything ended up so it's findable via the unified library view afterward again.
+### Maximizing Storage and Performance with a Multi-Drive Setup
+In summary, leveraging multiple physical drives with Steam's support for custom libraries provides users a versatile way to optimize both storage capacity and loading performance aspects across their digital PC game collections. With a bit of initial legwork dividing things up among SSD, HDD and beyond, one can truly maximize their hardware configuration options with Steam. It remains a straightforward setup to manage thereafter using the client software's built-in tools.
+![Installing Steam Games on Different Drives](https://i.ytimg.com/vi/V-zRWta5XPg/maxresdefault.jpg)

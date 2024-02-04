@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Your Baby's Development in the First 8 Weeks of Pregnancy"
+date: 2024-01-31 14:54:33 +0000
+categories: "News"
+excerpt_image: http://assets.babycenter.com/ims/2015/01/pregnancy-week-8-brain-nerve-cells_square.jpg?width=600
+image: http://assets.babycenter.com/ims/2015/01/pregnancy-week-8-brain-nerve-cells_square.jpg?width=600
+---
+
+### Precious Growth Beyond Measure
+In mere weeks, your baby goes through incredible transformations as they develop the essential systems needed to sustain life. At conception, they are merely a single cell. Within days, they multiply rapidly into a ball of multiplying cells. By the end of the first week, they have implanted securely in your uterine lining and the formation of the placenta has begun.
+Within two short weeks, the basic structures have started to form. Three distinct cell layers now exist - the ectoderm, mesoderm and endoderm - from which all future tissues and organs will develop. Indentations that will later form major body cavities like the heart and gut are visible. The neural tube is forming, which will ultimately become your baby's brain and spinal cord. Their tiny developing heart is now beating at a rate 150-160 beats per minute, pumping blood throughout their fused circulatory system. While this seems unfathomable, it is only the beginning of their phenomenal journey.
+
+![](https://media.30seconds.com/tip_image/lg/Pregnancy-Week-8-4580-715a08f59c-1559249792.jpg)
+### Marvelous Metamorphosis Throughout the Middle Weeks 
+By week five, the embryonic tail that once aided development has disappeared. Their eyes are still indistinct oval shapes situated on either side of their head, with lenses beginning to form inside. The beginnings of arms and legs can now be seen as tiny limb buds. Your baby now measures about 1/16th of an inch long. As week six arrives, their barely-seen features are becoming amplified into the miracles we know as fingers and toes. Webbing between them will separate allowing five perfect digits to form on each hand and foot over the coming weeks. 
+At approximately seven weeks' growth, your baby's eyes have moved into a more central position on their face. Their eyelids are sealed due to immature tear glands, but will open by week 10 when fatty tissue cushions beneath the eyes are forming. Tiny pre-cursor taste buds dot their expanding tongue as they mature for future feeding. Their external ears have shifted into place on the sides of their head, with the inner ear bones commencing development. Weighing approximately 1/50th of an ounce at this stage, your miracle is now almost 1⁄4 inch long from crown to rump. 
+By week eight, your baby continues to take breathtaking strides forward. All major organ systems are now established and working diligently towards refined function. Distinct fingers and toes have separated allowing animated grasping and kicking motions that are bringing a smile to your face through ultrasounds. Their exquisitely crafted body has reached an impressive [fetal growth milestone](https://store.fi.io.vn/womens-crass-christmas-gnome-matching-family-ugly-v-neck-t-shirt/men&) of **1⁄2 inch in length** and weighs in at **1/15th of an ounce**. Their fingerprint ridges and the nodes of future teeth are etched into the waxen fetal fold that has now softened their once pea-like appearance.
+### Extraordinary Enhancements of Week Seven and Beyond
+While your baby grew extensively in the middle weeks, the culmination of the eighth week of development has truly transformed them into a **recognizable human fetus**. By week nine, their facial features become more refined with eyebrows now visible over still sealed eyes. Tiny hair-like strands called lanugo begin to dot their skin. Inside, their liver is manufacturing blood cells and antibodies to start building immunity. Their kidneys have matured to begin urine production and waste elimination. 
+By 10 weeks after conception, your growing miracle is a fully-formed miniature person. Weighing approximately 1/10th of an ounce and measuring 1 inch, their tiny nose and mouth are formed with lips developing pigment. Muscle and bone growth continues exponentially, while nerve cells are multiplying at an astonishing rate. Their eyes can now open and close, and develop primitive vision. Underneath thinning lanugo, the beginnings of skin and nails emerge. In the final weeks of the first trimester, they suck their thumb, hiccup, make breathing-like motions and begin practicing swallowing using a maturing oesophagus.  
+This incredible saga of **human development** lays the foundation upon which future wonders will build. From a single cell to orchestrated organs and animated activity, your baby has emerged as fully functional, all within the protection and nourishment of your womb. The first trimester has established your baby's extraordinary potential - now eagerly anticipated to unfold before your eyes.
+### References
+- 8 Weeks Pregnant | What to Expect (http://www.motherandbaby.co.uk/amp/pregnancy-and-birth/pregnancy/pregnancy-week-by-week/week-8-eight-weeks-pregnant) 
+- 8 Weeks Pregnant | The Bump (https://www.thebump.com/pregnancy-week-by-week/8-weeks-pregnant)
+- Timeline of  Human Development: Week 6 (Clinical Week 8) (https://embryology.med.unsw.edu.au/embryology/index.php/Timeline_human_development#Week_6)
+- Your pregnancy: 8 weeks | BabyCenter (https://www.babycenter.com/6_your-pregnancy-8-weeks_1097.bc)
+- Fetal development vector illustration (https://www.123rf.com/photo_85718398_stock-vector-fetal-development-vector-illustration-pregnancy-antenatal-embryo-growth-life-by-weeks-isolated-on-wh.html) 
+- 4 Weeks Pregnant – Week-by-Week Pregnancy Calendar - Pampers (https://www.in.pampers.com/pregnancy/pregnancy-calendar/4-weeks-pregnant)
+- What does my baby look like at 8 weeks pregnant? (https://www.quora.com/What-does-my-baby-look-like-at-8-weeks-pregnant)
+![Your Baby's Development in the First 8 Weeks of Pregnancy](http://assets.babycenter.com/ims/2015/01/pregnancy-week-8-brain-nerve-cells_square.jpg?width=600)

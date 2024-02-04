@@ -1,0 +1,25 @@
+---
+layout: post
+title: "My Experience with the Royal Marines"
+date: 2024-02-02 16:14:45 +0000
+categories: "News"
+excerpt_image: https://www.sea-cadets.org/userfiles/files/MSSCsut_Traf_Day_161023_3255.jpg
+image: https://www.sea-cadets.org/userfiles/files/MSSCsut_Traf_Day_161023_3255.jpg
+---
+
+The British Royal Marines have the reputation of being some of the toughest and most skilled commandos in the world. As a United States Marine, I have had the privilege of interacting with and working alongside Royal Marines on numerous occasions over the years. Here is a reflection on my experiences with these elite fighters.
+### Drinking and Brawling like Champions 
+One of my earliest interactions with Royal Marines was during a brief period where our infantry school housed some Royal Marines undergoing training. Every night, without fail, you could find them at the local bar holding their own against all challengers. One [notable Royal Marine](https://yt.io.vn/collection/alan) in particular engaged in a running "rivalry" with a mouthy civilian, which often ended in drunken fist fights that the Marine always seemed to win. Yet amazingly, they were up at dawn the next day running and training with endless energy and good spirits. Their physical toughness and tolerance for punishment was truly remarkable to behold.
+
+![](https://www.royalnavy.mod.uk/-/media/careers-section-redesign/homepage/marines/980x550_rmrvideo-assets/980x550_rmrvideo_1.jpg?h=550&amp;w=980&amp;rev=29865e2ab1b541f48dd3aae2ceb43a72&amp;cropregion=&amp;hash=5AC1E130C4DDFD41E375AFDD180187EA)
+### Comradery Between Allied Warriors
+On subsequent deployments and exercises, I was fortunate to collaborate directly with Royal Marines in combat zones and training environments. There was an immediate bond and feeling of familiarity, as if working with long lost brothers. Though physically sometimes smaller than average American Marines, they more than made up for it with relentless endurance, grit, and technical combat skills. Their style of aggressive, independent warfare mirrored our own. Coordinating with Royal Marines always felt seamless, with an instinctive understanding between allied warriors. 
+### Setting the Standard for Elite Forces  
+In my experience, the average Royal Marine is better trained and prepared than most other militaries, including many Americans. The standards and selection for their storied Commando course are legendary in their difficulty. Officers leading Royal Marines platoons and sections always displayed an elevated level of planning, initiative, and tactical proficiency. Many of the leadership principles and small-unit tactics I learned directly came from working with and observing Royal Marines. They truly helped shape me as a young officer and set the bar for small-team excellence.
+### Humor and Professionalism in Equal Measure
+While fiercely committed professionals, Royal Marines also maintained their notorious sense of dark humor even under fire. On one artillery mission, after their observer prematurely called "End of mission", they comically replied over the radio "Right-O chaps! Let 'er rip!" with encouragement to keep firing. Such displays of levity in high-stress situations helped boost morale. Yet they balanced this humor with unparalleled dedication to the mission. No matter the conditions, I never saw their standard of training or performance waver. They upheld their motto "Per Mare, Per Terram" (By Sea, By Land) with pride and badassery.
+### Esprit de Corps and Courage Under Fire  
+The tight-knit culture and esprit de corps of the Royal Marines was truly inspiring to witness. They fiercely looked out for their own but also welcomed working with American "cousins". In combat, their bravery and tenacity in close-quarters battles often turned the tide. On more than one occasion, I saw Royal Marines display resolute courage while severely wounded, refusing to be evacuated until the mission was complete. Their trademark grit and "can do" attitude seemed bred into their very DNA. It was always an honor serving alongside these storied British commandos.
+### Lasting Brotherhood Across Allied Forces
+To this day, I maintain close friendships with Royal Marines I've served with over the years. When coming together, it feels as if no time has passed at all. There is an intrinsic bond and respect between allied warriors who have faced combat alongside one another. The professionalism, skills, and toughness of the Royal Marines left a profound impact on me as a young officer. I hope future American and British service-members will continue to learn from each other's unique strengths, forging relationships that can help win tomorrow's fights. The brotherhood between our two elite forces remains critically important.
+![My Experience with the Royal Marines](https://www.sea-cadets.org/userfiles/files/MSSCsut_Traf_Day_161023_3255.jpg)

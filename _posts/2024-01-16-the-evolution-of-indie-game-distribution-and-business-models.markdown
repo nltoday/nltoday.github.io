@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The Evolution of Indie Game Distribution and Business Models"
+date: 2024-01-16 15:14:56 +0000
+categories: "Gaming"
+excerpt_image: https://fourweekmba.com/wp-content/uploads/2020/08/gaming-industry.png?is-pending-load=1
+image: https://fourweekmba.com/wp-content/uploads/2020/08/gaming-industry.png?is-pending-load=1
+---
+
+### The Early Days of Indie Game Development 
+In the late 90s and early 2000s, [small indie development studios](https://store.fi.io.vn/chihuahua-xmas-light-gift-for-chihuahua-lover-dog-lover-gift-idea4424-t-shirt) were able to take risks and publish their games with the help of small publishers. These publishers would absorb much of the financial risk by working with many small teams simultaneously. Games from this era were considered "cheap" to make, often costing around $20 at retail after accounting for distribution, CD-ROM, and packaging costs. This model allowed young studios to get upfront funds to offset development costs while still earning profits if sales did well. However, as the games industry grew, so did demands for more **consumer value**.
+
+![](https://www.mnvart.com/wp-content/uploads/2021/07/The-Evolution-of-Indie-Game-Development_.png)
+### The Rise of Game Bundles and Impact on Developers
+Publishers soon started bundling games together to reduce costs. Initial bundles grouped sequels and series together, but it soon expanded to include various bundles like sports collections and "greatest hits". While these bundles sold very well, they provided little in royalties for developers. This high-volume, low-margin strategy only worked due to the huge number of games be produced. Today's volume pales in comparison yet bundles remain popular. Most experts predict marketplaces will consolidate around discounting/bundling titles or promoting a select few **blockbuster games**.
+### The Humble Bundle Experiment Transforms PC Gaming  
+In response to the industry trends, the Humble Bundle experimented with a new distribution model. Allowing customers to **name their price** while providing **DRM-free games** helped attract curious customers. More importantly, the viral nature of bundles exposed droves of new players to **undiscovered indie titles**. Developers appreciated better revenue sharing terms versus platforms. Customers loved supporting charity causes too. The "pay what you want" formula proved immensely successful in bringing eyes and wallets to many niche games. This disrupted traditional distribution by valuing goodwill over large upfront commissions.
+### Valve's Steam Platform Revolutionizes Digital Distribution
+While bundles thrived on goodwill, Steam established as the dominant PC storefront by 2005 with its easy-to-use client and attractive sales. Publishers appreciated Steam's ability to **reach massive PC audiences worldwide** through a unified platform. Customers liked convenient automatic patches and updates. However, some argue Valve's frequent steep sales devalued games by enabling customers to wait indefinitely for lower prices. Valve contends sales introduce more players, leading to higher lifetime value even if publishers see less initial revenue. As Steam grew into a virtual monopoly, its business practices faced increasing scrutiny from studios dependent on its distribution. 
+### GOG Focuses on DRM-Free Classics and Rediscovered Gems
+Against this backdrop, GOG emerged promoting **DRM-free gaming without restrictive measures**. They made older titles like those in bundles accessible anywhere without clients or online requirements. By curating lost **PC classics and hidden gems**, GOG attracted nostalgic fans while demonstrating DRM's negative effects. Their managing director proposed charging above MSRP for a day to appreciate owned games instead of stalking sales. While small compared to Steam, GOG carved an appreciated niche serving patient gamers looking to support studios with license fees on **legacy PC titles**.
+### Alternative Models Emerge as Both Options and Pressures Increase
+Today producers explore new frontiers beyond traditional storefronts. Epic Games Store aims to challenge Steam by spending big on exclusives while passing generous revenue percentages to studios. ItxHex similarly focuses on hand-picked titles through a curated **boutique distribution model**. Patreon and Kickstarter create direct funding avenues for passionate but risky projects. Console and mobile storefronts dominate those markets quite differently than the open PC ecosystem. Among all options, the constant remains developers seeking fair ways to fund creative visions and turn passions into livelihoods through whatever **distribution strategies prove viable**.
+![The Evolution of Indie Game Distribution and Business Models](https://fourweekmba.com/wp-content/uploads/2020/08/gaming-industry.png?is-pending-load=1)

@@ -1,0 +1,27 @@
+---
+layout: post
+title: "The Business Wait Policy at Tech Mahindra: What You Need to Know"
+date: 2023-12-15 19:33:58 +0000
+categories: "Career"
+excerpt_image: https://i.ytimg.com/vi/DztkQX7g0E8/maxresdefault.jpg
+image: https://i.ytimg.com/vi/DztkQX7g0E8/maxresdefault.jpg
+---
+
+In this article, we will summarize and analyze the different aspects of the business wait policy implemented at Tech Mahindra based on internal communications and policies.
+### Allocation Timelines for Different Bands
+As per official records, the standard business wait policy for all bands is 3 months. Employees are expected to get themselves allocated to a project within this timeframe.  However, unofficially the timelines seem to vary based on the employee's band level. For higher bands like U4 and above, the pressure to get allocated starts building up much earlier than the 3 month mark. Employees from these senior bands have to be extremely proactive in securing a project role **"as soon as possible"**, otherwise they risk an early "call" or termination from the company despite being within the prescribed bench period.
+
+![](https://qph.cf2.quoracdn.net/main-qimg-a63961710a686bad3f330c06cb47ed85-lq)
+### No Fixed Policy, Flexibility Based on Business Performance 
+Contrary to popular belief among employees, [TechM does not have a rigidly defined and documented bench policy](https://store.fi.io.vn/womens-cute-duck-gift-for-mom-mother-duckling-duck-waterfowl-lovers-v-neck-t-shirt/men&). The leniency shown towards bench employees is said to depend heavily on the overall business performance and demand situation at the time. During boom periods, the company is more understanding of longer bench durations. However, in tougher market conditions, the bench timelines tend to get shorter putting immense pressure on unallocated resources. Therefore, it is always advisable for employees to strive for continuous projects to insulate themselves from **"business contingencies"**.
+### Higher Bands Face More Scrutiny During Bench 
+As discussed earlier, employees from senior bands like U4 and above face closer monitoring right from the beginning of their bench tenure. This stems from the fact that **higher banded profiles command a larger salary package**. Therefore, the company is more wary of having these high-cost resources sitting idle for long without billable work. There is an unstated expectation that leaders must quickly re-skill or network themselves to suitable opportunities to avoid burdening the P&L. The degrees of **flexibility and patience shown reduce substantially with increasing band levels**.
+### Informal Preemption Better than Strict Enforcement
+Rather than having a rigidly **enforced bench exit policy,** TechM follows a more pragmatic informal approach focused on preempting long idleness. There are no fixed termination timelines even as the pressure keeps building up discreetly. This allows case-by-case consideration of context like voluntary exits, relocations or market vulnerabilities. The open communication also encourages employees to proactively work on plan Bs and take informed career calls instead of abrupt terminations. Overall, it aims for mutually fruitful separations in a tough market instead of hard exits.
+### Documented vs Practical Policy 
+To summarize, while the documented bench policy states 3 months for all, in practical implementation the flexibility shown reduces substantially for higher banded profiles. There is also no fixed timeline even as scrutiny increases with the duration. TechM follows an informal system of preemptive communication and nudges focused on quick allocations. This allows case-specific handling while motivating self-guided exits over strict cutoffs, especially during downturns. Ultimately, constant upskilling and an entrepreneurial approach to securing the next opportunity seem most advisable based on the fluid practical policy.
+### Take Proactive Measures to Minimize Career Risks
+As the bench policy leaves room for subjective interpretations, it is best for employees to **proactively minimize career risks**. Some measures could include maintaining a network through professional communities, regularly updating profiles on job sites, attaining new certifications, volunteering for transitional project roles, exploring internals openings and having candid career discussions. Upskilling aggressively makes individuals more adaptable to disruptions while a diversified opportunity pipeline acts as a safety net. Overall, proactivity, adaptability and willingness to explore alternatives serve individuals better than fixed assumptions or involuntary exits.
+### Plan for Different Scenarios and Flexible Career Options
+In conclusion, given the ambiguity and volatility in practical bench timelines, professionals are advised to **plan for different scenarios** and have **multiple career options** in their toolkit. Besides skill enhancement, they must evaluate transitioning to a stable corporate through campus placements, entering a startup, exploring the government sector, working as a freelancer or even shifting geographies based on emerging opportunities. Rather than rigid adherence to a single career path, flexibility allows people to withstand unexpected turns while still progressing professionally. A diversified and self-reliant approach suits the dynamic tech industry best.
+![The Business Wait Policy at Tech Mahindra: What You Need to Know](https://i.ytimg.com/vi/DztkQX7g0E8/maxresdefault.jpg)

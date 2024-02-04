@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Astigmatic Contact Lenses: Understanding Proper Fitting and Care"
+date: 2023-11-13 07:14:42 +0000
+categories: "News"
+excerpt_image: https://www.warbyparker.com/learn/wp-content/uploads/2023/01/contacts-with-astigmatism-diagram-M.jpg
+image: https://www.warbyparker.com/learn/wp-content/uploads/2023/01/contacts-with-astigmatism-diagram-M.jpg
+---
+
+### Correctly Fitting Toric Lenses 
+Toric lenses, also known as astigmatic contact lenses, are designed to correct astigmatism. They have asymmetric curves that help control their rotation on the eye. A key part of fitting toric lenses is choosing the right lens parameters, including base curve, diameter, and axes markings. Optometrists will observe how the lens settles on the eye using a slit lamp biomicroscope to ensure it is positioned correctly. If the lens rotates too much, blurred vision can result. [high astigmatism contact lenses toric](https://fistore.mysenprints.com/collection/alcott) must be carefully fit to maintain clear vision. 
+
+![](https://www.ushealthgroup.com/wp-content/uploads/2021/07/astigmatism-contact-lenses.jpg)
+### Leveraging Surface Tension and Corneal Shape
+There are a few techniques optometrists use to help toric lenses stay in the proper position. The "watermelon seed effect" relies on surface tension between the lens and eyelid. As the upper lid squeezes the lens during a blink, surface tension causes it to slide down the thinner side and hold the curved backside down. Likewise, the "saddle on a pig" method uses matching curves between the lens and cornea, so the lens sits securely in place. A third approach is the "pendulum effect," where the lens rotates on its central axis but hangs down heavier in the lower position due to gravity.
+### Evaluating Sources of Rotation
+Excessive rotation is a common cause of blurred vision with toric lenses. This can occur if the astigmatism is not due to corneal curvature. It also happens if the lens base curve is too flat and doesn't grip the cornea well. Optometrists measure corneal topography and observe lens movement to determine the problem. Patients with dry eye disease may notice more rotation when the lens "blinks" on the eye during a normal blink due to decreased tear volume.
+### Choosing the Right Lens Material 
+Material selection impacts lens performance and comfort levels. **soft astigmatism contact lenses** made of high water content materials stay hydrated but can dehydrate the eye surface like a wick. This leads to brief periods of clear vision followed by blurriness. Silicone hydrogel lenses are more breathable but require artificial tears for constant lubrication. Optometrists determine the best material blend and wetting regimen through trial and error. Artificial tears that contain the right preservatives and osmolality level are essential for maximum wear time.
+### Enhancing Comfort Through Proper Lens Care
+Daily lens care and wearing schedules promote ocular health. It is crucial to use **moisturizing contact lens drops** safe for continuous wear as directed. Extra bottles should be kept at home, work, and in a purse. When using a computer, consciously blink fully and frequently to lubricate the eyes. Environmental factors like ceiling fans and air vents accelerate drying. Antihistamines and caffeine through drinks are associated with increased blurriness as well. With diligent care and follow-up testing by an optometrist, patients can maximize clear vision and comfort in toric contact lenses.
+### Addressing Persistent Issues
+If blurriness continues even with compliant lens wear and care, further evaluation is needed. Common reasons include unstable refractive error requiring different parameters or infrequent fit checks by the eye doctor. Follow-up appointments allow precise rechecking of lens centration, movement, and position under magnification. For unresolvable cases, alternative options include rigid gas permeable contact lenses that correct both nearsightedness/farsightedness and astigmatism or laser eye surgery to reduce dependence on contact lenses. Overall, proper selection, fitting, and adaptation help maximize outcomes for correcting astigmatism non-surgically.
+### Summary  
+In summary, astigmatic contact lenses play an important role in non-surgical vision correction. Various designs and fitting techniques work to maintain the off-axis lens positioning needed and control unwanted rotation. Optometrists consider a patient's tear film, corneal shape, refractive error stability, and lifestyle to select the best lens type and material. Adhering to a rigorous care regimen along with follow-up testing helps address any issues as early as possible for clear, comfortable vision. Adjusting parameters or considering other options ensures optimal management of each individual's astigmatism over time.
+![Astigmatic Contact Lenses: Understanding Proper Fitting and Care](https://www.warbyparker.com/learn/wp-content/uploads/2023/01/contacts-with-astigmatism-diagram-M.jpg)

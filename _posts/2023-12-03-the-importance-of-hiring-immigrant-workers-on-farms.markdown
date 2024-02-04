@@ -1,0 +1,26 @@
+---
+layout: post
+title: "The Importance of Hiring Immigrant Workers on Farms"
+date: 2023-12-03 12:15:50 +0000
+categories: "News"
+excerpt_image: https://www.yesmagazine.org/wp-content/uploads/2020/07/1.-immigrant-farm-workers.jpg
+image: https://www.yesmagazine.org/wp-content/uploads/2020/07/1.-immigrant-farm-workers.jpg
+---
+
+### Challenges in Finding Local Workers
+As a farm owner in Alabama, my dad has struggled for years to find reliable local workers. While unemployment remains high in our area, Americans are unwilling to consider farm jobs. One applicant openly told my dad the work was "too low" for her ambitions. Others stop showing up after just a few days, complaining the labor is too physically demanding. [Seasonal agricultural work](https://fistore.mysenprints.com/collection/alegre) simply does not interest many in our community.
+
+![](https://www.gannett-cdn.com/presto/2018/08/24/USAT/2fa76e0c-2971-499c-971f-5633130926be-migrant_farm_workers.JPG?crop=1999,1124,x1,y188&amp;width=1999&amp;height=1124&amp;format=pjpg&amp;auto=webp)
+### Turning to Immigrant Labor 
+With no other option, my dad began hiring immigrant workers, mainly Mexicans without legal status. To his surprise, these individuals are remarkably hardworking and dedicated. A single immigrant can complete the work of two local hires. My dad provides transportation, above minimum wage pay, and lunch made from our crops. Still, some Americans see these jobs as beneath them. Immigrant workers fill an important need and are grateful for the opportunity.
+### Contributions of Immigrant Labor
+Immigrant workers, especially those without legal status, face numerous challenges. However, they power significant parts of the American economy, including agriculture. **Undocumented farmworkers** cultivate, harvest and package much of the nation's produce. They work long hours under difficult conditions to earn modest pay. Yet their labor is essential for providing affordable, high-quality food for all Americans. If immigration laws were reformed to establish a **guest worker program**, farms could rely on a steady workforce and immigrants would face less precarity. 
+### Health and Safety of Immigrant Farmworkers
+While immigrant farm laborers perform backbreaking toil, their wellbeing is often neglected. Lacking citizenship or permanent status, many are reluctant to report workplace injuries, hazards or wage theft for fear of retaliation. Communication barriers also hinder safety training delivered only in English. Improving health, safety and legal protections for **migrant agricultural workers** would benefit both individuals and the agricultural industry. Steps could include workplace safety programs in multiple languages, confidential hotlines and ensuring workers' compensation coverage regardless of immigration status.  
+### Finding a Balance Through Reform
+The current situation leaves farm owners, immigrants and citizens in an suboptimal state. American workers who desire farm jobs struggle to find stable employment. At the same time, immigrants take on dangerous jobs in exploitative conditions out of desperation. Policymakers must pursue broad immigration reform that strengthens border security while establishing an equitable system for agricultural **guest workers**. Their contributions to the food supply deserve recognition and protection through improved worker programs and modernized visa categories. With sensible changes, all could benefit from this essential economic relationship.
+### Impact of Xenophobic Rhetoric 
+Unfortunately, the immigration debate has grown needlessly toxic in recent years. Negative rhetoric depicting immigrants as threats has real consequences, including for farm regions reliant on foreign-born labor. Harsh anti-immigrant policies like arrests at worksites disrupt agricultural production and increase costs. They also make immigrant communities afraid to report abuses or access vital services. As farmers across the nation face challenges hiring local workers, leaders must choose a pragmatic approach over divisive xenophobia. Our food security and rural economies depend on compromise and humane policies toward all people, regardless of origin.
+### Toward a Shared Future of Opportunity and Protection
+At its best, the American dream promises opportunity and dignity for people of every background. Fulfilling this vision requires that we recognize the humanity in each individual, including immigrant farmworkers. Through modernizing visa programs, enforcing fair labor standards and inclusive community approaches, rural areas can both support farmers and welcome newcomers. With openness, understanding and bipartisan solutions, we can build an agricultural workforce with adequate wages, security and rights for all. Our shared future depends on recognizing that stability and prosperity increase when we see beyond borders to our common hopes.
+![The Importance of Hiring Immigrant Workers on Farms](https://www.yesmagazine.org/wp-content/uploads/2020/07/1.-immigrant-farm-workers.jpg)

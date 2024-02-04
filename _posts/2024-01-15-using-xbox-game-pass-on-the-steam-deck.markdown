@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Using Xbox Game Pass on the Steam Deck"
+date: 2024-01-15 16:01:52 +0000
+categories: "Gaming"
+excerpt_image: https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/how-to-get-xbox-game-pass-on-steam-deck-1.jpg
+image: https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/how-to-get-xbox-game-pass-on-steam-deck-1.jpg
+---
+
+### Streaming Cloud Games
+As the Steam Deck is not running Windows, [Xbox Game Pass for PC titles](https://store.fi.io.vn/west-coast-rappers-hip-hop-hood-security-fashion-rottweiler-1) will not natively run on the device. However, Xbox Game Pass Ultimate subscribers have the option of streaming supported games via **Xbox Cloud Gaming**. By accessing the Xbox Cloud Gaming website through the built-in web browser like Microsoft Edge, users can stream over 100 games directly to their Steam Deck. 
+Streaming cloud games allows subscribers to play a large library of titles without needing to install anything or worry about storage space. Games are rendered remotely on Xbox hardware and streamed as high-quality video to the Steam Deck. The experience depends on internet speeds, but for many locations streaming performs well over WiFi with minimal latency. Subscribers can jump right into games like Halo Infinite, Forza Horizon 5, or Microsoft Flight Simulator from their Steam Deck browser.
+
+![](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/how-to-get-xbox-game-pass-on-steam-deck-body.jpg)
+### Controls and Interface 
+While the streaming interface and controls were designed for touchscreens, the Steam Deck functions quite well. The face buttons map accurately to an Xbox controller, though the triggers are shaped like PlayStation ones. With a little practice, games play smoothly. Some titles like platformers may benefit from remapping the right touchpad as a mouse joystick.
+The streaming interface is simple to use on the smaller Deck screen as well. Menus are touch optimized and scaling looks good. Game libraries, recent titles, and the storefront browse and load without issue. **Xbox Cloud Gaming on Steam Deck** provides a surprisingly cohesive experience despite the different ecosystems.
+### Windows Installation Drawbacks
+One option is installing Windows to natively run **Xbox Game Pass for PC games**. However, there are significant drawbacks to removing SteamOS. Battery life takes a major hit, sometimes cutting in half with a full Windows installation. Performance also decreases compared to the lightweight SteamOS.
+Installing Windows removes Valve's custom optimizations for the Deck's unique hardware. Features like dynamic frequency scaling, runtime power management, and default controller configurations will be lost. Extra work is needed to configure things like fan curves and get similar battery longevity. Games may encounter Proton/compatibility issues as well on Windows instead of SteamOS.
+Overall, installing Windows is not recommended for most users hoping to leverage their Game Pass libraries on the Steam Deck. The streaming option provides a better experience overall suited for the portable device. A Windows install makes more sense if also using the Deck as a home console and wanting access to games unavailable on Xbox Cloud Gaming.
+### Subscription Requirements 
+To access cloud streaming and the full suite of Game Pass benefits, a subscription to **Xbox Game Pass Ultimate** is required. The premium membership costs $14.99/month but provides access to over 100 high-quality games along with online multiplayer and exclusive discounts. For users primarily playing on their Steam Deck, the value of the service depends on other owned platforms as well. 
+If a gaming PC or Xbox console is also in regular use, Game Pass Ultimate unlocks the full potential of the subscription across devices. But for Steam Deck-only players, the streaming-only access may not be compelling enough to justify the monthly cost long-term versus purchasing favorite games instead. Potential subscribers should weigh their other gaming options before committing solely for Deck compatibility.
+### Regional Availability 
+Another factor is the availability of **Xbox Cloud Gaming** in specific regions. The streaming technology has not fully rolled out worldwide yet and remains limited in some areas. Before paying for a subscription, potential subscribers should confirm their country is supported. The service currently works best in major markets like the US, UK, parts of Europe, and select areas of Asia and Latin America. 
+Expanded regional coverage is an ongoing goal for Microsoft. As 5G networks improve globally as well as in-home internet, more remote and rural regions should gain access over time. But for now, international Deck owners interested in streaming games via their device will need to validate cloud gaming compatibility where they live. This regional limitation is one drawback to relying only on streaming for Game Pass access on Steam Deck currently.
+### Controller Considerations
+While the built-in controls work reasonably well, some games may play better with a traditional Xbox controller connected to the Deck via Bluetooth or USB. Titles made for console that require dual analog sticks, rear triggers/bumper buttons, or other standard controller inputs could have a smoother experience.
+**Xbox One or Series controllers** pair easily to the Deck for those wanting a premium setup for their cloud gaming sessions. An external battery pack ensures the wireless controller doesn't run low alongside the Deck's battery during extended play sessions. Carrying both a controller and power bank expands Game Pass functionality and provides more flexibility versus only the Deck's integrated controls.
+### Should You Use Game Pass on Your Steam Deck?
+For many Steam Deck owners, **Xbox Game Pass** via cloud streaming is a great supplemental option to enjoy their growing game libraries on the go. The integrated browser experience works well enough considering streaming was not a primary design goal. With a subscription, travelers, commuters and others away from home PCs gain portable access to over 100 titles.
+However, expecting Game Pass alone to be the primary gaming use case on Deck may not align well currently due to regional gaps, reliance on steady high-speed connections, and requirement of the premium Ultimate subscription tier. Those hoping for full native software support are better off installing Windows—but gain and lose some functionality in the process versus SteamOS. 
+In conclusion, Game Pass pairs nicely with the Steam Deck as an additional perk rather than standalone focus. Factor in personal gaming habits, other devices owned, and streaming availability before committing solely to the service on Valve's handheld. For the right player, it enhances the portableDeck experience immensely.
+![Using Xbox Game Pass on the Steam Deck](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/how-to-get-xbox-game-pass-on-steam-deck-1.jpg)

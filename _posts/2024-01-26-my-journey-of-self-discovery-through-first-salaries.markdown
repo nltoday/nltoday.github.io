@@ -1,0 +1,24 @@
+---
+layout: post
+title: "My Journey of Self Discovery Through First Salaries"
+date: 2024-01-26 20:39:10 +0000
+categories: "Personal finance"
+excerpt_image: https://manifestsecret.com/wp-content/uploads/2019/10/maxresdefault.jpg
+image: https://manifestsecret.com/wp-content/uploads/2019/10/maxresdefault.jpg
+---
+
+My journey of self-improvement and discovery through the experiences of my first salaries starting from odd jobs during childhood all the way to my current career. Each new chapter taught me valuable lessons that have helped shape who I am today.
+## Picking Up Trash and Learning Life's Lessons 
+As a young 11-year old boy craving adventure and financial independence, I took on a summer job as a "beachcomber" walking the Long Beach shoreline picking up trash. Though tedious work, it was during these mornings that I bonded with other kids from less privileged backgrounds and gained an appreciation for the struggles they faced. I was saving for college while they had given up on higher education being a reality. I especially remember **Injun**, a storytelling 15-year old, and **Pop** our supervisor who later struggled with drugs and crime. Receiving my first paycheck of $15 and banking most of it while keeping $1 as Uncle Scrooge had inspired taught me the value of savings at a young age.
+## Gifting Joy With Early Earnings
+My first stipend of ₹5000 from a training program was a meaningful milestone. I was eager to bring happiness to those closest to me. I purchased a **check Blue shirt** for ₹1499 for my father who I wanted to see wearing branded clothes. The joy it brought him was unmatched. A ₹3499 **saree** for my mother that she proudly wore filled me with pride. The family dinner my mother cooked to celebrate was the perfect way to mark the occasion surrounded by loved ones. Sometimes the smallest gestures can create the most cherished memories.  
+## Commuting Convenience Through Vehicle Rentals
+In my second job, mobility was crucial as I commuted daily but did not yet own a car. I wisely used the earnings to rent a vehicle for three months at a cost that allowed reliable transportation. Reliable transportation opened doors to more opportunities and greater earning potential down the line. The rental served it's purpose until I was able to upgrade. Investing in assets that enable career progression has continued to pay dividends.
+## Rumbling Down the Road in a Used Car
+By the third job, I had saved enough from prior earnings to purchase a used car, my first personal vehicle. Though not flashy, the reliable wheels gave **independence and flexibility** to map my own schedule. No longer tethered to public transportation timetables, I efficiently juggled responsibilities. Being able to fulfill commitments freely built **confidence and reputation** in the professional sphere. My upgraded mobility boosted career momentum.  
+## Driving in Style With a Brand New Car  
+As experience and salary climbed in the fourth job role, I treated myself to a gorgeous new car. Parking in the gleaming vehicle each day instilled **pride and status**. Speeding down the freeway while jamming to music, the wind in my hair, filled me with **youthful exuberance**. Family road trips created treasured moments of bonding. Reliable transportation in a nice ride aligned my lifestyle with the career path I aspired towards.  
+## Luxury on Wheels
+By the fifth career milestone, I splurged on an even higher-end luxury vehicle. Sliding into buttery leather seats while the powerful engine purred defined the **pinnacle of indulgence and success**. Peering out from tinted windows at scenic overlooks with a lover enhanced romance. Cruising with friends generated envy and **elevated social standing**. The premium whip symbolized all I had achieved and the heights yet to reach. It fueled continued striving.
+## Living the Dream With Home Ownership
+All of those career stepping stones and wise investments in myself had paid off in securing my dream job with a salary supporting home purchase. I celebrated closing on a charming house with a **double garage to park my prized rides** in style. Cooking pizza to reminisce about simpler times and all that led to this moment of achievement brought the full circle quite satisfyingly. Never could my childhood self imagine all that lay ahead when embarking on that first job picking up trash on the beach all those years ago. Each phase taught invaluable business, finance, relationships and life lessons that helped shape the successful person I am today still growing each day. My first salaries were the starting point of a meaningful adventure of self-betterment still unfolding.

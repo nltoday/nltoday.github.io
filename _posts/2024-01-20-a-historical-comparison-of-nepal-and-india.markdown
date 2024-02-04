@@ -1,0 +1,23 @@
+---
+layout: post
+title: "A Historical Comparison of Nepal and India"
+date: 2024-01-20 19:24:41 +0000
+categories: "History"
+excerpt_image: https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2016/09/Nepal-India.jpg
+image: https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2016/09/Nepal-India.jpg
+---
+
+### Ancient Civilizations
+The Indian subcontinent has been home to ancient civilizations dating back thousands of years. One of the earliest and most advanced was the [Indus Valley Civilization](https://fistore.mysenprints.com/collection/agudelo), which flourished between approximately 2600 BCE to 1900 BCE. Located in what is now northwestern India and eastern Pakistan, the Indus Valley Civilization established large urban settlements with advanced planning and civil engineering. They developed new techniques in metallurgy and trade. While the Indus Valley Civilization declined around 1900 BCE, it represents an important phase in early Indian history. 
+Around the 3rd century BCE, the **Maurya Empire** rose to power in northern India. Founded by Chandragupta Maurya in 322 BCE, the Maurya Empire controlled most of the Indian subcontinent. It was one of the largest empires in ancient India and adopted Buddhism under the rule of Ashoka the Great in the 3rd century BCE. The period is notable for Ashoka's patronage of Buddhism and establishment of Dharma.
+
+![](http://drishtiias.com/images/uploads/1659940059_India_nepal_relations_Drishti_IAS_English.png)
+### Early Kingdoms in Nepal
+Nepal also has a long history dating back thousands of years. The earliest inhabitants were Tibeto-Burman people who established settlements in the Kathmandu Valley as far back as 2000 BCE. From roughly the 3rd century BCE to the 9th century CE, the area was ruled by the **Licchavi dynasty**, which developed Nepal's first recorded civilization in the valley. Under the Licchavis, the valley flourished as a center of culture, art, and new architectural styles. Many iconic landmarks like the Swayambhunath Stupa and Pashupatinath Temple were constructed during this era. 
+In subsequent centuries, Nepal transitioned under the rule of the **Malla dynasty** from the 10th century CE to the 18th century CE. The Mallas expanded Nepal's territories and made the Kathmandu Valley a hub for fine arts, culture, religion, and foreign influences like Hinduism and Buddhism. Iconic monuments from this era include the Bhaktapur Durbar Square. Meanwhile, India saw the rise and fall of powerful empires like the Gupta Empire between 320-550 CE, which ushered an influential period in philosophy, mathematics, astronomy, and art across the subcontinent.
+### The Modern Era 
+The **Kingdom of Nepal** officially formed on September 25, 1768 CE under King Prithvi Narayan Shah, who conquered the three rival city-states of Kathmandu, Patan, and Bhaktapur. He established Kathmandu as the capital and centralized control over the region. India experienced changing foreign rules over subsequent centuries, including Mughal domination from 1526-1857 followed by British colonization from 1857-1947 as the British Raj.  
+The modern countries of Nepal and India officially emerged in their current forms in the mid-20th century. Nepal remained an independent monarchy while India gained independence from Britain on August 15, 1947 as a **dominion** under the British Commonwealth. India adopted a democratic constitution and became a sovereign republic in 1950. In 2008, Nepal also transitioned to a federal **republic** and adopted its own democratic constitution.
+### Comparing Historical Timelines
+While both Nepal and India have histories spanning thousands of years, it is difficult to directly compare their formation as modern nation states did not emerge until the 20th century. Nepal was officially established as the Kingdom of Nepal in 1768 under King Prithvi Narayan Shah, while India gained independence as a dominion in 1947 and became a republic in 1950. Using these official establishment dates, Nepal has existed as an independent nation state for 178 years longer than India. However, both countries are rooted in much deeper ancient civilizations and cultural heritages that developed across the subcontinent for millennia.
+![A Historical Comparison of Nepal and India](https://thehimalayantimes.com/uploads/imported_images/wp-content/uploads/2016/09/Nepal-India.jpg)

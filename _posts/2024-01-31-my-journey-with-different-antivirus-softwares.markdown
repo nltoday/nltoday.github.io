@@ -1,0 +1,25 @@
+---
+layout: post
+title: "My journey with different antivirus softwares"
+date: 2024-01-31 11:36:25 +0000
+categories: "Tech"
+excerpt_image: https://expertinsights.com/insights/wp-content/uploads/2021/08/The-Top-10-Antivirus-Software-For-Small-Businesses.001.png
+image: https://expertinsights.com/insights/wp-content/uploads/2021/08/The-Top-10-Antivirus-Software-For-Small-Businesses.001.png
+---
+
+Malware and viruses have become a serious threat to online security in recent years. As more people use computers and connect to the internet, cybercriminals find newer ways to exploit systems and steal sensitive data. Antivirus software helps protect devices and networks from such threats. However, not all antivirus are equally effective. In this article, I share my personal experience with different antivirus brands and how they performed during real-world usage.
+### Understanding malware threats
+When I worked as a senior malware analyst, part of my job was to download virus samples from established antivirus vendors like [Quickheal virus definitions databases](https://store.fi.io.vn/chihuahuas-santa-christmas-tree-lights-funny-xmas-pajama-boys-426-chihuahua-dog) and study their behavior and payload. Many so-called antivirus are simply frontends to databases from top brands. They add some basic signatures of their own but the core detection relies on others. One such company I analyzed **failed licensing certification** for several years despite relying heavily on others. Working there revealed poor company practices and an **unorganized work culture** that failed to prioritize security.
+
+![](https://topstuf.com/wp-content/uploads/2019/11/Best-Antivirus-Software-1536x864.jpg)
+### Bitdefender excels in detection and performance 
+After leaving that company, I tried various paid antivirus on my personal systems to find one with **strong malware protection** and minimal impact on performance. **Bitdefender antivirus** stood out in offering excellent detection rates while running smoothly in the background. Major brands often have bloated software that slows down PCs over time. But Bitdefender integrated seamlessly without hogging resources. Its lightweight scanning helped maintain **optimum system responsiveness**. Plus, automatic updates ensured protection against the latest malware variants.
+### Free antivirus come with risks
+Many opt for **free antivirus software** like Avast, AVG or Kaspersky's free version to save money. However, these often come with significant downsides compared to paid solutions. Free tiers have limited features, rely on outdated signature databases, and display overly intrusive ads. Some even **surreptitiously collect user data** for commercial purposes without clear consent. While initial detection may seem adequate, long-term security suffers from such limitations. Premium versions address these issues through regular signature updates and more transparent policies.
+### User awareness remains key to security 
+No antivirus is 100% foolproof. Even the best programs can be tricked by new zero-day threats or well-crafted social engineering attacks. That's why **practicing safe online habits is equally vital for protection**. Downloading only from trusted sources, avoiding risky links, and applying common sense regarding personal data sharing all contribute to security. Antivirus act as the first line of defense, but education prevents many infections from ever occurring in the first place. With careful browsing combined with a top-rated paid solution like Bitdefender, one can securely access the internet without constant security worries.
+### Formatting clears persistent malware thoroughly 
+For stubborn infections beyond detection, reinstalling the OS through formatting sometimes becomes necessary. When working as a malware analyst, I often encountered cases where malware sneaked past antivirus using advanced cloaking. Formatting wiped the entire disk, ensuring removal of any **persistent or hidden threats** along with associated registry entries and startup items. A clean installation also offered a fresh start with patches and definitions updated to the latest versions. Of course, this should only be a last resort after exhaustive troubleshooting through other means to avoid data loss whenever possible.
+### Keeping systems protected going forward
+My experience testing various antivirus highlighted key factors for maintaining long-term security. Relying on **signature-based detection alone** leaves gaps over time, so reputed brands like Bitdefender leverage multiple scan techniques. Free antivirus inadequately protect users by limiting features and transparency. Most importantly, individual awareness in terms of safe digital habits plays a crucial supporting role to any security software. Going forward, I plan to keep using Bitdefender along with practicing cyber awareness to safely enjoy all the internet has to offer.
+![My journey with different antivirus softwares](https://expertinsights.com/insights/wp-content/uploads/2021/08/The-Top-10-Antivirus-Software-For-Small-Businesses.001.png)

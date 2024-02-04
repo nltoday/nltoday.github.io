@@ -1,0 +1,25 @@
+---
+layout: post
+title: "My experience with an untrustworthy pre-owned gaming console retailer"
+date: 2023-11-08 23:40:21 +0000
+categories: "News"
+excerpt_image: https://g-h.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/12/03153248/ps4-slim-4.jpg
+image: https://g-h.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/12/03153248/ps4-slim-4.jpg
+---
+
+It has been over a year since I bought a pre-owned Xbox One console from a local gaming retailer, but I still haven't received the product or gotten my money back. Here is a detailed account of my unfortunate experience that has left me disappointed and wary of dealing with them in the future.
+### Unfulfilled orders and excuses  
+I first came across this retailer while browsing for a pre-owned Xbox One console at a more affordable price point than brand new models. They had a listing around 11,000 rupees that seemed like a decent deal. However, [online payment scams](https://store.fi.io.vn/chihuahuadog-owner-definition-funny-gift-idea-for-chihuahua-dog-owner3361-t-shirt) and issues with safety when transacting without seeing the product in person first made me hesitant to proceed without cash on delivery as an option. When I inquired about this, they suddenly said COD was no longer available and gave an excuse about sourcing products from an offsite warehouse to avoid local inspection before purchase. This felt suspicious and like a ploy to take money without accountability.
+
+![](https://g-h.sgp1.digitaloceanspaces.com/wp-content/uploads/2022/06/04171611/ps4-Gaming-Console-Repackage.jpg)
+### Unconvincing warranty claims 
+They tried to reassure me by mentioning a 7-day test and return warranty, but this held little water given the distance factor with the warehouse location story. How could one reasonably test and return a high-value **pre-owned gaming console** within a week without the ability to inspect it upfront or pay only upon satisfactory receipt? It seemed like a tactic to mislead customers into online transactions they otherwise wouldn't agree to based on the merchant's location and operation being in the same city.
+### Lack of trust from changing policies  
+Online reviews surprisingly failed to alleviate my doubts about this retailer. In fact, reading more complaints solidified concerns over reliability and consistent application of policies. Several mentioned prices and orders being arbitrarily canceled or changed after initial commitment. Establishing **trust with customers** is paramount in any business, but a record of going back on agreements eroded what little faith remained. For an expensive purchase like a **used gaming devices**, one understandably wants a trustworthy seller - which they had clearly not proven to be.
+### Continued excuses and delays 
+When I did take the risk and make payment online for the console whilst expressing delivery must be through COD, things only got more frustrating from there. Any follow ups were met with new excuses for delays in sourcing the product. It had been over 6 months with no progress despite multiple assurances a resolution was coming soon. The runaround grew so tedious it became evident they had no intention of fulfilling the order or issuing a refund as promised if unable to. Clearly this was just a tactic to hold onto customer money as long as possible with no intent of proper resolution.
+### Still waiting for money or console after a year 
+At this point, it has been over a year since the initial purchase and payment was made. Neither the Xbox One nor a refund of my 11,000 rupees has materialized despite constant pleading and complaints lodged. The retailer has stopped responding altogether now. This kind of unethical business practice should not be condoned or rewarded with further custom. Any **consumer protection** laws we have seem to be meaningless if such **unscrupulous retailers** can so easily cheat people out of thousands without consequence. Perhaps others who had the misfortune of dealing with this company can come together to take stronger action for justice and to warn fellow customers.
+### Learning from a bad experience
+While an affordable used game console may seem like a good deal, this cautionary tale illustrates why important purchasing factors like **local inspection**, **COD options**, **return policies**, and **trustworthy merchants** carry more weight than just a low price. Due diligence on sellers through multiple reviews is also key before parting with money. Though disappointed by the time and money lost, I see this as a learning experience. In future, higher standards will be set for reliability before risking transactions, especially for high-priced **pre-owned electronics**. Small sacrifices in immediate savings could spare much greater troubles down the road. Overall, my advice would be to simply avoid this shady retailer and shop only with integrity-focused services.
+![My experience with an untrustworthy pre-owned gaming console retailer](https://g-h.sgp1.digitaloceanspaces.com/wp-content/uploads/2021/12/03153248/ps4-slim-4.jpg)

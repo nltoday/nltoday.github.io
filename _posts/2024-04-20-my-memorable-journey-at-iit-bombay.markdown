@@ -1,0 +1,40 @@
+---
+layout: post
+title: "My Memorable Journey at IIT Bombay"
+date: 2024-04-20 14:44:46 +0000
+categories: "News"
+excerpt_image: https://resize.indiatvnews.com/en/resize/oldbucket/715_-/mainnational/Know-the-succes35299.jpg
+image: https://resize.indiatvnews.com/en/resize/oldbucket/715_-/mainnational/Know-the-succes35299.jpg
+---
+
+### The Freshman Year 
+As a fresh graduate entering IIT Bombay for the first time, there were many questions swirling in my mind. How difficult would the academics be? How strict would the professors be? Who would my batchmates be? But the most frequent question was - how many [beautiful girls](https://store.fi.io.vn/best-chihuahua-dad-ever-retro-vintage-sunset6832-t-shirt) would there be in my class given the notoriously low girl to boy ratio. 
+On the first day, I took the lift to the 4th floor where my class was scheduled. In the lift was the **most gorgeous girl** I had ever seen. We both got off on the same floor and I prayed she would be in my class. To my dismay, she turned out to be a PhD student and teaching assistant, shattering all my hopes. The loneliness of not having a roommate to talk to and the dreary hostel facilities like the untidy mess and cramped living quarters didn't help matters either. My freshman year was off to a rough start.
+
+![](https://i.ytimg.com/vi/QH2K-9V0oNw/maxresdefault.jpg)
+### Exploring The New Environment
+In the evening of that first day, I ventured out of the IIT campus into the city of Varanasi for the first time. The congested roads, hot summer weather and rather hostile demeanor of the local people came as a bit of a culture shock. The ghats along the Ganges river too appeared quite dirty and unappealing. I returned to my hostel feeling sad, switched off the lights and went to bed wondering how I would survive the next few years in this unfamiliar place. 
+Over the next few months, I tried getting accustomed to the new academic rigors, social dynamics and living arrangements. While the **coursework proved challenging**, interactions with batchmates and seniors helped ease the transition. Weekend trips outside campus and informal gatherings in the hostel common room also provided some relief from the pressures of studies. Slowly, bits of comfort emerged amidst the unfamiliar settings.
+### Forming New Bonds
+By the end of the first year, a sense of community had started to take shape. Casual friendships blossomed into close-knit groups. Our **motley crew** would spend hours together in the mess, grounds or each other's rooms discussing everything under the sun. Competition for academic excellence gave way to camaraderie and one-upmanship through playful banter. Seniors too played the role of friends, philosophers and guides, helping the freshmen adjust. 
+Hostel life taught valuable life lessons beyond textbooks - from coping with limited living spaces to navigating diverse personalities under one roof. Enduring the unfamiliar and unpredictable together enriched our bonds with resilient memories. While academic rigors lingered, an emotional support system had emerged to bear its brunt collectively. 
+By the time of farewell, newcomers had evolved into a fraternity, proud of our collective triumphs and growth at the institute over the past year. The journey so far reinforced my decision to brave the initial struggles - all for a rewarding experience at the prestigious IIT Bombay.
+### Riding The Crest Of Change
+The sophomore year brought fresh sets of challenges and opportunities. Higher level courses required more focused preparation. With basics behind us, the scope for innovative projects and extracurricular roles widened. Personalities too evolved as inhibitions loosened within close-knit circles. 
+Bonds with batchmates and seniors had ripened into deep friendships by now, always ready to lend support during difficult times. Weekends were less about seeking escapes and more about creating **joyous memories through shared adventures**. Academically, grasping higher concepts became less daunting with peer-led discussions and mutual problem-solving. 
+Motivation remained high through healthy competition within the cohort. Rising to academics was joyous when achievements felt like victories for the entire clan rather than lonely sprints. With each passing term, we grew surer and prouder of our ability to meet upcoming challenges as a united force. Confidence blossomed from the safety of strong inter-dependencies nurtured over the past 18 months.
+### Crafting Lasting Impressions 
+The third year opened doors to serious experiential learning through projects, research and leadership roles. With core subjects behind us, specialization allowed deep diving according interests. I chose entrepreneurship and worked on launching student-run initiatives. 
+Managing diverse teams while balancing academics tested time management to the limits. Yet high stakes delivered great highs, from winning ideas to executing grand campus events. Leading by example shaped many **unforgettable memories** and learning experiences. 
+Our close-knit friend circles too expanded to include juniors who looked up to us. Mentorship brought satisfaction of passing on wisdom gained over the years. Close bonds survived even across batches with visits during festive occasions and achievements. Nostalgia for freshman innocence mingled with pride in our evolved capabilities.
+With graduation on the horizon, focus was on securing good placements, higher education or starting up. Yet mindspace was also devoted to documenting fleeting moments through photos and mementos, conscious of their importance to memories of studenthood.
+### Revisiting Roots  
+Occasional trips back home introduced perspective on our campus journey. While family and old friends remained unchanged, we had undergone remarkable growth from wide-eyed freshers to more worldly individuals. Reconnecting reaffirmed how much the past few years of balanced exposure to academics, peer influences and responsibilities had enriched our personalities. 
+Being away also helped appreciate small-town familiarity and parentally-sheltered routines missed on campus. Yet yearning to return reinforced how IIT had become a 'home' offering fulfillment through multidimensional learning and relationships. Bonds with batchmates had become as dear as kinship.  
+Recharging batteries through brief sojourns reinforced gratitude for support systems on both ends enabling my continued success. It lit a fire to make the most of remaining time and deliver on dreams in their memory after campus. Simultaneously, it nurtured awareness to stay rooted even in relentlessly evolving times through ties with origins.
+### A Chapter Coming Full Circle
+The final year brought mixed feelings of excitement, nostalgia, gratitude, sadness and anticipation. Revisiting memories through photos and chance encounters reinforced learnings from each phase of our journey. Savoring last moments together intensified bittersweet projections about life post-campus. 
+Academically, research and higher-level projects brought satisfaction of full-circle moments where we applied collective wisdom gained. The culmination felt like a graduation not just from studies but a holistic experience shaping us into well-rounded individuals. We were now better equipped to handle complex real-world challenges through both hard and soft skills acquired.
+Special farewell rituals with batchmates, juniors, professors and staff who played significant roles evoked rollercoaster emotions. While moving on felt right, it also meant bidding adieu to a place housing some of the most defining years. Promise of reunion failed to mitigate the finality of that last goodbye.  
+Yet, confidence in the foundation laid through four impactful years reinforced readiness to embark on the next chapter. The future seemed less daunting with abilities honed over years of triumphs, failures and togetherness at our alma mater, IIT Bombay.
+![My Memorable Journey at IIT Bombay](https://resize.indiatvnews.com/en/resize/oldbucket/715_-/mainnational/Know-the-succes35299.jpg)

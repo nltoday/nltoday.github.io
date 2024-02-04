@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Grief, Loss and Finding Strength Through Hard Times"
+date: 2024-04-21 08:20:29 +0000
+categories: "Confessions & stories"
+excerpt_image: https://images.squarespace-cdn.com/content/v1/598d10393e00bedb012df101/1507584496272-Y666QX6THD6HMQE6GHBU/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Grief+never+ends.+But+it+changes.+It’s+a+passage%2C+not+a+place+to+stay.+Grief+is+not+a+sign+of+weakness%2C+nor+a+lack+of+faith.+It+is+the+price+of+love..png
+image: https://images.squarespace-cdn.com/content/v1/598d10393e00bedb012df101/1507584496272-Y666QX6THD6HMQE6GHBU/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Grief+never+ends.+But+it+changes.+It’s+a+passage%2C+not+a+place+to+stay.+Grief+is+not+a+sign+of+weakness%2C+nor+a+lack+of+faith.+It+is+the+price+of+love..png
+---
+
+### Reflecting on Loss  
+My brother's passing was unexpected and left a hole in my life that nothing could fill. Though the pain had faded over the years, visiting his grave still stirred up difficult emotions. One day, as I drove by the cemetery, I saw my father standing by my brother's memorial [weeping in silent grief](https://store.fi.io.vn/hurt-my-chihuahua). His anguish cut me deeply, a reminder that loss never fully releases its hold. 
+
+![](https://whatsyourgrief.com/wp-content/uploads/2015/02/10486138_582241381909070_7559370446355538005_n.jpg)
+### A Father's Private Sorrow
+Dad rarely spoke of his feelings, but seeing him there revealed depths of pain I could never have imagined. When I called out, he disconnected, overwhelmed by **raw emotion too powerful for words**. Later we talked, and he shared his private struggles with **guilt and self-blame** for not protecting his son. As a parent, failing to keep a child safe is the darkest fear, and that wound would never fully heal. 
+### Finding Solace in Memories  
+While nothing eased the ache of absence, remembering happy times together gave **comforting solace**. Looking at old photos brought smiles, and keeping my brother's clothes and belongings nearby preserved snippets of his **presence and personality**. Telling stories kept his spirit alive in our hearts. Though the future seemed bleak without Dad's guidance, revisiting happier days fueled determination to fulfil the **dreams he had for my future success**.
+### A Daughter's Strength and Resolve       
+When cancer threatened my father, practical plans eased anxieties about providing for our family. But overhearing their private conversation revealed depths of loving sacrifice I've striven daily to honor. Carrying on with **education and career goals** has kept his faith in me burning bright. Some days the void left by two beloved losses feels crushing, yet their memories lift me up **with courage and comfort** to face each new challenge. 
+### Finding Purpose Through Adversity
+All families face hardships, yet every difficulty also presents opportunities. For me, loss sparked resolve to make the most of each moment and embrace life with gratitude, compassion, and purpose. When others struggle with private sorrows, a kind word or listening ear brings comfort. And in troubling times, remembering how strength can emerge **from pain and perseverance** gives hope that light will come again.
+### Renewed Closeness After Shared Grief      
+That chance meeting at the cemetery brought Dad and I unexpected comfort in knowing we weren't alone in our lingering sadness. Opening up allowed sharing memories that still gave both joy and heartache. Realizing another grieved as deeply brought solace in **mutual understanding**. Our talk reminded that families can reconnect through honesty about even their darkest private thoughts. And knowing one another at that deep level created bonds to endure all life sends our way.
+### Looking Toward the Future with Hope
+While the past holds scars that will never fully fade, each new day offers promise. Both my father and brother would want their loved ones moving forward, embracing all life offers rather than dwelling in shadows of what was lost. Their memories will always walk beside me, infusing strength and laughter into each step. And carrying others who struggle reminds us all that **hope, healing and happiness** can be found even when darkness seems deepest, if we walk together toward the light.
+![Grief, Loss and Finding Strength Through Hard Times](https://images.squarespace-cdn.com/content/v1/598d10393e00bedb012df101/1507584496272-Y666QX6THD6HMQE6GHBU/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmN9YSRtfoTLg6dUq-6F17A0FFZK5fArcnK1IqGweyunyWChwIwkIJ_P7MaZif-uMs/Grief+never+ends.+But+it+changes.+It’s+a+passage%2C+not+a+place+to+stay.+Grief+is+not+a+sign+of+weakness%2C+nor+a+lack+of+faith.+It+is+the+price+of+love..png)

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Updating from Ubuntu 18.04 to 20.04: A Step-By-Step Guide"
+date: 2024-02-01 11:45:45 +0000
+categories: "Home improvement"
+excerpt_image: https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh3.googleusercontent.com/60nTenMLwQp8XFI3csVV_7YuvHG_9DG4Hu8cO444ySzOgYpy4SPiiTQTaR4gTZjoFsxIlMroL3pgsLgTHvyogYu7GhisnPH8wkvoiQoJzj5t9TnN9TL_Bb4Fkkxrl__Mvahsevpe
+image: https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh3.googleusercontent.com/60nTenMLwQp8XFI3csVV_7YuvHG_9DG4Hu8cO444ySzOgYpy4SPiiTQTaR4gTZjoFsxIlMroL3pgsLgTHvyogYu7GhisnPH8wkvoiQoJzj5t9TnN9TL_Bb4Fkkxrl__Mvahsevpe
+---
+
+### Recognizing the Need to Update  
+The current version of Ubuntu 18.04 has unresolved dependencies that could pose security risks if left unaddressed. Package managers are unable to reconcile conflicts between current and future versions. [Installing recommended updates would resolve dependency issues](https://store.fi.io.vn/collection/chihuahuas) and bring the system into compatibility with newer releases. However, some updates may require choices that could impact existing configurations. It's important to back up critical data before a major upgrade.
+
+![](https://www.addictivetips.com/app/uploads/2021/03/ubuntu-upgrading-fs8.png)
+### Preparing for the Upgrade
+Before initiating the upgrade process, it's essential to create a full backup of critical files and databases. This protects important data in case issues arise during installation. Remove unnecessary packages and scripts that aren't strictly required. Update all existing software to the latest versions using `sudo apt update && sudo apt upgrade`. Resolve any remaining package conflicts or errors at this stage. Test all applications and services to confirm everything functions as expected prior to upgrading. 
+### Understanding the Differences in Install Methods  
+A standard upgrade keeps all installed programs, files, and settings while updating to the latest version. In contrast, a fresh installation wipes the existing system and performs a clean install of the new release. Upgrades rely on code from the previous version, whereas fresh installs only contain code from the target release. If dependencies from 18.04 are missing in 20.04, an upgrade may fail where a fresh install would succeed.
+### Choosing the Upgrade Method
+For most users, an `in-place` upgrade directly from 18.04 to 20.04 using the package manager is the simplest approach. The installer automatically migrates configurations and retains documents, applications, and settings. However, if past upgrade attempts failed, a fresh install ensures all required components for 20.04 are present. **Either method should recognize a prior Ubuntu installation** and integrate seamlessly during setup. Downloading the 20.04 ISO only saves marginal time over lettings the upgrade continue in-place.
+### Performing the Upgrade  
+To start the upgrade, open a terminal and enter `sudo do-release-upgrade` to begin. The system fetches release information and checks for compatibility. If eligible, it performs any required preparatory steps then downloads and installs needed update packages. Reboot on completion to switch to the new version. Monitor the process and address any prompted choices carefully. Resolve conflicts by removing incompatible add-ons rather than keeping outdated dependencies. Review installed applications afterwards and remove unneeded 18.04 leftovers.
+### Final Setup and Validation
+After booting into Ubuntu 20.04, sign in and allow automatic configuration tweaks. Update all software packages again. Reinstall any applications removed previously and confirm they launch without issue. Test common tasks and verify hardware compatibility. Tweak settings as desired. Back up the new system as a precaution before using important applications or managing critical files. With initial setup complete, the system can now be used normally with the latest latest version of Ubuntu and continued security support.
+### Understanding Potential Issues
+While smooth for many, some upgrade attempts encounter difficulties. Common problems stem from incompatible proprietary drivers, non-standard configurations, or missing dependencies no longer present in newer releases. Reinstalling from the ISO avoids these by starting from 20.04's baseline. For upgrades, thoroughly testing applications beforehand helps flag potential conflicts. Having a recent, bootable system backup allows rolling back safely if serious issues emerge. With preparation and care, transitions between LTS releases are low-risk for standard, out-of-the-box Ubuntu systems.
+![Updating from Ubuntu 18.04 to 20.04: A Step-By-Step Guide](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_720/https://lh3.googleusercontent.com/60nTenMLwQp8XFI3csVV_7YuvHG_9DG4Hu8cO444ySzOgYpy4SPiiTQTaR4gTZjoFsxIlMroL3pgsLgTHvyogYu7GhisnPH8wkvoiQoJzj5t9TnN9TL_Bb4Fkkxrl__Mvahsevpe)

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Hiding Your Browsing History from Your ISP"
+date: 2023-11-13 12:02:04 +0000
+categories: "Tech"
+excerpt_image: https://i.ytimg.com/vi/c7_u4a9We4g/maxresdefault.jpg
+image: https://i.ytimg.com/vi/c7_u4a9We4g/maxresdefault.jpg
+---
+
+### Your ISP Can See More Than You Think
+Your internet service provider (ISP) has the capability to see and log more of your online activities than most people realize. While they cannot see the actual pages you visit when using HTTPS, they are still able to gather valuable data about your internet usage. For example, your ISP can see the IP addresses of all the hosts you connect to and track the amount of upload and download data associated with each connection. By default, they can also see all your DNS queries before they are encrypted unless you take additional steps. This data provides them insights into your [browsing patterns and online interests](https://fistore.mysenprints.com/collection/ahmadi).
+
+![](https://www.radio-ip.com/wp-content/uploads/2021/02/How-to-Keep-Your-Browsing-History-Hidden-From-Your-ISP.jpg)
+### Protecting Your DNS Queries is the First Step
+One of the most effective initial steps to take is changing your DNS settings. By default, most devices are configured to use the DNS servers provided by your ISP. This allows them to see all the domain names you look up. To avoid this, you should configure your devices to use public DNS servers that are more privacy-focused like **Cloudflare (1.1.1.1)**, Google (8.8.8.8), or OpenDNS. While this prevents your ISP from seeing the domains in your DNS queries, they still see the IP addresses you connect to. To further strengthen this, you should adopt **DNS over HTTPS (DoH)** which encrypts these lookups within an HTTPS connection. Popular browsers including Firefox and Chrome now support this natively. 
+### Hiding Hostnames with a VPN Provides Robust Protection
+To achieve the highest level of privacy and completely block your ISP from discerning your online activities, a VPN or virtual private network is the most effective choice. When connected to a VPN, all your internet traffic appears to your ISP as if it's going to the VPN server only. They cannot see individual hostnames, URLs visited, search queries entered or content transferred. Your ISP will see encrypted traffic to a single IP address only. Reputable VPN services have strict no-logging policies and ensure maximum online anonymity by not storing any usage logs that could later be linked to you. Choose a **logless VPN provider** for complete peace of mind while browsing privately.
+### Additional Mobile Privacy with Local VPNs and Firewalls  
+While using a VPN on your main devices at home provides robust protection, your mobile activity outside also deserves the same level of shielding. Local VPN apps allow you to encrypt all your mobile device's network traffic privately without relying on any third party. They function similar to a WiFi hotspot on your phone, with you as the only "client". You can also opt for mobile **firewall apps** to block specific programs or apps from accessing the internet without your approval. Combine them with a regular VPN for an added layer of safety when connected to less secure networks while on the move.
+### Logging Statistics Still Reveal Broad Usage Patterns
+Even with all the above precautions, it's important to note that your ISP will still see your devices connecting to the VPN server and be able to track general internet usage statistics. They can log things like total bandwidth utilization, connection and duration times that reveal patterns about your approximate online activity times without specifics. To minimize this, you should use a VPN during **all internet activity** for an untraceable digital footprint. Keep sessions as short as possible and avoid distinctive usage windows that can still be linked back to you based on time of day or duration. 
+### Be Cautious of "Free" VPN Alternatives
+While many free VPN services may seem like a budget-friendly solution, they generally lack the resources and incentives to prioritize user privacy and data security. It is difficult for them to implement strict no-logging policies without any ongoing funding. Most make money by collecting and selling users' browsing data. Opting for reputed **paid VPN providers** that have undergone independent audits gives confidence their claims of no- logs can be relied on. The small monthly fee is worth it for having an untraceable internet experience without any privacy or security compromises.
+### In Summary
+By default, your ISP can see a lot about your online activities like DNS lookups and connected IP addresses. Taking basic precautions like using public DNS servers and DoH already offers improved protection. But for complete hiding of browsing records and optimal online anonymity, connecting to a **trusted paid VPN** is undoubtedly the best approach. Combine it with local VPNs on mobile for comprehensive security anywhere on any device. While broadband usage patterns may still be visible, all specific domain names, URLs and content remain completely shielded from your ISP.
+![Hiding Your Browsing History from Your ISP](https://i.ytimg.com/vi/c7_u4a9We4g/maxresdefault.jpg)

@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Identifying the Original Question Asker on Quora"
+date: 2024-01-29 23:56:47 +0000
+categories: "Personal finance"
+excerpt_image: https://qph.cf2.quoracdn.net/main-qimg-30483bfaa7216397398e6970620a3783-pjlq
+image: https://qph.cf2.quoracdn.net/main-qimg-30483bfaa7216397398e6970620a3783-pjlq
+---
+
+## Tracing Question Authors 
+Quora is a question and answer website where users can ask questions and receive answers. While questions and their answers are publicly viewable, it is not always obvious who originally submitted a question. There are a few steps users can take to identify the account of the individual who first posed a query on the site.
+### Following the Breadcrumbs 
+When viewing a question page, look beneath the question text on the right side. There will typically be a small circle icon with either a lightning bolt or lowercase "i" inside. [Clicking the question log](https://fistore.mysenprints.com/collection/alcock) will take you to a page listing all activity related to that question, including any revisions or follow up questions. **Scroll all the way to the bottom** of this log to see the first entry, which will be labeled as the original question submission and include a linked profile name. This traces the question back to the profile of the individual who initially asked it. 
+
+![](https://qph.fs.quoracdn.net/main-qimg-f1ba0dbee0f438639649ec31cfc1604a-c)
+### Tracing Through Images
+For questions that are older or have received many answers, the log may become quite lengthy requiring significant scrolling. As an alternative, a screenshot can help provide a visual clue. Capturing an image of the question page will show the question text as well as any identifier icons beneath it. **Zooming in on this area of the screenshot and locating the small circle** can allow identification of the question log or information panel option without extensive scrolling through text on the actual site. From there, following the standard process of accessing the log and scrolling to the bottom reveals the original submitter.
+### Utilizing Outside Context
+In some cases, a question may have been posed publicly without providing many on-page clues about the asker. Here, outside context and inference can still potentially help identify the source. If the question details align with a particular user's documented areas of expertise or stated background and interests, it may be reasonable to associate them as the likely author. Their public profile page may then be referenced to confirm or deny this educated guess about question origination.
+## Applying Techniques Across Quora 
+With a bit of practice, the core techniques outlined above can be applied to **trace the authorship of most questions asked on Quora**. Taking a few extra steps to access question logs and scroll to the bottom entry normally shows the linked profile of the initial question submitter. For particularly long or older logs, a screenshot allows zooming in on identifying icons without extensive scrolling. And in rare cases without clear on-page clues, cross-referencing a query's subject matter against a user's stated background may offer educated guesses about the possible source. Mastering these approaches ensures Quora users, answerers and readers alike can consistently identify the profiles behind even the oldest questions on the platform when desired.
+### Additional Resources 
+For those seeking more in-depth guidance, Quora maintains a publicly available help center answering common user questions. A page on [viewing question details](https://help.quora.com/hc/en-us/articles/360002083973-How-do-I-view-details-about-a-question-) explains the standard process for accessing logs and finding submitter information at the bottom. Quora also offers a short video on [viewing question stats and logs](https://www.quora.com/q/quorahelp/How-do-I-view-stats-and-the-log-for-a-question) that visually demonstrates the steps involved. Together, these official resources provide additional explanation and examples to reinforce proper techniques for consistently tracing questions back to their original authors on Quora.
+## Exceptions to Standard Practices
+While the above methods generally allow identification of question submitters, there are some cases where standard practices may not apply. **Very old questions asked before current interface designs** may lack identifiable log access points or submissions entries. Additionally, if a question was posed anonymously without linking a public profile, the log would simply state "Anonymous" rather than a user profile. And in very rare cases involving alterations to the question itself, log entries or timestamps, the provenance could be obscured. However, for the vast majority of regularly asked questions across Quora, with a bit of practice the outlined techniques enable reliably tracing questions back to their original authors on the platform.
+### Supporting Question Attribution 
+Being able to reliably attribute questions to their original submitters supports open information sharing on Quora in several ways. It allows questioning users to be properly credited for sparking interesting discussions. It helps answering participants assess a question asker's background and intended context. And it permits readers to freely explore the public profiles of those posing different queries to gain more context on their interests and expertise. Overall, consistently applying best practices for tracing questions back to individual user accounts on Quora supports transparency and informed discussions across the site.
+![Identifying the Original Question Asker on Quora](https://qph.cf2.quoracdn.net/main-qimg-30483bfaa7216397398e6970620a3783-pjlq)

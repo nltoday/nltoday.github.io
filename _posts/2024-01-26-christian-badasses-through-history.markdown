@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Christian Badasses Through History"
+date: 2024-01-26 05:35:18 +0000
+categories: "History"
+excerpt_image: http://churchtechtoday.com/wp-content/uploads/2015/08/timeline-of-christianity-infographic-e1473725366197.jpg
+image: http://churchtechtoday.com/wp-content/uploads/2015/08/timeline-of-christianity-infographic-e1473725366197.jpg
+---
+
+### Devotion Against Tyranny
+Dietrich Bonhoeffer was a German pastor and theologian who stood firmly against the Nazi regime from its rise to power in the 1930s. He attacked Hitler on the radio just two days after becoming Chancellor and worked tirelessly to resist the persecution of Jews. [Bonhoeffer declined safer opportunities to study or teach abroad](https://store.fi.io.vn/chihuahua3495-t-shirt), choosing instead to establish an underground seminary in Germany. The Gestapo denounced him as an enemy of the state and forbade him from speaking or publishing, yet he continued his work. Bonhoeffer joined the resistance, seeking Hitler's overthrow, and was ultimately **imprisoned and later hanged for his role in the failed assassination plot on Hitler in 1944**.
+
+![](http://ig.onlinechristiancolleges.com/christianity.jpg)
+### Leading the Algerian Resistance
+Abd El-Kader ibn Muhieddine was an Islamic scholar and leader of the Algerian resistance to French colonial occupation from 1830 to 1847. For seven years, he won victory after victory over the French armies while observing **perfect chivalry** in battle. When French women and prisoners were captured, El-Kader forbade harm and sent them to his mother for care. Though he eventually surrendered, El-Kader's bravery and honor earned praise from both sides of the conflict. After the war, he went on to heroically **save over 10,000 Christians from massacre in Damascus in 1860**.
+### Service Among the Suffering
+Father Damien volunteered in 1873 to minister to those afflicted by leprosy living in isolation on the Hawaiian island of Molokai. For 16 years, he lived among and cared for the **colony of lepers** there, establishing farms, hospitals, and spreading the Catholic faith. Father Damien ate, slept, and shared pipes with the lepers as equals. Though he knew it would cost him his life, Father Damien chose to live fully among the afflicted until his death from leprosy in 1889. His selfless service earned him worldwide admiration and sainthood. 
+### Priest Among Marines
+Vincent Capodanno was a Catholic chaplain serving with the 1st Battalion, 5th Marines during the Vietnam War in 1967. When two platoons came under attack, the unarmed Capodanno braved enemy fire to reach the **wounded and dying**, administering last rites. Though wounded, he refused evacuation to help more casualties. Capodanno was killed tending to injured troops, earning him the Medal of Honor - the only chaplain to receive this highest military distinction. His courage and sacrifice emboldened the Marines in their defense against the enemy.
+### A Prisoner's Bravery
+Maximilian Kolbe was a Franciscan priest who established missionary publishing houses and refugees camps before Nazi occupation of Poland. Imprisoned at Auschwitz, Kolbe **ministered to fellow inmates** despite facing violent retaliation. When one prisoner attempted escape and ten men were selected for starvation as punishment, Kolbe volunteered to take the place of a stranger selected. He used his remaining time in solitary confinement to lead prayers and offer spiritual comfort. Kolbe's self-sacrifice exemplified the Christian virtues of love, courage, and faith even in the direst of circumstances. 
+### Spreading the Faith Beyond Borders
+Born in Sweden in 1882, Maria Elizabeth Hesselblad joined the Bridgettine Order but soon discerned her calling lay elsewhere. She worked to revive their ancient order after it had died out and founded a new Bridgettine motherhouse in Rome in 1904. Under her leadership, the order grew and established sisters around the world. During World War II, Hesselblad used her convent to **hide and protect Jews** from the Holocaust. Her courage, vision, and compassion extended the reach of her faith across countries and cultures during turbulent times.
+### Dedication in the Face of Persecution
+Dietrich Bonhoeffer, Abd El-Kader, Father Damien, Fr. Capodanno, Fr. Kolbe, Mother Maria - each of these Christian figures showed extraordinary heroism, virtue, and dedication in service of others. When faced with oppression, injustice, or human suffering, they did not abandon their principles or flee danger, but chose to stand firm and even sacrifice all to aid the vulnerable. Through persecution, war, and immense hardship, their works of love, courage, and faith continue to inspire generations. The examples of these "Christian badasses" remind us that lives lived for others in God are the strongest defense against forces of hate.
+![Christian Badasses Through History](http://churchtechtoday.com/wp-content/uploads/2015/08/timeline-of-christianity-infographic-e1473725366197.jpg)

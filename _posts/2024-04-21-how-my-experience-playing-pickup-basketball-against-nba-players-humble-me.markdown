@@ -1,0 +1,28 @@
+---
+layout: post
+title: "How My Experience Playing Pickup Basketball Against NBA Players Humble Me"
+date: 2024-04-21 10:37:39 +0000
+categories: "Basketball"
+excerpt_image: https://brickbodies.com/wp-content/uploads/2016/08/Pickup-Basketball-Game_163-compressor.jpg
+image: https://brickbodies.com/wp-content/uploads/2016/08/Pickup-Basketball-Game_163-compressor.jpg
+---
+
+### The Privilege of Getting Posterized by 7'2" Center 
+One memorable game I played was against a towering 7'2" center in a city league game. As a 6'2" forward, it was downright intimidating trying to guard him in the paint. [tall formidable center city league](https://store.fi.io.vn/cdn-cgi/l/email-protection). During one possession, he backed me down with ease under the basket and threw down a vicious dunk right over my outstretched arms. The force of his slam rattled the rim and left me in disbelief on the floor. It was a sobering reminder that NBA size and athleticism is on a completely different level. 
+
+![](https://sportsedtv.com/img/blog/how-important-is-playing-pickup-basketball_162e796518126a.jpeg)
+### Outclassed by Nick Anderson in a Pickup Run 
+Another reality check I had was going up against former NBA slasher Nick Anderson. Not knowing who he was at the time, I stupidly tried to steal the ball from him off a dribble. Big mistake, as he blew by me with effortless speed and explosiveness, despite coming off a foot injury. No matter what I tried on defense, he consistently pulled up for jumpers or finished acrobatic layups with ease. It wasn't until after the game that I realized how outmatched I was against an 11-year NBA veteran.
+### Perfectly Contained by Spud Webb in an Exhibition Match
+My ego took another hit when gifted scorer and dunk champion Spud Webb asked me to go one-on-one after a workout. At only 5'7", I thought height wouldn't be an issue. How wrong I was. He made a mockery of my defense with his lightning quick first step and ball fakes. Any time I turned my back, the ball was already in the basket before I could locate it. It was apparent that his elite NBA athleticism and craftiness were levels above anything I had experienced.  
+### Bruising Battles in the Paint Against Jon Barry and Eric Snow 
+Playing against former NBA guards Jon Barry and Eric Snow in a friendly game of 21 also proved to be quite humbling. Despite keeping it relatively close at first, they shifted into a higher gear and shut me down completely on both ends of the floor. Boxing me out with ease, blocking my shots, and raining jumpers over my outstretched arms. **former NBA guards game of 21 competitive pickup**. It was eye-opening experiencing firsthand how they could elevate their games almost instantly.
+### Teachable Moment Against My Drafted Father 
+Perhaps the most sobering reminder came from playing one-on-one against my own father, who was drafted by the Boston Celtics in the late 1970s. Despite being 67 years old with bad knees, he still runs circles around me offensively with his polished footwork and smooth perimeter jumper. Defending his **triple threat shots jumper** consistently dropping over challengers half his age. It humbles me to think that he wasn't even good enough to make an NBA roster and yet can school me effortlessly on the court.
+### Lessons Learned Facing NBA Greats in Pickup 
+Going toe-to-toe with NBA talent, even past their primes, in pickup ball taught me invaluable lessons. I came to realize how ridiculously skilled, athletic and competitive they are at levels beyond anything I had witnessed before. It's simply impossible to replicate their rare combination of **physical tools competitive drive skill**. While I always hoped to one day hang with them, experiencing their excellence firsthand removed any delusions. I now have a newfound appreciation for what it takes to not just make it to the NBA, but to truly excel at the highest level of the game.
+### The Difficulty of Guarding Mere Seconds in the Association 
+To put things in perspective, most of the players I faced had relatively short NBA careers, averaging just a few minutes per game off the bench. And yet they completely dominated the gym against blue-chip college players and professionals worldwide. If role players like Nick Anderson, Jon Barry and Jerome Williams could run circles around elite non-NBA competition, it's unfathomable what superstars are capable of. **career backup NBA players pickup runs**. Simply put, anyone who sets foot on an NBA court, even briefly, possesses basketball talents beyond what mortal eyes have seen before outside the Association. My petty pickup games against them were a humbling reminder of that fact.
+### Impact of Learning from Basketball Greats
+While the scored was lopsided whenever I played against NBA vets, I gained invaluable lifelong lessons I can't put a price tag on. Seeing sustained excellence up close injected me with an addictive hunger to constantly improve every facet of my game. Interacting with living legends also gave me role models to learn intangible qualities like work ethic, mental toughness and competitiveness. Overall, going toe-to-toe against basketball's best, even in defeat, expanded my perspective on what's possible if you pursue greatness at the highest degree. I wouldn't trade those formative experiences for anything.
+![How My Experience Playing Pickup Basketball Against NBA Players Humble Me](https://brickbodies.com/wp-content/uploads/2016/08/Pickup-Basketball-Game_163-compressor.jpg)

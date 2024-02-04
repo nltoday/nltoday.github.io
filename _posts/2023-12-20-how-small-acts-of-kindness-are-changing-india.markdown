@@ -1,0 +1,25 @@
+---
+layout: post
+title: "How Small Acts of Kindness are Changing India"
+date: 2023-12-20 22:03:17 +0000
+categories: "Personal finance"
+excerpt_image: https://www.rd.com/wp-content/uploads/2019/10/act-of-kindness-1-scaled.jpg
+image: https://www.rd.com/wp-content/uploads/2019/10/act-of-kindness-1-scaled.jpg
+---
+
+In today's world where selfishness and individualism seem to be rising, there are still people who go out of their way to help others with simple acts of kindness. While issues like poverty, corruption and lack of opportunities continue to trouble India, positive stories of humanity give us hope that the country is progressing towards a more compassionate future. This article shares a few real-life examples that demonstrate how small gestures of goodwill are changing mindsets and bringing people together in the face of adversity. 
+### Helping the Underprivileged 
+The story takes place in a hot summer day in Hyderabad where the temperature was soaring over 42 degrees Celsius. A group of people from the local Sikh gurudwara came out to distribute refreshing rose juice or [roohafza](https://store.fi.io.vn/chihuahuas-stocking-santa-chihuahua-dogs-christmas-socks-lights-xmas-424-chihuahua-dog) to people on the road as a way to help them beat the heat. What's notable is that children were at the forefront of this distribution that went on from 11 am to 2 pm, reaching out to passengers on public transport vehicles as well. Even though it may seem like a small act, bringing smiles on peoples' faces through their kindness, especially in tough conditions, sows the seeds for a compassionate society.  
+
+![](https://www.thelist.com/img/uploads/2017/03/Kindness3.jpg)
+### Supporting the Elderly
+Another incident involved an old rickshaw puller in Delhi who was struggling to make ends meet in his late 70s. After learning about his plight from a conversation, the narrator assists him in getting the old age pension support he was entitled to but denied due to lack of awareness and document fraud. Within a day of flagging the issue to local authorities, the elderly man's family was contacted and the process to help him financially was set in motion. While the system has its flaws, instances where it responds quickly to help the underserved restore faith in a more equitable future.  
+### Upholding Ethics in Governance
+During a train journey on a waiting listed ticket, the narrator was pleasantly surprised to not be asked for a bribe by the ticket examiner despite many passengers trying to pay for **confirmed berths**. Instead, he was rightly allotted an unoccupied seat as per rules. Even in the face of temptation, individuals who uphold duties with integrity, especially in roles with discretionary powers, encourage faith in standards and discourage norms of inducements crippling the system. This shows signs of a shift where people prioritise serving with values over opportunism.
+### Spreading Joy through Community 
+The story of a Sikh village community in Hyderabad distribing refreshing rose juice or **roohafza** on a hot summer day exemplifies the power of small acts of caring. Organising voluntarily to quench thirst and lift spirits through a culturally acceptable beverage, they brought smiles and strengthened social bonds. More importantly, involving children in the distribution instilled in them the importance of giving back. Narratives highlighting unity and cooperation reassure us that alongside challenges, compassion continues rising to counter polarisations. 
+### Impact of Thoughtful Samaritans
+Acts of kindness, big or small, can have a ripple effect. The elderly man's plight coming to light led to quick administrative action setting right a neglect, restoring his dignity. A train passenger receiving ethical treatment encouraged faith in the system. Children learning values of service at a young age implants seeds of empathy. Together, considerate deeds reminding us of our shared humanity can influence social change gradually by shifting perceptions and priorities in a positive direction. Stories that bring hope counter unfortunate incidents dominating news cycles.
+### Building a Caring Society 
+For India to progress as a nation, it is important that in day to day lives, citizens and institutions prioritise dignity, welfare and rights of all sections of society. While much remains to be done systematically to remove inequities, individual acts of goodwill play a significant role in strengthening the fabric of a just, inclusive and compassionate society. They forge understanding and fellowship across divisions. As more people adopt the approach of extending a helping hand through small gestures, especially the marginalised, itcan catalyse a transformative culture where nobody feels left behind in development.
+![How Small Acts of Kindness are Changing India](https://www.rd.com/wp-content/uploads/2019/10/act-of-kindness-1-scaled.jpg)

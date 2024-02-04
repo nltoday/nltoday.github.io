@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Miracles and Tragedies of Life"
+date: 2023-12-15 08:51:58 +0000
+categories: "News"
+excerpt_image: https://www.godisreal.today/wp-content/uploads/2014/04/miracles-jesus-healing-blind-869x595.jpg
+image: https://www.godisreal.today/wp-content/uploads/2014/04/miracles-jesus-healing-blind-869x595.jpg
+---
+
+### An Unexpected Diagnosis 
+It was a bright sunny morning in 1983 when I woke up feeling unwell. My parents thought it might be blood sugar issues as diabetes runs in our family. However, the abdominal pain was persisting. After weeks of checkups and tests, doctors discovered a **Wilms' tumor** located in my left kidney that had spread to the right. I was just about to turn 6 years old. The tumor was quite large and life-threatening. I underwent an 18-hour surgery to remove the tumor from my kidneys. Despite the risks, I was one of the lucky ones as the surgery was successful. However, my treatment was far from over.
+
+![](https://redeeminggod.com/wp-content/uploads/2016/01/WidowofNain.jpg)
+### A Month of Intense Therapy
+What followed was a month of high-dose radiation therapy and the start of 4 years of intense chemotherapy. The treatment was experimental at the time to stop the cancer from spreading further. I had to endure strong medicines and their dangerous side effects. The chemo was so strong that I suffered near-death experiences twice. It was an excruciatingly painful period for a young child. Despite everything, I pulled through with the support of my caring family. Today, I have one functioning kidney that continues to serve me well. However, the treatment left me with lifelong complications that make me feel much older than my real age.
+### Finding Strength Through Adversity 
+Fast forward to 2015, I had just completed my graduate studies and was enjoying some well-deserved rest. However, fate had other plans for me. I discovered a [lump in my breast](https://store.fi.io.vn/womens-crazy-beagle-lady-dog-lover-v-neck-t-shirt/women&) that quickly grew into an 8cm mass within two months. I was diagnosed with the aggressive **triple-negative breast cancer**. I underwent surgery, chemotherapy, and radiation once more. The cancer battle wasn't easy, but I survived against all odds. Unfortunately in later years, the cancer reoccurred. But I persevered through more treatment sessions. Today, I remain cancer-free and counting my blessings everyday. My journey has taught me to make the most of every moment and live life to the fullest.
+### An Unexpected Diagnosis, Again  
+It was just another regular school day in my early teens. However, I started feeling unwell over the past week with no visible cause. One night, my mother sensed something wrong during our usual fun time together. A rock-solid mass had formed in my upper stomach region. Tests after tests revealed the unthinkable - I had developed **ovarian cancer** now. It was already at an advanced stage II. I was immediately rushed to the best cancer hospital in the country. After a successful surgery to remove the tumor, I faced the rigors of chemotherapy. Losing my hair and other side effects were difficult to endure as a young girl. However, I persevered with the love and support of my family. 
+### Pursuing Dreams Despite Hardships
+During my cancer treatment, my board exams were approaching. I was determined not to let the disease affect my goals. Against doctor's recommendation, I discharged myself from the hospital to sit for my exams. Though I scored lower than expectations, I was happy to complete 10th grade. This experience shaped my belief that health should always come before anything else. In the coming years of cancer treatment and remission, I focused on pursuing my dreams and inspiring others through my journey. Today, I have overcome many limitations to accomplish what I had set out for.
+### A Purposeful Life
+My life experiences have taught me invaluable lessons. I now dedicate my time supporting cancer patients and increasing awareness. Being a long-term survivor myself, I understand the mental, physical, and emotional struggles very well. I want to offer hope and healing to others through my story. I also participate actively in medical studies about the long-term effects of pediatric cancer treatment protocols. This helps physicians devise better curatives and management techniques for current and future patients. Facing death multiple times has given me a new zest for life each day. I live in the present and make the most of every moment.
+### An Inspiration for Others
+From facing cancer thrice since childhood to overcoming its aftermath, my journey has been nothing short of miraculous. Against countless odds, I now live a healthy, purposeful life. However, the scars and lifelong impacts will remain with me. Through it all, I have emerged strong yet compassionate. Today, I count my blessing everyday and try to uplift those around me. By sharing my trials openly, I hope to convey a message of resilience, determination and hope to fellow survivors. No matter the difficulties life throws, we must stride forward with courage, gratitude and grace.
+![Miracles and Tragedies of Life](https://www.godisreal.today/wp-content/uploads/2014/04/miracles-jesus-healing-blind-869x595.jpg)

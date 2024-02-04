@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Impact of Digital Art in Augmented Reality Games"
+date: 2024-02-20 18:56:11 +0000
+categories: "Art"
+excerpt_image: https://diui35v2plbz7.cloudfront.net/blogs/20220221173124.jpg
+image: https://diui35v2plbz7.cloudfront.net/blogs/20220221173124.jpg
+---
+
+Digital technologies have greatly expanded the possibilities of art and its dissemination. However, the intersection of copyright and emerging platforms like augmented reality presents complex challenges that require nuanced discussion. This story examines these issues through the experience of an artist whose painting was incorporated into Pokémon Go without permission.
+## **Augmented Reality meets Copyright in the Digital Age**
+The rise of augmented reality games blending the physical and virtual worlds raises novel questions about appropriate use of creative works. As one of the most popular AR titles, Pokémon Go introduced millions to this emerging space by overlaying gameplay onto real locations. However, for one artist, unexpectedly finding their painting featured within the game sparked consideration of intellectual property rights in new domains. 
+## **Questioning Fair Use in Integrating Real Places**   
+A key aspect of Pokémon Go involves drawing from genuine geographic points of interest to populate the game. But does this allow unlimited adoption of surrounding art and structures? The doctrine of fair use permits certain employments of copyrighted materials, yet determining if incidental inclusion within an AR platform qualifies proves complex. While not intended for commercializing another's labour, could widespread adoption of an image within a popular title cause unforeseen impacts?
+## **Challenges of Establishing Intent in Digital Environments**
+Proving infringement demands showing the appropriator understood they transgressed ownership. But how might this apply to something integrated automatically by an algorithm relying on community submissions? As the developer relied on user-contributed locations, directly attributing knowledge of the specific painting proves difficult. However, does ignorance excuse all liability? With works now accessed globally through virtual platforms, traditional notions of intent require reexamining.  
+## Evaluating Publicness in Transitioning Physical to Digital  
+Copyright tradition draws distinctions between works prominently on public display versus within private environs. But how does this apply to art that, while situated in the real world, attains a new virtual audience? A beachfront mural remains physically situated for passersby but digitally accessible globally through screenshots within the game. Does its display context change by this augmented depiction? Defining public and private grows hazier as physicality melds with online reproduction.
+## **Resolving Disputes Amicably through Open Dialogue**
+Rather than immediately alleging infringement, the artist initiated respectful communication with the developer. Both parties maintained openness to the other's perspective in this novel scenario lacking clear precedence. While resolution remained uncertain, maintaining positive understanding proved key. For emerging technologies, cooperative discussion often yields fairer solutions than adversarial litigation alone. As digital art increasingly inhabits virtual realms, cultivating compassionate crossroads of copyright and community remains paramount.
+## **Monetizing Unexpected Notoriety through Creative Partnerships** 
+One resolution seen the artist discuss incorporating their work into sponsored locations or commemorative in-game items, revenue-sharing with the developer. Turning an unexpected inclusion into a collaborative opportunity establishes an constructive example for others facing such hurdles. Expanding recognition through unconventional channels need not remain problematic when approached with willingness from all. As digital platforms continue connecting worldwide admirers to new artworks, open-minded ventures may present unexpected prospects.
+## **Establishing Principled Precedents to Guide Evolving Landscapes**  
+While each situation holds nuanced complexities, increased dialogue builds understanding protecting creativity amid technological progress. Continued balancing of copyright, fair use and emerging distribution models requires sensitivity from all parties. Establishing reasonable principles acknowledging changing contexts helps address disputes respectfully and educate diverse communities. As virtual and physical realms increasingly converge, prioritizing cooperative spirit lays foundations for equitable treatment of art in our interconnected, digitally-augmented world.

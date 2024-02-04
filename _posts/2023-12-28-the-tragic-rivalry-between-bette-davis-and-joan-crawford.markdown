@@ -1,0 +1,26 @@
+---
+layout: post
+title: "The Tragic Rivalry between Bette Davis and Joan Crawford"
+date: 2023-12-28 12:11:14 +0000
+categories: "Movies"
+excerpt_image: https://nypost.com/wp-content/uploads/sites/2/2017/02/mbdwhev_ec070_140241277.jpg?quality=90&amp;strip=all&amp;w=1280
+image: https://nypost.com/wp-content/uploads/sites/2/2017/02/mbdwhev_ec070_140241277.jpg?quality=90&amp;strip=all&amp;w=1280
+---
+
+### Hollywood's Golden Age
+During Hollywood's Golden Age in the 1930s and 1940s, [Bette Davis](https://store.fi.io.vn/work-hard-so-my-st-bernard-live-a-better-dog-lover-2) and **Joan Crawford** were two of its biggest stars and their rivalry was legendary. At Warner Bros, Davis was the leading lady and consistently delivered standout performances in both mainstream and independent films that established her status as one of the greatest actresses of her generation. Crawford, on the other hand, bounced around to different studios like MGM and Universal Pictures, never quite attaining Davis' level of prestige and artistic freedom.
+
+![](https://nypost.com/wp-content/uploads/sites/2/2017/02/joan-bette1.jpg?quality=90&amp;strip=all)
+### Joining Forces at Warner Bros
+It wasn't until Crawford made the switch to Warner Bros in the late 1940s that she truly hit her stride. Roles that challenged her dramatically like **Mildred Pierce** earned her an Academy Award for Best Actress. Meanwhile, Davis had lost some momentum with mediocre projects elsewhere but gave an iconic performance in **All About Eve.** This marked a rare moment where they found success together rather than at each other's expense. Nonetheless, their personal animosity remained and played out publicly through petty insults.
+### The Making of What Ever Happened to Baby Jane? 
+In need of a comeback vehicle in the 1960s, Davis convinced Crawford to co-star with her in the psychological thriller **What Ever Happened to Baby Jane?** The two did not get along on set, with Davis known to physically and emotionally intimidate her co-star. She allegedly hit Crawford so hard in one scene that it required stitches. Though it was a box office hit that renewed both careers, it forever immortalized their toxic rivalry and the perils of pitting two strong female personalities against each other in the misogynistic Hollywood system.
+### Life After Baby Jane
+After Baby Jane, Davis enjoyed a late career resurgence with memorable TV roles while Crawford's star abruptly faded. She was relegated to low-budget horror films as aging sets in. Both fought tirelessly to remain relevant in an industry that rendered middle-aged women obsolete. Behind the scenes, Davis privately badmouthed Crawford until the end. Their legendary rivalry epitomized the unique challenges women faced in establishing long careers and respect in Tinseltown's male-dominated landscape during cinema's golden age.
+### Acting Legacies 
+Davis rightfully earned a reputation as one of the most gifted and fearless actresses in the business. She subverted expectations with complex **anti-heroines** and relished playing unapologetic femmes fatales, ensuring roles written for men weren't off limits. Crawford projected polished glamour but had chops to sink her teeth into **maternal roles** requiring vulnerability. Both left an indelible mark, though Davis' talent and willingness to push boundaries solidified her as the more respected artist. Their rivalry, though toxic, was emblematic of women having to compete ruthlessly for scarce opportunities in Old Hollywood.
+### Tallulah Bankhead: Another Legendary Rival 
+Davis had another iconic rival in fellow powerhouse actress Tallulah Bankhead. The two "first ladies of drama" frequently battled for the same theater and film roles during Hollywood's Golden Age. Davis modeled her acclaimed performance as manipulative star Margo Channing in **All About Eve** after the unapologetically bold Bankhead. While Davis and Crawford's rivalry played out publicly, Davis maintained a begrudging respect for Bankhead's talents. Their legend proved not all professional rivalries have to end in bitter lifelong feuds like Davis and Crawford's - some foster healthy artistic competition between ambitious women fighting for equality and recognition in their industry.
+### Legacy of Competition and Change
+The tragic rivalry between Bette Davis and Joan Crawford came to define Old Hollywood’s sexist studio system and its treatment of ambitious actresses. Forced to compete in an unfair game with ever-shortening careers, it resulted in a decades-long feud that overshadowed both stars’ formidable talents. While their toxicity left scars, Davis and Crawford blazed new trails for complex female roles. Today’s actors still draw inspiration from their renowned performances and bravery challenging social norms. Meanwhile, Hollywood continues evolving to provide support systems protecting artists, fostering healthier cooperation among women, and smashing long-held barriers.
+![The Tragic Rivalry between Bette Davis and Joan Crawford](https://nypost.com/wp-content/uploads/sites/2/2017/02/mbdwhev_ec070_140241277.jpg?quality=90&amp;strip=all&amp;w=1280)

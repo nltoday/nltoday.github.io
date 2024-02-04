@@ -1,0 +1,28 @@
+---
+layout: post
+title: "How My Steam Game Wishlist Has Changed Since Getting a Nintendo Switch"
+date: 2024-01-27 19:40:48 +0000
+categories: "Gaming"
+excerpt_image: https://technical-tips.com/assets/images/photos/1559557010.jpg
+image: https://technical-tips.com/assets/images/photos/1559557010.jpg
+---
+
+It's hard to believe how much things can change in just six short months. If you had asked me last summer about my Steam wishlist and gaming preferences, I would have shared a very different perspective than I have now. Back then, I was devoted solely to PC gaming and didn't have much interest in consoles. However, one purchase late last year completely upended my priorities - and it's all thanks to the Nintendo Switch. 
+### Rediscovering the Joy of Nintendo Games
+When the Switch first launched, I was skeptical that it could pull me away from my Steam backlog. However, the critical acclaim for games like The Legend of Zelda: Breath of the Wild and Super Mario Odyssey piqued my curiosity. On a whim, I picked up a Switch last holiday season figuring I'd grab those two titles and call it a day. Boy was I wrong! Once I started playing, I was instantly transported back to my childhood days of enjoying Nintendo classics. The magic and creativity inherent to their first-party games is truly unmatched. Before long, I found myself addicted to unlocking every secret and collecting every moon or Korok seed. 
+
+![](https://indiewolverine.com/wp-content/uploads/2020/04/Steam-Wishlist-Screenshot.jpg)
+### An Endless Sea of Quality Indie Games  
+As enjoyable as the big Nintendo releases were, I was even more surprised by the treasure trove of amazing indie games available on the eShop. Titles from studios both large and small that I had never heard of before kept me entertained for hours on end. Games like Stardew Valley, Celeste, Hollow Knight and Enter the Gungeon offered polished, [charming pixel art](https://store.fi.io.vn/collection/puppy) aesthetics and **tightly designed gameplay** at bargain bin prices. I was blown away by the level of quality coming from much smaller development teams. Many of these indie gems even outshone some of the triple-A offerings languishing in my Steam library!
+### Saying Goodbye to My Steam Wishlist
+After putting dozens of hours into my Switch over the past six months, I've come to a sobering realization - my once overflowing Steam wishlist is almost completely obsolete now. Most of the games I had saved up like Dishonored 2, the Hitman series and Dying Light pale in comparison to what's available on Nintendo's platform. Even long-awaited sequels like Just Dance 2020 and MW3 seem far less enticing in the face of Nintendo's creative successes. Going forward, any new game purchases will be focused exclusively on the Switch. While Steam will still be used for older multi-platform titles and the occasional deal, consoles like the Switch have reclaimed my affections for gaming.
+### LEGO Gets the Superhero Treatment on Switch  
+One franchise that translates surprisingly well to the Switch's family-friendly focus is LEGO games. The co-op couch gameplay and lighthearted tone make them a blast for players of any age. I recently picked up LEGO Marvel Super Heroes after seeing it touted for its **faithful recreation** of the comic book universe and dozens of recognizable heroes/villains to **unlock and customize**. Swapping between Iron Man, Spider-Man, Hulk and more to explore a virtual Manhattan has been a very enjoyable experience. I'm already eyeing the LEGO Harry Potter collection and LEGO Worlds for future purchases as well.
+### Going Multiplatform is the Way Forward
+After being steadfast in my PC loyalty, the Switch has proven how shortsighted that was. Going multiplatform opens up so many great gaming experiences that would have otherwise been missed. While Steam will still have its place, the Switch reigns supreme as my favored gaming method these days. Considering the wealth of titles both large and small available, the future of my gaming is undoubtedly multiplatform going forward. This little console has completely reshaped what games I'm most excited to play each year over the next console generation and beyond.
+### A Blossoming Indie Scene Bolsters the eShop
+As the Switch establishes itself, one of the most promising developments is the explosion of new indie developers flocking to its eShop storefront. Given the low barrier to entry and creative opportunities afforded by the platform, even one-person teams can make a name for themselves. Games like Untitled Goose Game and Vader Immortal prove small developers can create mammoth experiences that rival big publishers. This trend bodes well for a continued flourishing of discovery and innovation through the 2020s. Nintendo's embrace of indies undoubtedly secures the Switch's longevity far beyond its more immediate successors.
+### Finding the Joy of Games Again
+More than anything, the Switch has helped me recapture some of the pure joy and wonder I first associated with games during childhood. Whether it's platforming through mushroom kingdoms or solving puzzles in beautifully designed worlds, Nintendo excels at infusing creativity and whimsy into every title. Playing on the Switch reminds me to appreciate gaming not just as an escape or means to pass time, but as artform capable of sparking imagination. It's a perspective I worry gets lost for those, like my former self, who get too focused on specifications or online meta. The Switch is the perfect reminder of why I fell in love with this hobby in the first place.
+
+![How My Steam Game Wishlist Has Changed Since Getting a Nintendo Switch](https://technical-tips.com/assets/images/photos/1559557010.jpg)

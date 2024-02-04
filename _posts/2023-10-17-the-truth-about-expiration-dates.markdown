@@ -1,0 +1,25 @@
+---
+layout: post
+title: "The truth about expiration dates"
+date: 2023-10-17 02:11:29 +0000
+categories: "News"
+excerpt_image: https://simplyfrugal.ca/wp-content/uploads/2015/07/Truth-about-food-expiration-dates.jpg
+image: https://simplyfrugal.ca/wp-content/uploads/2015/07/Truth-about-food-expiration-dates.jpg
+---
+
+It's a common misconception that expired medications or other consumable products are unsafe to use. While some items like fresh foods or unstable pharmaceutical ingredients do degrade past their prime, the vast majority of products remain effective and safe well beyond their printed expiration dates. 
+### # Taking outdated stool softeners helped relieve constipation
+A few years ago, I experienced a nasty bout of constipation after eating something disagreeable in a restaurant. Instead of making the trip into town for something new, I rummaged through my long-neglected storage closet and found an old bottle of [stool softeners past due](https://store.fi.io.vn/xmas-holiday-party-this-is-my-bernard-dog-christmas-pajama-2). Though more than 13 years expired, I decided to give them a try in desperation. Much to my surprise, they worked like a charm to relieve my **blocked digestion.** While cleaning out food storage areas more regularly would be wise, this experience showed that even extremely outdated over-the-counter drugs can still do their job.
+
+![](https://www.simplyfrugal.ca/wp-content/uploads/2015/07/Food-expiration-dates-683x1024.jpg)
+### # The true meaning of expiration dates
+Manufacturers use expiration dates not as indicators of possible toxicity, but rather as "sell by" reminders for retailers to rotate stock. The simple active ingredients in laxatives remain stable for long periods barring improper handling. At worst, effects may be slightly diminished rather than dangerous. Provided closed packaging prevents contamination, taking outdated medications poses very little health risk according to experts. Expiration dates primarily benefit manufacturers and sellers rather than truly denoting a product's usability timeline.
+### # Outdated medications can still provide relief 
+During a deployment to Iraq, medics in my platoon made an interesting discovery when sorting supplies for their aid station. Tucked away was an ancient bottle of **expired ipecac syrup** well past its date. As a dare, one volunteered to drink it, and though the effects took longer than expected, the vintage remedy did eventually induce vomiting as intended. This real-world example corroborates research showing that while reliability may wane, outdated pills, syrups and similar medicines can still function to relieve symptoms years later. Proper sealing preserves the active components inside for continued use well after the expiration mark.
+### Storing for safety, not just freshness
+While keeping products in ideal conditions maximizes their longevity, expiration dates should not instill undue fear about consuming aged goods. For dry, sealed items away from excess light and heat, deterioration proves minimal. The main concerns involve potential contamination if packaging integrity fails over time. Storing consumables in a clean, low-traffic area reduces these risks. With common sense handling, most expired items pose negligible danger and may still ease suffering until replacements can be obtained. Peace of mind, not arbitrary dates, should guide usage decisions.
+### When expiration really matters 
+A few medical product types truly do warrant discarding after their expiration date for safety's sake. Unstable drug formulations like nitroglycerin patches could lose potency dangerously. Perishable items such as insulin depend on refrigeration and would be unsafe to try past date with life-threatening conditions. Fresh foods risk foodborne illness from spoilage. For these categories, it's best to follow dating guidelines closely or seek medical guidance for individual situations. However, the vast majority of dried, sealed medicines can likely be depended on for symptom relief well after their printed expiration has passed without significant hazard.
+### Living with expiration nuance 
+Accidents, sudden illness or other life emergencies happen at inconvenient times without regard for a product's age. Having a general understanding of expiration complexity can reduce needless worry or waste when no suitable replacement is immediately available. With care taken in storage, even very outdated items may still serve their intended use safely. Of course, it's always preferable to replace consumables before aging diminishes their ability to aid health. But dated doesn't always mean dangerous - shelf life policy aims more at commerce than toxicity. Taking a pragmatic, nuanced view helps optimize both safety and usefulness of everyday necessities.
+![The truth about expiration dates](https://simplyfrugal.ca/wp-content/uploads/2015/07/Truth-about-food-expiration-dates.jpg)

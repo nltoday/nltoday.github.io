@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Understanding Roblox's Policy on Discord Links"
+date: 2024-01-11 16:18:19 +0000
+categories: "Gaming"
+excerpt_image: https://en.help.roblox.com/hc/article_attachments/360050140431/mceclip2.png
+image: https://en.help.roblox.com/hc/article_attachments/360050140431/mceclip2.png
+---
+
+### Communicating with Friends 
+Discord lets friends chat with each other either one-to-one or as a group via a server. This platform has grown increasingly popular for gaming communities to organize and interact. However, due to Roblox's young user base, directly linking to Discord raises some concerns. As a platform for all ages, Roblox must consider how to protect younger users from unintended exposure to age-restricted services.
+
+![](https://i.ytimg.com/vi/dFmGOEsPkFA/maxresdefault.jpg)
+### Early Clarification on Discord 
+In 2017, the Roblox developer forums saw several discussions around directly including Discord invites and links within games. While appealing to developers seeking community-building tools, this practice raised compliance issues. **Roblox support clarified that direct Discord references or links were prohibited anywhere on the platform.** The primary reason cited was that Discord requires account creation, while Roblox had many underage users who could not legally use Discord's services. This sparked debate on how to balance communication needs while upholding safety standards.
+### Proposing a Compromise Solution
+One developer, Vritix, proposed allowing Discord links if restrictions were in place. Their concept was to only display links to users above age 13, keeping them private for all others. Mockups showed what the experience might look like. While gaining support, concerns remained over moderation workload if implemented. Others questioned if direct promotion was needed when community-run Discord servers already existed. Overall, the discussion highlighted the complex tradeoffs in policy decisions impacting both players and creators. 
+### Expanding Official Social Link Options
+In late 2017, Roblox announced plans to introduce social media links on group profiles. This included icons for sites like YouTube, Twitter and Twitch. The community again requested inclusion of Discord in these standards. Roblox affirmed they were still evaluating policy changes while focusing on "creating safe, fun, and positive experiences for players of all ages." Over time, the platform continued expanding options for **content creators to promote their official accounts and channels.**
+### Current Social Media Policy 
+Today, Roblox's official help articles cover social media linking guidelines. Groups and games can include up to three social network profiles relevant to that content. The supported platforms include YouTube, Twitter, Instagram, Facebook, Reddit, Twitch and Steam. [Notably absent is Discord](https://store.fi.io.vn/chihuahua-dog-full-moon-at-night-dog-breed-chihuahua), reflecting the initial concerns over direct promotion to all audiences. However, the criteria do prioritize official accounts, communities and channels focused on Roblox activities.
+### Unofficial Communities Flourish 
+In the absence of sanctioned promotion on Roblox itself, unofficial Discord communities have blossomed for many games and creators. Moderated servers provide a hub for announcements, discussion, support and events between updates. They avoid direct promotion which could risk enforcement actions. Instead, people freely join after discovering links mentioned elsewhere like a creator's website or videos. The large and engaged memberships show significant player demand for this type of community experience.
+### Balancing Safety and Support 
+To this day, Roblox's stance has not changed regarding Discord integration or promotion within the platform itself. The priority remains preventing accidental exposure of younger audiences to services they cannot legally use independently. However, they also acknowledge the value well-run communities provide in **supporting content creators and games**. An ideal middle-ground may be promoting a limited selection of pre-approved, age-appropriate Discord servers through profile links concealed from restricted accounts. This balances both safety concerns and the reality that unofficial communities will naturally form regardless. 
+### Community Management Best Practices
+For developers focused on building community spaces, some best practices have emerged. Server setup includes configuring safety tools like restricted access and content filtering. Active moderation enforces clear rules against objectionable content or behaviors. Communications make membership benefits clear while avoiding direct linking from Roblox itself. Event organization fosters engagement between updates. Above all, the emphasis stays on fun, friendliness and positivity reflective of Roblox's ideals. Communities managed thoughtfully provide value to many while avoiding risks of official promotion or integration at this time. 
+### Ongoing Discussion and Evaluation
+As technologies and platforms evolve rapidly, policy must likewise adapt over time. The development community continues respectful discussion on balancing safety, communication and creativity support on Roblox. Internally, their trust and safety team no doubt monitors community feedback and trends, evaluating any need for policy refinement. Externally, interest also remains high from players who appreciate well-run community spaces. A balanced, moderate approach seems to be in everyone's best interests long term. Only ongoing evaluation will determine if and when further changes may be warranted.
+In conclusion, Roblox's current stance prohibits direct Discord linking or promotion due to compliance issues. However, acknowledging communication needs, the platform has expanded official social options while unofficial communities naturally form. With safety prioritized and creativity supported through sensible guidelines, all interests can be reasonably addressed over time. Continued respectful dialogue between developers and Roblox offers the best path forward.
+![Understanding Roblox's Policy on Discord Links](https://en.help.roblox.com/hc/article_attachments/360050140431/mceclip2.png)

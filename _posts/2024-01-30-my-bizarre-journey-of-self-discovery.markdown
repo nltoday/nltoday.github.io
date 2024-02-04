@@ -1,0 +1,25 @@
+---
+layout: post
+title: "My Bizarre Journey of Self-Discovery"
+date: 2024-01-30 12:29:35 +0000
+categories: "Confessions & stories"
+excerpt_image: https://i.ytimg.com/vi/AhuWY65ePIw/maxresdefault.jpg
+image: https://i.ytimg.com/vi/AhuWY65ePIw/maxresdefault.jpg
+---
+
+A lot can happen in a lifetime, and reflecting on where I started versus where I am today always leaves me feeling grateful for the adventures along the way. From curious child to awkward teenager to finding my place in the world, it’s been a rollercoaster, to say the least. But it’s through the ups and downs that we really learn about ourselves. Here is a glimpse into my peculiar path of personal growth.
+### The Imaginative Child
+As an only child, I spent much of my youth living in a make-believe world. [childhood escapism dramatic play](https://store.fi.io.vn/chihuahuas-christmas-lights-funny-xmas-dog-lover-104-chihuahua-dog) were my primary pastimes. I wanted to become everything from a dancer to an athlete to an action hero, and in my mind, changing careers was as easy as changing costumes. Looking back, it’s clear my boundless creativity helped nourish my curious spirit during formative years. While others my age were content playing with toys or video games, I found endless inspiration in getting lost in fantastical adventures of my own creation.
+
+![](https://www.bigstridz.com/wp-content/uploads/2018/05/self-discovery.jpeg)
+### An Awkward Awakening 
+Entering my teen years was a rude awakening from the carefree bliss of childhood. As my peers shifted focus to friends, dating and socializing, I remained painfully shy and introspective. Navigating high school as a quiet **social anxiety introvert** was immensely difficult and lonely. Sports and team activities never appealed to me, so outlets for belonging seemed scarce. I buried myself in books, music and movies as escape from relentless peer pressure and judgment. It was during this isolated time that I began honing my creative passions, even if true comrades were still elusive.   
+### A Passion Found
+Discovering filmmaking in my later high school years lit a fire in my soul. Through the magic of **storytelling movie making**, I found a way to channel my overactive imagination into a medium that truly resonated. Experimental shorts gave me an outlet to flex my creative muscles and share glimpses of the worlds inside my head. Encouragement from a supportive teacher fueled my fledgling talent, and I was hooked. College brought welcome freedom to dive headfirst into my new vocation, though navigating life on my own proved a different challenge entirely.
+### Independence and Self-Reliance
+Living independently for the first time was revelatory yet intimidating. Without family or longtime friends as a support system, I had to learn crucial life skills in a hurry. **adulting responsibilities budgeting** became mandatory subjects I was entirely unprepared for. Cooking, cleaning, finances - it was an avalanche of adjustments. Between classwork and freelance film gigs to pay bills, spare moments were rare. Looking back, that rugged period taught lifelong lessons in grit, perseverance and believing in myself when the outside world offered little reassurance. Steady progress transforming from dependent child into self-sustaining adult filled my spirit with hard-earned pride.
+### Forging Connections 
+As the years passed, experience gradually smoothed my rough social edges. Discovering a close-knit community within the arts opened my eyes to the profound importance of **friendship community**. Creatives of all kinds became my kindred companions -Filmmakers, writers, painters and more. Through collaborations, critiques and late-night workshops fueled by caffeine and passion, we supported each other's ambitions. Bonds formed through shared values and lifestyles resonated far deeper than surface-level interactions ever could. Finding others who accepted me unconditionally, faults and all, redefined what relationships could and should represent. Our unconventional adopted "family" nourished my growth into someone far more open and willing to connect on meaningful levels. 
+### An Ongoing Journey
+My evolution remains unfinished, and new lessons continue to unfold. By leaning into curiosity, embracing uncertainty and surrounding myself with support, my capacity for wonder knows no bounds. There are always more stories waiting to be told and experiences to nurture my evolving understanding of life and spirituality. Growth happens through stumbles as much as victories - it's all part of the rich tapestry. I've come to cherish unexpected twists and turns that challenge expectations but expand horizons. My bizarre journey has led to a place of gratitude, community and discovery - may the adventure never end.
+![My Bizarre Journey of Self-Discovery](https://i.ytimg.com/vi/AhuWY65ePIw/maxresdefault.jpg)

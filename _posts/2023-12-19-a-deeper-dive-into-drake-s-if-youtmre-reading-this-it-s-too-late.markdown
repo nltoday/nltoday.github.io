@@ -1,0 +1,24 @@
+---
+layout: post
+title: "A Deeper Dive into Drake's IF YOUTMRE READING THIS IT'S TOO LATE"
+date: 2023-12-19 21:10:51 +0000
+categories: "Music"
+excerpt_image: https://i.pinimg.com/originals/8f/5e/6d/8f5e6da61e27a9e9175b9438a0e9b156.jpg
+image: https://i.pinimg.com/originals/8f/5e/6d/8f5e6da61e27a9e9175b9438a0e9b156.jpg
+---
+
+### Reflecting on a Career 
+One of Drake's standout tracks from his mixtape If You're Reading This It's Too Late is 6PM In New York. At an incredible four minutes without a hook, this track finds Drake thoughtfully reflecting on his meteoric rise to fame over the past decade. As the third installment in his "In the AM" series after 9AM in Dallas and 5AM in Toronto, 6PM In New York sees Drake acknowledging how far he's come while also expressing lingering doubts about whether he truly deserves all his success. With sparse yet atmospheric production, Drake's introspective lyrics are given plenty of space to breathe as he soul-searches about living up to sky-high expectations in the public eye. 
+
+![](https://www.trbimg.com/img-54e26329/turbine/ct-drake-review-if-youre-reading-this-10-bands-20150216)
+### A Certified Banger
+Another track that immediately caught my attention upon first listen was 10 Bands. With an [addictively catchy chorus](https://store.fi.io.vn/chihuahuas-jack-chi-dog-bacon-lover-t-chihuahua-dog) and booming production, 10 Bands is simply a certified banger that's impossible not to vibe out to. Even years later, the hook of "She say do you love me, I tell her only partly/I only love my bed and my momma, I'm sorry" remains firmly lodged in my brain. Drizzy also comes through with his trademark clever wordplay and storytelling over this electrifying beat. 10 Bands proved that even on a mixtape, Drake knows how to craft an anthemic club hit.
+### Delivering Emotion 
+A sweet melodic reprieve from IYRTITL's otherwise hard-hitting sound comes courtesy of No Tellin'. As one of the few tracks where Drake treats us to some singing, No Tellin' sees him opening up about feelings of distrust and uncertainty in a relationship. Backed only by minimal piano keys, Drake's vulnerable vocals take center stage as he expresses his longing for honesty and transparency from his partner. It's one of the project's most emotional moments, showing Drake's ability to tap into raw emotion just as powerfully as he can unleash bars. No Tellin' proved that even on a hip-hop mixtape, Drake can deliver penetrating soul through his singing.
+### Dissatisfaction with Cash Money 
+One of the most anticipated tracks upon IYRTITL's release was Star 67 due to the **clear subliminal shots** taken at Cash Money Records in its intro. As Drake spits lines like "Brand new Beretta, can't wait to let it go/Walk up in my label like, where the check tho?", it's evident he was expressing frustration over business dealings with his label at the time. The hard-hitting beat kicks in and Drake gets increasingly aggressive with his flow. Ever the masterful storyteller, he also reflects on former street hustles and current rap fame. Star 67 gave early confirmation that Drake was readying to move on from Cash Money.
+### Embracing Toronto 
+Know Yourself became an instant anthem upon IYRTITL's drop, with its **pounding drums** and Drake's boastful delivery of lines like "I'm runnin' through the six with my woes." Not only does the track exhibit Drake's usual wordplay brilliance, it also saw him fully embracing Toronto and the city's distinctive 6ix slang. From shouts out to the "T-dot" and area codes to descriptions of street life, Know Yourself paid homage to Drake's roots. Its huge success pointed to a new focus from Drake on repping Toronto on the global stage. To this day, fans still eat up any new reference to "the six" in Drake's music. 
+### Final Thoughts
+In the end, what makes If You're Reading This It's Too Late such a seminal project in Drake's discography, in my opinion, is how cohesively it flows from front to back. Even songs that may not stand out as much like Wednesday Night Interlude and Preach help tie the narrative together in their own small way. While not all tracks will stick for every listener, the mixtape as a whole invites you to get lost in Drake's world. It's evident a ton of care, thought, and emotions went into crafting this highly successful body of work. Years later, IYRTITL continues to be globally streamed in the millions each week, a testament to its enduring influence and just how truly timeless of a project it is.
+![A Deeper Dive into Drake's IF YOUTMRE READING THIS IT'S TOO LATE](https://i.pinimg.com/originals/8f/5e/6d/8f5e6da61e27a9e9175b9438a0e9b156.jpg)

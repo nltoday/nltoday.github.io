@@ -1,0 +1,28 @@
+---
+layout: post
+title: "How to Delete Approved KYC Bank Details from UAN Portal and Add a New Bank"
+date: 2024-01-13 14:39:35 +0000
+categories: "News"
+excerpt_image: https://www.hrcabin.com/wp-content/uploads/2018/08/How-To-Change-Update-Approved-Bank-Account-Under-KYC-On-The-UAN-Portal-660x349.png
+image: https://www.hrcabin.com/wp-content/uploads/2018/08/How-To-Change-Update-Approved-Bank-Account-Under-KYC-On-The-UAN-Portal-660x349.png
+---
+
+### Mistake in Bank Details
+It is possible that someone else may have inadvertently linked your UAN number to their bank account details. **This common problem occurs when EPF members enter incorrect UAN or bank details.** In such a situation, the first step would be to verify the accuracy of the bank account number linked to your UAN. Double check that it indeed does not match any of your bank accounts. 
+
+![](https://i.ytimg.com/vi/84O5VF3eYSw/hqdefault.jpg)
+### Contact EPF Office for Assistance
+If the bank details do not belong to you, then the next step is to directly get in touch with your nearest EPF office for help. **Visit the EPF office in person or call their helpline to report the incorrect linking of bank details.** Explain your situation clearly and submit necessary documents like your valid ID proof. The EPF staff will be able to investigate the matter and delink the incorrect bank account from your UAN. **This is the most reliable way to resolve such UAN-bank linking errors.**
+### Raise a Grievance Online
+If visiting the EPF office is not possible, you can alternatively raise your issue as an online grievance on the EPF website. The **grievance redressal system of EPF India handles complaints related to incorrect UAN details efficiently.** Go to https://epfigms.gov.in/grievance/grievancemaster and select 'PF Member' as your status. Fill the online form providing all relevant details regarding your UAN and the wrongly linked bank account. Upload identity proof documents as well. **This grievance will be addressed by the concerned EPF department to resolve the issue for you.**
+### Wait for Grievance Resolution 
+Once your online grievance is submitted, the EPF team will investigate it and take necessary corrective actions. **It may take 7-10 working days on an average for the grievance to be resolved.** You will receive email/SMS updates on the status. Have patience during this time as correcting UAN-bank linking requires backend verification and processing. **Keep track of the grievance status online and do not submit multiple duplicate complaints.** Give the department reasonable time to investigate and fix the reported mistake in your UAN details.
+### Check Delinked Bank Details
+After some time passes, log back into your UAN portal account to check if the wrongly linked bank details have been successfully delinked. **Verifying the updated bank details linked to your UAN is crucial to ensure the issue is fully resolved.** If you still see the incorrect bank account attached, you may need to follow up on your grievance for further assistance. **In rare complicated cases, it can take up to a month for the erroneous bank details to get removed from your UAN record permanently.** Stay persistent while also giving the EPF team reasonable response timeframe.
+### Submit Request for New Bank Linking  
+Once the incorrect bank account is delinked from your UAN, you can proceed to link your correct bank details where your EPF funds need to be transferred. **For adding a new bank account, click on ‘Manage’ option from the UAN member portal dashboard and select ‘Add New Bank Account’.** Fill the online form with mandatory details like your bank name, branch, IFSC code, account number etc. **Submit necessary documents for KYC verification such as cancelled cheque and bank statement.** The verification process may take 1-2 weeks after which your new bank will get approved and linked to your UAN.
+### Follow Up Regularly on New Bank Request
+As with any administrative process, linking a new bank account to UAN can take some time due to the verification stage involved. **Keep a vigil by regularly checking the status of your new bank request submitted on the UAN portal.** In case of no updates even after 2-3 weeks, you may give a polite reminder call or message to the EPF authority handling your case. **Clear communication and follow ups help speed up such online requests where manual verifications are required before completion.** Stay patient yet proactive to ensure smooth addition of the right bank account to access your hard-earned PF balance.
+### Monitor New Bank Reflection
+Once your new bank account request is approved, cross check that it is accurately reflecting on your UAN dashboard and member passbook. **Immediately report any discrepancies seen between the approved bank details and its online display on the UAN portal.** It is crucial to ensure the right banking details are thoroughly updated everywhere so that there is no hitch in future transactions like EPF withdrawals. **An extra verification step goes a long way in circumventing troubles later which could otherwise defeat the very purpose of correcting the wrongly linked bank in the first instance itself.** Be vigilant throughout the process for best results.
+![How to Delete Approved KYC Bank Details from UAN Portal and Add a New Bank](https://www.hrcabin.com/wp-content/uploads/2018/08/How-To-Change-Update-Approved-Bank-Account-Under-KYC-On-The-UAN-Portal-660x349.png)

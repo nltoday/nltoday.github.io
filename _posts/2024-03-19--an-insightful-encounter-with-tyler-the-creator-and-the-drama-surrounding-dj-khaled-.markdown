@@ -1,0 +1,26 @@
+---
+layout: post
+title: "`An Insightful Encounter with Tyler, the Creator and the Drama Surrounding DJ Khaled`"
+date: 2024-03-19 16:04:15 +0000
+categories: "Hip-hop"
+excerpt_image: https://variety.com/wp-content/uploads/2019/06/tyler-the-creator-and-dj-khaled.jpg
+image: https://variety.com/wp-content/uploads/2019/06/tyler-the-creator-and-dj-khaled.jpg
+---
+
+### Tyler, the shy and self-hating guy
+I had an interesting encounter meeting Tyler, the Creator after one of his Odd Future concerts in Philadelphia. My friend and I approached him and his friend Syd to compliment them on their amazing performance. While Syd was very talkative and animated, Tyler seemed rather shy and standoffish at first. However, he opened up more when I mentioned that I was Nigerian, like his [absent Nigerian father](https://store.fi.io.vn/womens-cow-mom-cute-womens-70s-80s-retro-style-sunset-moo-moo-lover-v-neck-t-shirt/women&). Tyler revealed that his "deadbeat ni**erass dad is Nigerian" which is why he thinks he looks "so fuckin weird". It was a bizarre conversation, but it gave me a glimpse into Tyler's complicated feelings towards his estranged father and his internalized self-hatred. 
+
+![](https://townsquare.media/site/812/files/2019/06/DJ-Khaled-Tyler-The-Creator.jpg?w=1200)
+### Tyler's musical genius and hard work 
+While Tyler may come across as shy in person, through his music it's clear how talented and driven he is. His latest album **IGOR achieved number one on the Billboard charts** for the first time, a testament to all the hard work Tyler put into writing, producing, and arranging the entire project himself. He deserves this success considering the effort and passion he pours into his art. 
+### DJ Khaled's hypocrisy and jealousy 
+In contrast, DJ Khaled seemed bitter about Tyler achieving the number one spot with IGOR, which he is used to occupying. He was hypocritical in posting and deleting a video calling Tyler's critically acclaimed album "mysterious shit" that is untrue since the hit single "earfquake" was everywhere. Khaled thinks his music is good just because it's played "everywhere", but in reality most people can't name a single song off his albums. He had to spend millions and rely on other producers since he doesn't really create much **original music himself**. His temper tantrum exposed his jealousy and the fact that his success is largely manufactured rather than based on talent.
+### Questions around DJ Khaled's contributions 
+Khaled's outburst makes many wonder what exactly does he contribute? Besides constantly yelling his name over songs, he doesn't seem to be very **musically creative**. Getting help from big name features and producers to make formulaic radio songs is very different than what Tyler does, crafting cohesive artistic visions and music entirely by himself. Khaled's actions don't match his image of being a positive person, showing his true colors as someone envious of others' achievements.
+### An encounter revealing inner struggles 
+Meeting Tyler gave an intimate glimpse into his persona beyond his outlandish public image. While talented, he seemed to struggle with insecurity and internalized negative feelings about his identity and father. His ascent to number one reinforced that with hard work and passion, artists can overcome personal struggles to achieve recognition for truly innovative art. In comparison, Khaled's actions exposed his need for constant validation and empty hype over substance, reminding us that some find success primarily through marketing rather than music.
+### Lessons in authenticity versus artificial popularity  
+This whole situation highlights the difference between authentic musical talents like Tyler who rise based on skill and vision, versus manufactured acts relying more on branding than creativity. While popularity is fleeting, artistic merit and originality tend to leave a longer lasting impact. Those who build genuine connections with fans through relatable music will endure beyond temporary chart placements. In the end, real recognition comes from critics and audiences able to discern which artists pour true passion into furthering their craft over superficial material gains and hype.
+### Moving forward with integrity
+Both Tyler and DJ Khaled's careers moving forward will be informative. Will Tyler continue cultivating his unique style and pushing creative boundaries, or conform to radio formulas? As for Khaled, will he self-reflect on his hypocrisy and find dignity in celebrating others' achievements? Or resort further to hollow antics out of insecurity? Music is a collaborative process, and the healthiest approach is uplifting talented peers, not tearing them down. Ultimately, those who create with integrity and bring more positive vibes to the world tend to be respected in the long run.
+![`An Insightful Encounter with Tyler, the Creator and the Drama Surrounding DJ Khaled`](https://variety.com/wp-content/uploads/2019/06/tyler-the-creator-and-dj-khaled.jpg)

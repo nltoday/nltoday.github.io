@@ -1,0 +1,28 @@
+---
+layout: post
+title: "My Experience of Feeling Safe in China"
+date: 2024-03-29 16:57:29 +0000
+categories: "News"
+excerpt_image: https://www.nicholls.edu/news/wp-content/uploads/sites/66/2018/05/IMG_6083.jpg
+image: https://www.nicholls.edu/news/wp-content/uploads/sites/66/2018/05/IMG_6083.jpg
+---
+
+### [Starting a New Life in Shanghai](https://store.fi.io.vn/womens-papillon-i-may-not-be-rich-and-famous-but-im-a-dog-mom-3)
+I first moved to Shanghai 14 years ago to start a new career. Coming from America, I was not sure what to expect from living in a big Chinese city. However, from day one, I felt very safe exploring the city on my own. As a woman, I never experienced any unwanted attention or made to feel unsafe walking down the busy streets. Even taking the metro home late at night never caused me any concern. The culture in China places a strong emphasis on equality and respect between all people.
+
+![](https://blog.skritter.com/wp-content/uploads/2019/10/Emotions-Post-1-1.png)
+### **Exploring Other Chinese Cities with Ease** 
+Over the following years, my work took me to various other cities across China. Whether it was the modern metropolis of Shenzhen or the more traditional city of Chengdu, the feeling of safety remained the same. As someone who lived with a constant awareness of potential dangers in America, I was surprised by how at ease I felt in China. I could wander freely through unfamiliar areas even in the small hours without a second thought. This allowed me to fully immerse myself in the local culture without the constant vigilance I was used to.
+### **Raising a Daughter with Peace of Mind**  
+After a number of years, I started a family in China and now have an 11-year-old daughter. Back in America, the idea of letting a young girl travel alone would be unthinkable. However, in China, I have no reservations about my daughter taking public transport without me. The lack of violent crime and respectful attitudes create a nurturing environment for children to explore their independence. Thanks to the safety of cities like Shenzhen, she is able to experience freedoms that I never had at her age growing up in America.
+### **Finding Friendliness on the Streets**
+One of the things that stood out most was the welcoming nature of strangers in China. On the first night in a new area of Beijing, I found myself lost with only a phone for light down narrow alleyways. However, instead of causing concern, a group of local men kindly helped direct us to our destination. Interactions like this reinforced my perception of China as a place where people look out for each other. Even late at night, the street life has a lively, social atmosphere rather than threatening undercurrents you may encounter elsewhere.
+### **The Absence of Firearms**  
+Having experienced gun violence first-hand in America, one of the most reassuring things about living in China is the almost complete absence of firearms. Unlike the all-too-common shootings in my home country, the risk of random violent attacks with guns does not factor into daily life here. Moving through public spaces without this looming threat has contributed enormously to my feeling that China is one of the safest places in the world. The lack of a gun culture has allowed cities to develop without the same undercurrents of fear.
+### **Policing with Care, not Coercion**
+Another striking difference is in the conduct of law enforcement. As an African American, encounters with police back home often involved anxiety due to problematic histories of discrimination and excessive force. However, in China, officers go about their duties with a gentle touch, rarely approaching individuals and without visible means of harm. This emphasizes protection over intimidation, engendering a climate of trust rather than tension between the people and authorities. It is clear that maintaining social harmony, not threats of violence, is the priority.
+### **Valuing Community over Conflict**
+Throughout my time living in multiple Chinese cities, I have been consistently impressed by the focus on cooperation over confrontation at every level of society. Disagreements are resolved respectfully through open communication instead of volatile clashes. Communal spaces feel welcoming rather than grounds for unwarranted police interventions. Even simple interactions like waiting in line exhibit consideration for others. This constant undercurrent of goodwill amongst the people is what gives China its reputation for being one of the safest large nations worldwide. Overall, the collective value placed on compassion creates a nurturing social environment.
+### **Recommendations for Traveling Safely in China**
+In summary, after many years immersed in Chinese culture, I can wholeheartedly recommend visiting or residing in this fantastic country. To make the most of travel here safely and smoothly, focus on open and thoughtful interactions. Learn a few basic phrases, be respectful of cultural norms, and maintain common-sense precautions regarding pickpockets in crowded areas. However, do not let exaggerated fears portrayed abroad deter you from engaging fully with this welcoming society and all it has to offer. By maintaining an attitude of trust, curiosity and good cheer, you are sure to feel right at home in this safe, friendly, and fascinating place.
+![My Experience of Feeling Safe in China](https://www.nicholls.edu/news/wp-content/uploads/sites/66/2018/05/IMG_6083.jpg)

@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Past Lives and Karma in Vedic Astrology"
+date: 2024-01-20 09:40:28 +0000
+categories: "News"
+excerpt_image: https://i.ytimg.com/vi/W7XRDnxeLNs/maxresdefault.jpg
+image: https://i.ytimg.com/vi/W7XRDnxeLNs/maxresdefault.jpg
+---
+
+Karma determines the circumstances and experiences of our current and future lives. According to Hindu beliefs, we are born over and over to experience the consequences of our actions. Vedic astrology provides insights into past lives and karma through examining planetary placements and house positions in the birth chart. 
+### Reading Past Lives Through Vedic Astrology
+There are a few key methods in Vedic astrology for gaining information about past lives. One approach is to shift the [Lagna](https://store.fi.io.vn/chihuahua-shirt-best-chihuahua-grandpa-ever-chihuahua-shirt-funny-gift-for-chihuahua-lover-dog-owner-shirt-retro-vintage-dog-grandpa7-t-shirt), or ascendant, to the 9th house and read the chart as if that house is the 1st house. Since the 9th house represents blessings from past lives, this can reveal positive and negative influences carried over from previous incarnations. Another technique examines the placement of **Jupiter**, which indicates the current life's Lagna. By shifting Jupiter back one sign and analyzing that house as the ascendant, secrets of a man's previous life may be uncovered. For women, the sign occupied by **Venus** signifies the current life's Lagna, so shifting Venus back reveals a lady's previous incarnation. 
+
+![](https://i.ytimg.com/vi/ccB1ORIUDio/maxresdefault.jpg)
+### Planets as Indicators of Past Karma 
+Each planet in the birth chart connects to specific categories of karma accumulated from past lives. The **Sun** represents authority figures like fathers and how one was treated in positions of power previously. Issues with the Sun can relate to disrespect towards such individuals formerly. The **Moon** connects to relationships with mothers and nurturing. Its condition speaks of behaviors towards the feminine in past lives. **Mars** relates to aggression and violence, so weaknesses there point to excessive anger formerly. Well-placed **Jupiter** shows righteousness and spirituality established over multiple lives while troubled **Saturn** speaks of difficulties faced by societal outcasts previously.
+### Understanding the Doṣhas 
+Certain planetary combinations are indicators of **doṣhas**, or defects, arising from past misdeeds. A problematic **Sun** can reveal **Pitru Doṣha**, which derives from dishonoring ancestors in previous births. It requires remedies and prayers over three generations. Similarly, an afflicted **Moon** shows **Matru Doṣha** stemming from disrespect towards mothers in the past. Analyzing doṣhas in the natal chart provides clues for atoning and alleviating burdens inherited from prior incarnations.
+### Examining Trikonas and Their Links to Karma
+The Vedic astrology houses combine into four sets of **trikonas**, or triangular divisions, that illuminate key areas of present and past karma. The **Dharma Trikona** of houses 1, 5 and 9 connects past, present and future, underscoring karma's continuous flow. The beneficent 9th house reflects blessings or obstacles inherited from past lives. The **Artha Trikona** of houses 2, 6 and 10 indicates resources available this life to fulfill duties and attain higher aims based on prior actions. The **Kāma Trikona** reveals built-up desires from multiple births that now seek gratification for better or worse. Lastly, the **Mokṣha Trikona** shows one's current proclivity for spiritual practices to break rebirth's cycle through karma's consequences.
+### Unraveling Nakṣhatra and Divisional Chart Influences
+For even deeper revelations, Vedic astrologers analyze particulars found in the **nakṣhatras** and **divisional charts**. Nakṣhatras are the 27 celestial sectors of the zodiac cross-referenced with planets. Their piety or corruption discloses prior lifetime merits and misdeeds. Divisional charts like the **D-9** for dharmic matters furnish additional past life clues by breaking down karma recorded in the birth chart onto finer planes. With practice, learned astrologers gain remarkable insight into causes for one's present circumstances dating back countless incarnations. 
+### Applying Wisdom Gleaned from Past Life Readings 
+Ultimately, the purpose of unearthing past karma through astrology isn't mere curiosity but practical betterment. By comprehending motivations ingrained since prior births, one gains self-knowledge for navigating current challenges more consciously. Realizing behaviors attributable to residual impressions lightens their hold. Understanding talents or liabilities as rewards or debts from former lives fosters gratitude or atonement. With such wisdom, Dharma, Artha, Kāma and eventual Mokṣha become surer to achieve through karma properly managed going forward into each new life.
+![Past Lives and Karma in Vedic Astrology](https://i.ytimg.com/vi/W7XRDnxeLNs/maxresdefault.jpg)

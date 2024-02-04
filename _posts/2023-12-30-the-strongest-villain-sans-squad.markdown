@@ -1,0 +1,27 @@
+---
+layout: post
+title: "The Strongest Villain Sans Squad"
+date: 2023-12-30 13:59:57 +0000
+categories: "Anime & manga"
+excerpt_image: https://i.ytimg.com/vi/pq8xiTUE_2A/maxresdefault.jpg
+image: https://i.ytimg.com/vi/pq8xiTUE_2A/maxresdefault.jpg
+---
+
+## The Gathering
+The mysterious force known only as The Destroyer had sensed a threat to his rule over the multiverse. While Ink and Dream worked tirelessly to defend Aus from threatening forces like himself, a new villainous group was forming that could challenge even them. He had learned of several rogue Sans variants who had grown disillusioned with the status quo and sought more power.
+The Destroyer knew he must bring these wayward Sansas under his control before they could unite against him. He used his vast [dimensional hopping](https://store.fi.io.vn/collection/dachshund) abilities to track down each member. First was **Horror Sans**, having been driven to the brink of madness by the starvation and cannibalism of his AU. Next was **Fell Sans**, born from a cruel world where only the strong survived. **Dust Sans**, now filled with an insatiable bloodlust after wiping out his entire underground. And **Fresh Sans**, an enigma even to The Destroyer, possessing powers beyond any mortal skeleton's comprehension. 
+One by one he approached them, using honeyed words and promises of strength to sway their allegiance. Soon they formed **The Villain Sans Squad**, a team that would finally allow each member to live up to their full terrifying potential. Under The Destroyer's guidance they would lay waste to any who would dare oppose them, and bring a new age of chaos and destruction to the multiverse.
+### Recruiting Swap Sans
+Not all candidates were so easily persuaded however. The Destroyer's next target was the mischievous **Swap Sans**, ruler of an alternate timeline where roles were reversed. He knew Swap's cheerful prankster nature could prove... difficult to wrangle. When he arrived in Underswap, Swap was as flippant as ever, dismissing The Destroyer's recruitment pitch with sarcastic jokes and puzzles. 
+It seemed conventional coercion would not work on this particular target. The Destroyer decided a more **psychological approach** was needed. He began subtly manipulating the AU, twisting Swap's reality until the usually happy-go-lucky skeleton began to crack under the pressure. With his world and very identity falling to pieces around him, Swap finally reached his breaking point. The Destroyer was there to offer him a new purpose - by joining the squad, Swap could regain a sense of power and control over his cascading madness. His trademark grin twisting into a grimace, Swap accepted.
+
+![](https://static.wikia.nocookie.net/undertale-au/images/6/6a/Tvss.png/revision/latest?cb=20201129073717&amp;path-prefix=ru)
+## The Full Roster 
+With Swap Sans on board, The Destroyer had assembled the most formidable group of rogue Sansas ever seen. But could he forge them into a cohesive team, or would their volatile natures spark in-fighting that destroyed them from within? Only time would tell if his Villain Sans Squad could truly stand up to the multifaceted threats of Ink, Dream and their ever-growing forces of Aus defenders.
+### Assessing Fresh Sans 
+One member in particular raised doubts - the enigmatic **Fresh Sans**. Even The Destroyer had no idea of the true scope of Fresh's bizarre abilities. He decided the squad's first order of business would be to get a handle on Fresh's power level. In a secluded void pocket outside of the normal multiverse, The Destroyer called the squad together. "Alright team, today we find out what Fresh is really made of. I want you all to attack him with everything you've got!"
+The other four Sansas exchanged uncertain glances but obeyed their new master. Bones, blasters, and other attacks flew at Fresh, but he dodged effortlessly while remaining oddly cheerful. Nothing they threw at him even came close to landing a hit. It seemed Fresh was indeed in a class of his own, with reflexes and awareness far beyond any monster. The Destroyer could only frown in frustration - how was he to control a being he didn't fully comprehend? For now, Fresh remained an **unsolved mystery**.
+### The First Mission
+Satisfied he had evaluated each member's abilities, The Destroyer was ready to deploy his new squad on their first mission. He had gotten word of a distress call from an AU on the brink of collapse. Apparently **Ink and his lackeys** had grown overzealous in "fixing" the timeline and damaged its core code beyond repair. The inhabitants were evacuating through whatever means they could find as their world literally fell apart around them. 
+The Destroyer saw an opportunity. "Gentlemen, today we demonstrate the power of this squad. We're going to that dying AU, intercept their refugees, and send a message. None escape until I say so. Let's give those fleeing cretins a proper Villain Sans Squad welcome..." His eyes glowed with malice as the squad locked in. This would be their debut performance, and a show of force to establish themselves as the new rulers of the rogue multiverse. No exile from justice would be permitted under their watch. The squad opened a portal and charged in, ready to bring the hurt.
+![The Strongest Villain Sans Squad](https://i.ytimg.com/vi/pq8xiTUE_2A/maxresdefault.jpg)

@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Playing Steam Games in the Browser"
+date: 2024-01-18 12:38:55 +0000
+categories: "Gaming"
+excerpt_image: https://lootandgrind.com/wp-content/uploads/2019/05/best-steam-pc-games-header-800x400.jpg
+image: https://lootandgrind.com/wp-content/uploads/2019/05/best-steam-pc-games-header-800x400.jpg
+---
+
+### Cloud Gaming is the Future
+Cloud gaming is an emerging technology that allows users to stream and play high-quality video games without requiring powerful local hardware. By leveraging cloud computing infrastructure and technologies like HTML5, some companies have found ways to run games normally stored on your PC through a web browser. Technologies like ORBX allow developers to package games normally distributed as executables into web-friendly formats that can be streamed and rendered remotely.  
+This brings several advantages over traditional desktop gaming. For one, it removes hardware requirements from the equation - as long as you have a reliable internet connection, you can in theory play any game, no matter how graphically intensive, on even low-end devices like phones, tablets or older PCs. It also makes your games more portable - no more being tied to your desktop. As long as you have a web browser, you can launch games from any internet-connected device.
+
+![](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/07/best-free-steam-games-featured.jpg)
+### Playing Steam Games via Cloud Gaming
+While [Steam](https://store.fi.io.vn/game-controller-christmas-for-video-gamers-boys-kids-455/women&) is still largely confined to desktop-based gaming requiring game installs and executables, some projects have explored ways to bring the Steam library to the cloud. One approach is using a technique called **remote desktop access** combined with services like Parsec or Rainway. These allow remotely accessing a high-powered PC and running Steam games hosted on that machine, with the video and input streamed back to your local device. 
+Another method is to use emulation technologies like **ORBX.js** to literally run and render Steam games within a browser. ORBX packages desktop games into web-compatible formats that can be executed in JavaScript without requiring native code. In theory, this could allow playing your entire Steam library directly in a browser tab. However, the compression and streaming required can be demanding, and many games may not run well or at all due to technical limitations.
+### Improving Cloud Gaming Performance
+For cloud gaming to become truly viable for immersive 3D games, several technical hurdles need to be cleared. **Latency** is a major issue - any delay between user inputs and visual responses seriously hampers gameplay. Datacenters need to be optimally located near users, networks need low latency, and encoding/decoding needs to minimize lag. **Bandwidth** is also critical - while standard broadband internet works for more casual games, high-quality streaming of modern AAA titles requires very high speeds. 
+Systems like Google Stadia have shown cloud gaming **is possible today** for many less demanding games. But to run graphics-intensive offerings smoothly over the internet still requires advanced optimization of aspects like video compression, input handling, and display rendering. Localized **edge computing** that places game servers physically closer to users can help reduce latency compared to centralized cloud models. Strong business partnerships between gaming platforms, publishers and infrastructure providers will be needed to expand availability and coverage.
+### The Future of Cloud Gaming
+As technologies advance and networks improve, within the next 5-10 years **cloud gaming could become mainstream** for many users globally. Widespread deployment of 5G and fibre will deliver the high bandwidth and low latency essential to support sophisticated virtualized game environments. Datacenters worldwide will employ methods like edge computing to minimize gameplay lag. Platforms may offer unlimited access to enormous libraries for low monthly fees, similar to how Netflix transformed movies and TV.
+If challenges around performance can be solved, **games-as-a-service** could become the new normal even for AAA blockbusters. Players wouldn’t need expensive hardware at home - games would simply work across any device via the internet. This leads to new opportunities for discovery, social experiences and accessibility. The computing power of cloud backends may enable richer, persistent online worlds than ever before. Overall, cloud gaming has potential to radically reshape how we access and experience games in the future.
+![Playing Steam Games in the Browser](https://lootandgrind.com/wp-content/uploads/2019/05/best-steam-pc-games-header-800x400.jpg)

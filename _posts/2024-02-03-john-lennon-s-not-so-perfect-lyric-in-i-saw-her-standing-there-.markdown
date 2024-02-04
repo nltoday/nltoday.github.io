@@ -1,0 +1,26 @@
+---
+layout: post
+title: "John Lennon's Not-So-Perfect Lyric in 'I Saw Her Standing There'"
+date: 2024-02-03 02:13:56 +0000
+categories: "Music"
+excerpt_image: https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1170608O3JM4qYCs8.png
+image: https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1170608O3JM4qYCs8.png
+---
+
+## The Beatles' First Number One Hit
+The Beatles recorded their massive chart-topping hit "I Saw Her Standing There" in a single session on November 26, 1962. After eighteen grueling takes, the band finally nailed the recording they were after. Known for its pumping beat and infectious energy, "I Saw Her Standing There" became the Beatles' first number one single in the UK. The song helped propel the band's debut album "Please Please Me" to the top of the charts as well. While the version released as a single and on the mono mix of the album was flawless, an interesting mistake found its way onto the stereo version thanks to producer George Martin.
+### A Near-Sighted John Lennon  
+It has been well documented that **John Lennon struggled with near-sightedness**. During recording sessions, Mal Evans would hold the lyric sheet low for Lennon to see. However, even with assistance, Lennon occasionally forgot or mixed up words. On November 26th, Lennon seemed to stumble on one line of "I Saw Her Standing There." Though Paul McCartney sang the correct lyric, Lennon added an embarrassed chuckle after singing the line slightly off. George Martin [purposefully left this mistake in the stereo mix](https://store.fi.io.vn/chihuahuas-this-is-my-chihuahua-dog-christmas-pajama-xmas-lights-75-chihuahua-dog), perhaps seeing the humor in Lennon's flub. This "throw it in" moment lives on in the song's legacy.
+
+![](https://i.pinimg.com/originals/04/8f/52/048f52212f18979986fe49b5bd8e2f37.jpg)
+## Unnoticed for Many Years
+For decades, very few listeners caught wind of Lennon's small lyrical error. The version released as a single and on mono formats was flawless. It was only the stereo mix hidden away on album copies where the mistake occurred. In the early 1960s, **stereo sound formats were still gaining popularity**. Most fans experienced the Beatles through mono singles and releases. By the time **stereo gained mainstream dominance in the 1970s**, this minor lyrical flub had faded into the background. For years, few fans knew to listen closely for Lennon's embarrassed chuckle following his botched line. 
+### Discovered Thanks to Improved Audio
+As music technologies advanced, allowing for high-fidelity playback, more observers began to pick up on the subtle error. With **high-resolution digital audio formats and quality speaker systems**, the subtle nuances of a recording become clearer. Fans listening closely on vinyl or CD could finally hear Lennon break character for a brief moment. Online communities helped spread word of the discovery to others. Now, more than fifty years later, Lennon's imperfect yet hilarious vocalization remains a cherished, surprisingly intimate Beatles recording secret.
+## The Interesting History of the Mono and Stereo Mixes
+The Beatles were heavily involved in crafting the mono mixes for their albums up through 1969's "Abbey Road". However, they largely stepped aside when it came to stereo, leaving George Martin and his engineering team in control of those productions. As a result, the band themselves were not too fond of stereo formats. **Paul McCartney has stated the Beatles felt "naked" without the fullness of mono**. For many years, only the pricey "Beatles in Mono" vinyl box set offered pristine mono versions of their recordings.
+### More Than an Accidental Inclusion
+Some have argued that Lennon's lyrical flub was left in the stereo mix by mistake. However, it seems unlikely that the ever-diligent George Martin did not notice the error. A more logical theory is that he found the humor in Lennon's honest and endearing reaction. By leaving it in, Martin revealed a rare behind-the-scenes glimpse of the band relaxing and laughing together during the intense recording process. In keeping with the true spirit of a **throw it in moment**, this tiny mistake managed to enrich our understanding of the magic happening in the studio. 
+## The Legacy of an Imperfect yet Iconic Recording    
+Nearly sixty years since that fateful November session, Lennon's unpolished yet charming vocalization remains a hidden Beatles treasure. Thanks to his myopia and some spontaneity from Martin, fans received an unvarnished look at the band's creative process. While striving for chart-topping perfection, moments of genuine fun and camaraderie still shone through. Even the biggest of bands were still human. In the end, Lennon's imperfect yet comedic vocal only added flavor and character to one of the group's most irresistible early songs. Although unintentional, the mistake strengthened our emotional connection to a legendary British invasion classic.
+![John Lennon's Not-So-Perfect Lyric in 'I Saw Her Standing There'](https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1170608O3JM4qYCs8.png)

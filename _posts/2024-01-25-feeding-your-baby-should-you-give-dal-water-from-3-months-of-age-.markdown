@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Feeding Your Baby: Should You Give Dal Water From 3 Months of Age?"
+date: 2024-01-25 09:35:31 +0000
+categories: "News"
+excerpt_image: https://www.drbrownsbaby.com/wp-content/uploads/2020/04/Feeding_Stages_Guide_Stage1_FINAL.jpg
+image: https://www.drbrownsbaby.com/wp-content/uploads/2020/04/Feeding_Stages_Guide_Stage1_FINAL.jpg
+---
+
+### Is Dal Water Nutritious For Babies?
+Many Indian parents give their babies dal water from an early age, believing it helps them gain weight and exposes them to essential nutrients. However, exclusively breastfeeding or formula feeding is recommended for babies under 6 months of age. While dal contains **protein, calcium and essential fatty acids**, these components may not be well-absorbed by a baby's immature digestive system. Additionally, dal water provides no nutritional value and could expose babies to allergens before their immunity is developed.
+
+![](https://www.tarladalal.com/members/9306/big/big_masoor_dal_water_(__baby_and_toddler)-10186.jpg?size=696X905)
+### When Is the Right Time to Introduce Dal Water?
+Most health experts agree that [solid foods like dal water](https://store.fi.io.vn/you-can-never-go-wrong-add-to-stories-a-dog-schnauzer-1) should only be introduced around 6 months of age, when baby's digestive system is mature enough. Signs that a baby is ready include being able to sit with support, having good head and neck control as well as expressing interest in foods you eat. Between 5-6 months, babies start producing digestive enzymes and their gut is developed to handle solid foods. Introducing dal water before this age could cause digestive issues like gas, diarrhea or poor nutrition absorption.
+### Choosing the Best Dal Variety for Babies 
+If introducing dal water at 6 months, opt for easily digestible varieties like **yellow moong dal**. It is low in allergens and rich in **vitamins, minerals and protein**. Urad dal is another nutritious choice being high in **calcium, iron and protein**. However, its stronger taste could be less appealing to babies. Go for pre-soaked and thoroughly cooked dal made into a runny consistency that is easy for little tummies to handle. Add only a small amount at first and increase gradually based on baby's tolerance. 
+### Signs Your Baby May Be Ready For Dal Water
+Some signs that point to a baby being developmentally ready to start complementary feeding include sitting upright without support, losing interest in just breastfeeding/formula, good head and neck control as well as hand-to-mouth coordination. Pay attention to your little one's cues and stop or hold off introducing dal water if they seem distressed, refuse to eat or have signs of discomfort like gas or diarrhea afterwards. Go slowly, observe for allergies and consult your pediatrician for personalized advice on the best feeding plan.
+### Making Dal Water Safely For Babies
+When preparing dal water for the first time, ensure optimal safety and nutrition. Only use small quantities of pre-soaked, thoroughly cooked dal blended into a smooth puree without lumps or chunks that could cause choking. Avoid adding spices, salt or food items barring plain boiled vegetables. Offer lukewarm dal water in a clean baby spoon or cup, encouraging self-feeding under supervision. Clean utensils, surfaces and hands properly before and after each feeding session. Introduce in small amounts and increase gradually based on your baby's tolerance and appetite.
+### Continuing Breastfeeding Alongside Dal Water 
+Most experts recommend continuing breastfeeding when introducing complementary foods at around 6 months. Breastmilk remains the most nutritious source of vitamins, minerals, antibodies and healthy gut bacteria essential for baby's development at this age. Gradually increase dal water servings while maintaining frequent breastfeeding sessions throughout the day. This ensures getting the complete nutrition from breastmilk while exposing baby to different flavors and textures through complementary feeding. Wean breastfeeding completely only once baby is at least 1 year old for continued healthy growth and immunity boost.
+### When to Consult the Pediatrician 
+While dal water provides nutrients when introduced appropriately, certain signs require prompt medical advice. Consult the pediatrician if baby seems to struggle with swallowing, experiences vomiting, diarrhea or signs of distress after dal water.  They may advise holding off on solids or adjusting the feeding approach based on factors like baby's medical history, tolerance and development stage. Timely expert guidance especially helps identify potential food allergies or sensitivities at an early stage for addressing appropriately. Overall, go by your baby's readiness cues and consult professional advice for tailoring the best complementary feeding plan.
+![Feeding Your Baby: Should You Give Dal Water From 3 Months of Age?](https://www.drbrownsbaby.com/wp-content/uploads/2020/04/Feeding_Stages_Guide_Stage1_FINAL.jpg)

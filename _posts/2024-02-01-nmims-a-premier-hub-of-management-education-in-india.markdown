@@ -1,0 +1,24 @@
+---
+layout: post
+title: "NMIMS: A Premier Hub of Management Education in India"
+date: 2024-02-01 23:36:02 +0000
+categories: "Business"
+excerpt_image: https://nmims.edu/images/campuses/indore/2.jpg
+image: https://nmims.edu/images/campuses/indore/2.jpg
+---
+
+### A brief background of NMIMS 
+Narsee Monjee Institute of Management Studies or NMIMS is a Deemed-to-be University located in Mumbai, India. Founded in 1981, it is one of the top B-schools in the country offering various undergraduate, postgraduate and doctoral programs in **management, banking, commerce, engineering, science and technology**. Over the years, NMIMS has grown exponentially with six campuses located across India including Mumbai, Shirpur, Bangalore, Hyderabad, Indore and Navi Mumbai. It aims to set benchmarks in management education and nurture industry-ready graduates through its practice-oriented curriculum designed by experienced faculty.
+
+![](https://nmat.nmims.edu/hyderabad-campus/assets/images/navimumbai.jpg)
+### NMIMS' multi-campus model fosters growth across India  
+NMIMS adopted a multi-campus strategy to cater to the growing demand for quality management education nationwide. Campuses were established in key cities like **Bangalore, Hyderabad** to take advantage of emerging opportunities. Both campuses provide [PGDM and executive programs](https://store.fi.io.vn/you-can-never-go-wrong-add-to-stories-a-dog-schnauzer-1) accepted the NMAT score. Their lower fee structure of 15-16 lakhs has attracted many aspirants given Mumbai campus' higher cost. Though newer than Mumbai, these campuses carry the reputed NMIMS brand and are making **notable contributions to placements and industry partnerships.** Their consistent achievements establish them as premier regional management institutes.
+### NMIMS Bangalore: Achieving excellence through holistic development
+Established in 2010, **NMIMS Bangalore** has quickly cemented its position amongst the top B-schools in the city. It offers a conducive learning environment and well-rounded curriculum involving live projects, internships and global immersion programs. Recruiters appreciate its focus on developing "industry-aligned skilling" through such initiatives. In 2019, it registered a record placement season with 91 participating companies extending highest package of 21.38 lakhs and average CTC of 10.5 lakhs. 25 new recruiters were onboarded, reflecting the growing **brand equity and talent pipeline.** Students also benefit from pre-placement offers by reputed firms like VMware and Exide Life Insurance. 
+### NMIMS Hyderabad: FosterIng Industry Connect through Immersive Learning
+Set up in 2013, **NMIMS Hyderabad** has made rapid strides in facilitating industry-integrated learning. It sees participation from over 40 top recruiters annually who hire students based on their application-oriented skills and potential to "hit the ground running". In 2019, the institute recorded cent-percent placements with highest CTC of 25 lakhs and average package of 12 lakhs. 87 offers were made by 40 prominent companies spanning diverse sectors. The increased number of new recruiters like Moody's, ADP and Genpact every year is a testimony to the caliber of students here. Strong industry partnerships and **immersive learning pedagogy** has enabled NMIMS Hyderabad to nurture industry-ready talent for the job market.
+### Placement Performance reflects Growing Maturity Of Campuses
+While placement stats of Mumbai campus currently surpasses the other two, **NMIMS Bangalore and Hyderabad campuses** have recorded consistent growth in their placement results over the years. Their highest, average and median CTC are improving year-on-year. More established recruiters are also showing increased interest and hiring in larger numbers. This reflects the deepening **industry connections** and enhanced competencies of students passing out from these campuses. With each passing batch, the caliber and brand value of students is strengthening. Both campuses offer tremendous opportunities for experiential and **application-based learning** in a cost-effective manner.
+### Conclusion 
+To conclude, the multi-campus expansion has enabled NMIMS to broaden its reach and impact as one of India’s premier institutes for management education and research. While still evolving, its Bangalore and Hyderabad campuses are effectively leveraging their location-specific advantages to realize the group’s vision. Their consistent placement performances demonstrates the growing maturity and strengthening value proposition to recruiters. Backed by the venerable NMIMS brand, these campuses are well-poised to push the boundaries of management pedagogy and achieve greater industry alignment to nurture future-ready leaders.
+![NMIMS: A Premier Hub of Management Education in India](https://nmims.edu/images/campuses/indore/2.jpg)

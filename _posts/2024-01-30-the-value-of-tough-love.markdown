@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The Value of Tough Love"
+date: 2024-01-30 00:36:50 +0000
+categories: "News"
+excerpt_image: https://3.bp.blogspot.com/-bKl6TLOtnWE/Xta75etiOcI/AAAAAAAAI6M/GrF2IOjjczIhK_4zXSXZK9WvhyExOCXdgCLcBGAsYHQ/s1600/julian_barnes.jpg
+image: https://3.bp.blogspot.com/-bKl6TLOtnWE/Xta75etiOcI/AAAAAAAAI6M/GrF2IOjjczIhK_4zXSXZK9WvhyExOCXdgCLcBGAsYHQ/s1600/julian_barnes.jpg
+---
+
+Living with him was comfortable, but not ideal. As a father, I wanted more for my son - I wanted him to reach his fullest potential. It was time for some tough love.
+### A Needed Change
+My son was drifting through life without much direction or motivation. He had everything handed to him and never faced any real challenges or consequences for his actions. I knew this lifestyle would not serve him well as an adult. **We had a heart-to-heart talk where I explained that things needed to change.** He would need to either start paying rent or find his own place to live. This came as a shock at first, but it was a change that was long overdue.
+
+![](https://i.pinimg.com/originals/b0/de/c2/b0dec2701df847c2ae718b6e313ec7aa.png)
+### Learning Independence the Hard Way 
+When my son did not take the new living situation seriously, I had to follow through with the next step - giving him 30 days to find a new home. **The transition to independent living was not easy for him at first.** He struggled to adjust without the financial support and other assistance he had grown accustomed to. There were difficult times as he tried to navigate life on his own for the first time. After some missteps that landed him in legal trouble, the reality of the situation started to sink in.
+### Putting in the Work
+Facing the challenges of independence helped motivate my son to get serious about his future. **Over the next year and a half, he worked diligently to pay off fines and build his credit back up.** He saved money to purchase his own vehicle and started looking into career paths. Watching him put in the effort to turn things around and map out a plan was incredibly rewarding as a father. The tough love approach, though difficult, was paying off in developing responsibility and self-sufficiency.
+### A Fresh Start in a New Place 
+My son decided the major change he needed was to move across the country for a new beginning. He researched schools and secured an apartment in Arizona where he would start paramedic training in the fall. Just a few weeks ago, he embarked on an 1,800 mile journey for his fresh start. **Reaching this new chapter in his life was only possible because of the lessons learned from facing challenges independently.** The risks, sacrifices and hard work were all worth it to see him following his dreams.
+### A Stronger Father-Son Bond
+Going through this challenging period of self-reliance deeply strengthened our father-son relationship. **Whereas he once dismissed my advice, he now listens thoughtfully and considers various perspectives.** We have formed a bond of mutual trust, respect and understanding. Even in the several weeks since his big move, he keeps in touch daily to share his experiences and get fatherly counsel. **As difficult as the tough love approach was, it yielded more positive results than I could have imagined.** Our relationship has never been better and I'm incredibly proud of the motivated, independent young man he has become.
+### Lessons to Pass On
+Reflecting on my experience raising my son, I believe tough love played a pivotal role in his development and my own growth as a parent. **Seeing him succeed now because of overcoming past difficulties is tremendously rewarding.** In the future, I hope to use a similar approach if needed with the teenaged boy I am now parenting myself. **The lessons of self-reliance, responsibility and working diligently towards goals and dreams are invaluable life preparations that I aim to instill.** With patience and true care for their wellbeing, tough love can work wonders when applied to raising boys into independent, principled men.
+### Finding Fulfillment Through Service 
+It has now been several months since my son embarked on his new journey in Arizona. I am pleased to report that he has settled in well and is thriving in his new environment. He began his paramedic training program and is finding the work incredibly fulfilling. **Each day he is able to directly serve his community through responding to medical emergencies, it reinforces that he made the right career choice.** On weekends, he has enjoyed exploring the many natural wonders surrounding his new home like the Grand Canyon. **The self-confidence and life skills developed through our tough love period are serving him extremely well in this next chapter.** I couldn't be more proud of his accomplishments and glowing reviews from his instructors. His dedication to service gives me great optimism for the positive impact he will have.
+### Continuing the Cycle of Learning and Giving 
+As my son focusses on establishing his career, I have also begun a new chapter focused on family. My own dad is in his later years now, so I have returned to my roots to help care for him and other aging family members. **Through daily responsibilities like cooking, cleaning and assisting with projects, I am able to both learn from their wisdom and pass on life lessons.** Likewise, I continue guiding my teenage son with constructive challenges and responsibility. **Our family's cycle of learning through hands-on experience, then giving back to support the next generation is profoundly rewarding.** Though the road wasn't easy getting here, I am grateful for this journey and all it has taught me.
+![The Value of Tough Love](https://3.bp.blogspot.com/-bKl6TLOtnWE/Xta75etiOcI/AAAAAAAAI6M/GrF2IOjjczIhK_4zXSXZK9WvhyExOCXdgCLcBGAsYHQ/s1600/julian_barnes.jpg)

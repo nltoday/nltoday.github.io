@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Troubleshooting Wireless Network Connectivity Issues on Brother Machines"
+date: 2024-01-29 23:47:50 +0000
+categories: "News"
+excerpt_image: https://cdn.ttgtmedia.com/rms/onlineimages/networking-typical_wifi_problem_scope_mobile.png
+image: https://cdn.ttgtmedia.com/rms/onlineimages/networking-typical_wifi_problem_scope_mobile.png
+---
+
+Wireless connectivity issues can be frustrating to deal with. In this article, we will go through various potential causes of connection problems and steps you can take to resolve them when using a Brother wireless printer or MFP.
+## Checking Authentication and Encryption Settings
+One of the most common issues encountered is when the wireless security settings on the access point do not match those of the Brother machine. **Wireless authentication methods** and encryption protocols need to be identical in order for a secure wireless connection to be established. 
+Some things to check include verifying that the **same wireless network name (SSID)** is being used, the **wireless security settings are correctly configured** (WPA/WPA2 Personal versus WEP, etc.), and that the correct **pre-shared key or password** has been entered on both the access point and the Brother device. Making sure these critical security parameters are properly matched will solve connectivity problems in many cases.
+## Testing Connection Using Another Device or Network
+If changing the wireless authentication and encryption settings doesn't resolve the issue, another step is to test connecting the Brother machine to the wireless network using a different computer, smartphone or device. This helps determine if the connectivity problem lies with the specific machine having issues or with the wireless network configuration itself. 
+Testing connectivity on another available wireless network can also provide useful information - if the machine is able to connect on a different network but not the primary one, it points to an issue specifically with that access point rather than globally with the machine. Isolating whether it's a local device/network versus machine problem helps narrow down troubleshooting efforts.
+## Enabling Wireless Setup Support Mode
+Brother machines have a useful feature called **Wireless Setup Support Mode** which can help when dealing with stubborn connectivity problems. **Enabling wireless setup support mode** places the machine into an unconfigured state and allows it to more easily detect and connect to available wireless networks during setup. 
+Some benefits of enabling wireless setup support mode include letting the machine communicate using lower-level wireless protocols to establish initial connections, as well as restarting the entire wireless configuration process from scratch which may resolve issues caused by residual incorrect settings. It's worth giving this mode a try when other standard troubleshooting steps have failed.
+## Checking for Wireless Network Interference 
+Wireless **network interference** from competing signals can disrupt connections, especially in environments with many neighboring WiFi networks. Sources that could potentially cause interference include other access points on overlapping channels, **Bluetooth devices, baby monitors, cordless phones and microwave ovens**. 
+Some things you can do to check for and mitigate wireless interference include using a **wireless analyzer app** on a smartphone to check for any unusually strong competing signals on the same channel as your wireless network. Switching the access point channel selection to one with less surrounding traffic also helps. Limiting the number of neighbouring WiFi networks, keeping devices that could interfere farther away and adding wireless access point channel isolation features are other approaches.
+## Adjusting Transmission Power and Channel Settings
+Most modern wireless routers allow for adjusting transmission power levels and channel selection to better optimize performance. However, in some fringe cases, these settings could potentially cause connectivity issues rather than solve them, so it's important to first establish a stable connection before making changes. 
+That said, for those still experiencing troubles after following the other troubleshooting steps above, it may help to experiment with different **wireless transmission power levels** as well as switching the access point channel to alternatives with less surrounding network traffic. **Lowering transmit power** can reduce interference in certain environments, while trying different non-overlapping **channels like 1, 6 or 11** likewise aims to lessen competition for airtime.
+## Contacting Technical Support for Further Assistance
+If the connection problems persist even after exhausting all of the above suggestions, the next recommended course of action is to contact Brother technical support for additional troubleshooting assistance. They will be able to review the specifics of the setup and attempt advanced troubleshooting procedures specific to the Brother printer model in question. 
+In some cases, it may be determined a factory reset of the wireless print server settings is necessary, or potentially even a firmware update to address any known compatibility issues. The Brother support team also has direct access to engineering resources that can help determine if the observed connectivity problems represent a systematic issue requiring further resolution or debugging on their end.
+With patience and by systematically addressing each of these potential causes, wireless networking issues on Brother machines can usually be solved. But technical support is there as a last resort if needed to help get printing back up and running smoothly over WiFi.

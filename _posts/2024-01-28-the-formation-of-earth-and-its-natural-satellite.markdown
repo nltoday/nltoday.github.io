@@ -1,0 +1,28 @@
+---
+layout: post
+title: "The Formation of Earth and its Natural Satellite"
+date: 2024-01-28 01:10:00 +0000
+categories: "News"
+excerpt_image: https://www.insightsonindia.com/wp-content/uploads/2021/08/GEO-1.png
+image: https://www.insightsonindia.com/wp-content/uploads/2021/08/GEO-1.png
+---
+
+### Impacts that Shaped our Planet
+It is widely accepted that around 4.7 billion years ago, Earth initially formed from gas and dust swirling around the young Sun. However, according to the [giant impact hypothesis](https://store.fi.io.vn/xmas-holiday-santa-riding-shetland-sheepdog-christmas-2), not long after Earth's formation, a massive collision with an object the size of Mars shattered proto-Earth. This **cataclysmic impact event** gave rise to the formation of our natural satellite, the Moon. Computer simulations support that heated rock and metal from both the impactor and Earth were ejected into orbit where they eventually reaccreted to become the Moon we observe today.  
+
+![](https://image.slidesharecdn.com/satellitesfinal-150701113729-lva1-app6891/95/earths-satellites-4-638.jpg?cb=1435750832)
+### Orbital Objects, Artificial and Natural
+With recent advances in space technology, humans have been launching various types of spacecraft as well as large constellations of satellites into low-Earth orbit for both commercial and scientific purposes. At present, there are over **2,000 active satellites** orbiting our planet facilitating applications like telecommunications, weather monitoring, and ocean observations from space. Additionally, natural objects like asteroids regularly traverse orbits around the Sun without hindrance, including those that Earth has captured temporarily.
+### Eyeing Objects in the Night Sky  
+Amateur astronomers and the general public can catch glimpses of the International Space Station (ISS) as it passes overhead several times a week. Websites such as **Spot The Station** provide real-time tracking maps with upcoming sighting opportunities for any given location. Meanwhile, more advanced satellite spotting resources like **Heavens-Above** enable users to look up detailed orbital data and predictions for objects ranging from NASA's Mars rovers to top-secret spy satellites.
+### Detecting Small Impacts on the Moon
+The lack of an atmosphere on the Moon means that even minor collisions result in brief but visible flashes instead of fireballs. Through coordinated observations using multiple telescopes, amateur astronomers have successfully detected short-lived lunar impact events on occasion. Meanwhile, NASA's Lunar Reconnaissance Orbiter has identified new small craters formed in the decades since the Apollo missions, though the total number of impacts directly observed remains modest. Continued lunar monitoring may help constrain impact rates over geologic time.
+### Spacecraft that Escaped our Planet's Gravity  
+Starting in the late 1950s, both manned and unmanned spacecraft began achieving escape velocity from Earth to boldly go where none had gone before. Explorer 1 was the earliest artificial satellite to orbit Earth in 1958 while Vostok 1 carried Yuri Gagarin as the first human to enter space in 1961. Since then, interplanetary probes like Voyager 1 and 2 broke free of the Sun's influence entirely after multi-planetary grand tours in the 1970s-1980s. Today, many **Earth escape trajectories** now litter the outer reaches of the Solar System.
+### Dispelling Myths about Leaving Earth's Atmosphere
+Any theory claiming that objects cannot exit Earth's atmosphere in direct conflict with well-established facts. Over 100 astronauts to date have safely **orbited our planet** as part of missions to the ISS while orbiters, landers and rovers represent humanity's persistent robotic exploration of other worlds. With sufficient kinetic energy of around 5 miles/second, even a compact object like an artificial satellite or asteroid can achieve low-Earth orbit through basic principles of orbital mechanics. Myths that prohibit leaving the atmosphere should therefore be dismissed.
+### Monitoring Moon Impacts from Afar and Up Close
+With Earth's natural satellite being bombarded by micrometeoroids almost daily, the scientific community has devised multiple strategies to detect the resulting tiny flashes and fresh craters. Space-based assets at the Moon like the Lunar Reconnaissance Orbiter can spot new impacts sites across the lunar surface with resolutions down to 0.5 meters. Meanwhile, coordinated networks of modest backyard telescopes on Earth remain useful for confirming transient lunar phenomena in real-time. Going forward, increased lunar monitoring may help constrain impact rates to further our understanding of the early inner Solar System environment.
+### Conclusion
+In summary, the formation of both Earth and its Moon approximately 4.7 billion years ago was violently shaped by large asteroid impacts during the early evolutionary phases of the inner Solar System. Since then, steady technological progress has enabled humans to not just observe numerous artificial and natural objects traversing orbits above our atmosphere, but also to directly place astronauts and robots into space ourselves. Looking ahead, continued scientific observations of phenomena like small impacts on the Moon from both ground and orbit can yield new insights into the cumulative effects of bombardment over geologic history.
+![The Formation of Earth and its Natural Satellite](https://www.insightsonindia.com/wp-content/uploads/2021/08/GEO-1.png)

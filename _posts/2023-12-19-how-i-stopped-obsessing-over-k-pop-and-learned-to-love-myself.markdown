@@ -1,0 +1,30 @@
+---
+layout: post
+title: "How I Stopped Obsessing over K-pop and Learned to Love Myself"
+date: 2023-12-19 15:15:27 +0000
+categories: "K-pop"
+excerpt_image: https://i1.wp.com/ther3journal.com/wp-content/uploads/2020/09/1_header_How-I-Learned-to-Love-Myself.jpg?fit=1200%2C600&amp;ssl=1
+image: https://i1.wp.com/ther3journal.com/wp-content/uploads/2020/09/1_header_How-I-Learned-to-Love-Myself.jpg?fit=1200%2C600&amp;ssl=1
+---
+
+K-pop was a huge part of my life for a while. As a high school student last year, I discovered BTS and other groups like Blackpink and NCT and became totally addicted to watching their videos and learning about them. However, I knew I needed to make a change when it started negatively impacting my studies and mental health. Here is the journey I went through to overcome my addiction and prioritize self-love.
+### Recognizing What Really Makes Me Happy  
+I realized that constantly watching K-pop idols' "fake personas" on YouTube videos was just a way for me to escape from reality and procrastinate. While it provided momentary enjoyment, it didn't actually make me truly happy or help me achieve my goals. As a top student, I knew my future, grades, career, and long-term happiness were [far more important](https://fistore.mysenprints.com/collection/abels) than becoming obsessed with celebrities. I needed to make changes to focus on nurturing myself instead of living vicariously through others.
+
+![](https://www.coaching-online.org/wp-content/uploads/2021/05/how-to-Stop-Obsessing-Over-Someone-600x900.png)
+### Questioning Unhealthy Fandom Behavior
+One thing that tipped me over the edge was witnessing how out of control some K-pop fandoms had become, especially ARMY. I felt bad for fans who were so addicted that they wanted to learn Korean and move to Korea just to see BTS perform. Some attacked anyone who disagreed with them online. Constantly seeing **BTS merchandise, hashtags and fanart** everywhere started to feel excessive too. I questioned if dedicating so much of my identity to a K-pop group was healthy. 
+### Refocusing on Self-Care 
+To overcome my obsession, I started asking myself hard questions like "Am I truly happy constantly watching YouTube, or am I just escaping reality?" and "Isn't my time better spent on **self-improvement and pursuing my dreams**?" I realized I was well on my way to becoming one of those overly-invested fans who only lived for their idols. That had to change. I made a commitment to myself to find happiness from within instead of through K-pop.
+### Limiting Exposure and Exploring Other Interests
+The first step was cutting back on how much K-pop content I consumed each day. I deleted pictures of idols from my phone and stopped checking fan forums obsessively. When YouTube recommended K-pop videos, I started clicking "Not Interested" to adjust my algorithm. I also challenged myself to **try new hobbies like learning an instrument, reading books** and spending more time with family/friends to fill the void. Slowly, K-pop became less of a focus in my life.
+### Accepting Relapses and Moving Forward Positively  
+Quitting cold turkey didn't work for me - there were times I relapsed and got sucked back into hours of Youtube videos. But I learned not to punish myself for mistakes. Instead, I acknowledged my slip ups and kept working to redirect my energy elsewhere. Over many months, the relapses became less frequent as my other interests took hold. I came to terms with the fact that I don't have to eliminate K-pop completely from my life to be happy - I just can't let it consume me.
+### Gaining Perspective on Idols' Real Lives  
+Spending less time obsessively following idols also helped me realize they are just normal people with normal lives behind closed doors. While their public images are carefully manicured, idols likely face many of the same struggles and insecurities as anyone else. Having more realistic expectations about **celebrity privacy and priorities** took pressure off thinking I had to know every detail about them. Idols are entertainers, not intimate friends.  
+### Valuing Self-Worth from Within
+Most importantly, this process taught me the value of **self-love and inner strength**. I came to understand what it truly means to prioritize my own well-being and happiness rather than rely on external validation. While a passion for K-pop isn't inherently bad, obsessive fandom stemmed from low self-esteem in my case. By addressing the root issues, boosting confidence from the inside out and setting healthy boundaries, I was able to enjoy the music without it controlling my life.
+### Maintaining Balance and Maturity in Fandom
+Now, I still listen to K-pop casually but avoid deep diving into obsessive fan behavior online or comparing myself to idols. I recognize the sometimes exploitative reality of the industry too. My playlist includes a variety of genres, and other interests have priority over YouTube spirals. Most of all, I feel empowered having overcome an unhealthy fixation through personal growth and focusing on what really matters - my own development and relationships. Maintaining this balance is an ongoing process, but a very rewarding one.
+Overall, overcoming obsessive K-pop fandom was an important journey of self-reflection that encouraged me to value my inner well-being above all else. While the music still brings me joy in moderation, gaining perspective helped me address deeper issues and love myself unconditionally - which continues to make all the difference. My happiness now comes from within, freely, instead of lives strictly defined by celebrity fixation.
+![How I Stopped Obsessing over K-pop and Learned to Love Myself](https://i1.wp.com/ther3journal.com/wp-content/uploads/2020/09/1_header_How-I-Learned-to-Love-Myself.jpg?fit=1200%2C600&amp;ssl=1)
