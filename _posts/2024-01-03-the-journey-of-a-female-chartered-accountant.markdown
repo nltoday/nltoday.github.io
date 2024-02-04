@@ -1,0 +1,35 @@
+---
+layout: post
+title: "The Journey of a Female Chartered Accountant"
+date: 2024-01-03 07:00:27 +0000
+categories: "Personal finance"
+excerpt_image: https://images.thequint.com/thequint/2016-06/c20b243d-8f0e-48c7-9784-b3925e6f34fb/1.jpg?auto=format%2Ccompress&amp;fmt=webp&amp;width=720&amp;w=1200
+image: https://images.thequint.com/thequint/2016-06/c20b243d-8f0e-48c7-9784-b3925e6f34fb/1.jpg?auto=format%2Ccompress&amp;fmt=webp&amp;width=720&amp;w=1200
+---
+
+### Pursuing Her Dreams
+Ms. A is pursuing her articleship under a female Chartered Accountant. As an aspirant, she considers herself qualified to understand the challenges of being a woman in a demanding profession like Chartered Accountancy. Her principal is an inspiration who has overcome many obstacles through her dedication and hard work. Despite responsibilities of taking care of her family, husband's family and a young child, she manages her growing practice efficiently.  
+In just one year since starting her own firm, she has garnered clients that most established firms take 3-4 years to build. Her primary duty involves [clearing tax files selected for scrutiny](https://store.fi.io.vn/collection/alejos), which requires negotiating with tax officers at various levels in a challenging city like Kolkata. During peak seasons, she works round the clock including Sundays to resolve client issues on time. It is impressive that she still maintains a cheerful demeanor while juggling multiple roles.
+
+![](https://1.bp.blogspot.com/--2RftDPVWUU/XrCR1jtJkVI/AAAAAAAAGQI/miUUMA7FzZcJx73SR6wtNhfxLOitSE3KwCLcBGAsYHQ/s1600/Morenike_Vincent.jpg)
+### Balancing Personal and Professional Commitments 
+Reaching home only after 3-4 pm on regular days, Ms. A has witnessed her principal assisting with household chores like cooking, washing dishes and shopping even at late hours. On certain occasions, she returns as late as 11 pm due to overflowing work commitments. However, she ensures quick resolution of any issues flagged by her articled assistant remotely.  
+Despite hectic schedules, she prioritizes family responsibilities like caring for her young child and elders. Her optimistic attitude and supportive feedback have been pivotal in motivating Ms. A during the articleship. Managing a **growing accounting practice** along with familial duties demonstrates immense willpower and time management skills.
+### Paving the Way for Other Women
+Qualifying as a CA is an arduous journey in itself, so those who clear it have an innate zeal to succeed. Ms. A believes her mentor possesses the competence and confidence to achieve greater professional milestones. However, hurdles unique to woman professionals like restrictions on mobility or inflexible working hours can hamper their aspirations. 
+She hopes to emulate her principal's tenacity in establishing an independent practice someday. Witnessing the hardships confronted by senior women in the field has reinforced her dedication towards **advancing women participation** in the sector. Ms. A is determined to set an example for future generations through her achievements while advocating for inclusion and equal opportunities.
+### Envisioning the Future
+Upon completion of her training, Ms. A contemplates the challenges that might surface as an independent Chartered Accountant. Securing a stable job opportunity is critical to gain industry exposure initially. However, gender biases could adversely impact opportunities available to women. 
+Additionally, external pressure to get married tends to divert many talented lady professionals prematurely. She realizes maintaining a work-life balance will be crucial to thrive sustainably. With her mentor's ongoing guidance and years of relevant experience, Ms. A is confident of navigating the **post-qualification career phase** efficiently. 
+Her long-term vision involves setting up a full-fledged accounting practice to facilitate more women join the domain. Regular networking events, collaborative training programs and flexibility in work arrangements could help attract and retain female talents. Uplifting the community is a goal she remains passionately committed to achieving.
+### Rising Above Adversities
+Two years into her articleship, Ms. A expresses gratitude towards her mentor who has overcome significant obstacles to achieve success. Juggling home responsibilities, with no external support system, as a single mother must have been extraordinarily stressful. Yet, she upheld positive spirit and focus on professional growth every step of the way.
+Despite facing distrust from colleagues and clients due to gender, she proved her competency through consistent performance. Accessing institutional support during tricky phases like maternity leave was likely an uphill task too. Overcoming societal prejudices to be self-reliant exemplifies immense inner strength and determination.
+Ms. A aims to internalize such resilience and ‘can-do’ attitude. She understands qualifying alone will not suffice to establish credibility in a male-dominated domain long-term. Continuous upskilling, developing specialized skills, initiating community outreach are priorities to stay empowered continuously. The confidence and opportunities gained so far will help take on future difficulties with equal conviction.
+### Committed to Spreading Awareness 
+Ms. A firmly believes that by setting an inspiring example through personal and professional achievements, she can play a role in transforming mindsets. Society at large is still skeptical about women pursuing lengthy educational qualifications or establishing independent practices.
+Thus, communicating success stories of pioneering lady chartered accountants who persevered against all odds can motivate budding aspirants. Participating in panel discussions, publishing motivational articles online and conducting seminars in educational institutes are impactful ways to raise awareness.
+Sharing expertise can help budding women professionals overcome limitations imposed due to gender-based socio-cultural norms prematurely. Promoting facilities that ease dual responsibilities like day-care services within organizations can aid retention of female talents. With perseverance and positivity, the accounting sector can transition towards attaining true inclusion and diversity.
+# Conclusion
+The journey ahead seems challenging yet promising for Ms. A with her indomitable spirit and mentor's continuous support. Witnessing hardships braved by senior women in the field has fortified her resolve to work towards mainstreaming gender diversity. Qualifying as a CA is a significant achievement, sustaining the career through adversities is a bigger test of grit and resilience. Armed with qualifications, values imbibed during training and commitment to pave the way for others, she feels empowered to face any obstacle along the road to emerge victorious.
+![The Journey of a Female Chartered Accountant](https://images.thequint.com/thequint/2016-06/c20b243d-8f0e-48c7-9784-b3925e6f34fb/1.jpg?auto=format%2Ccompress&amp;fmt=webp&amp;width=720&amp;w=1200)

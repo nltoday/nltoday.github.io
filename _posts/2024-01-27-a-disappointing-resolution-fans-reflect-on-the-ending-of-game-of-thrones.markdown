@@ -1,0 +1,29 @@
+---
+layout: post
+title: "A Disappointing Resolution: Fans Reflect on the Ending of Game of Thrones"
+date: 2024-01-27 23:49:18 +0000
+categories: "News"
+excerpt_image: https://www.indiewire.com/wp-content/uploads/2019/05/Courtesy-of-HBO.jpg
+image: https://www.indiewire.com/wp-content/uploads/2019/05/Courtesy-of-HBO.jpg
+---
+
+### # The Journey of Game of Thrones
+Game of Thrones captured the attention of millions of viewers globally for its unexpected twists and turns. From the shocking demise of main characters like Ned Stark to the epic battles between ice and fire, the showrunners David Benioff and D.B. Weiss cleverly subverted expectations at every turn. Over eight seasons, fans became deeply invested in the multifaceted characters and the intriguingly complex web of political intrigue weaving through the warring kingdoms of Westeros. 
+Yet with its conclusion in 2019, the immensely popular fantasy series ended in a way that disappointed many longtime fans. While the show brought several storylines to a close, the resolution felt rushed and contradictory to established character arcs. In particular, Daenerys Targaryen's sudden [mad queen](https://fistore.mysenprints.com/collection/aleshire) transformation and Bran Stark unexpectedly becoming king were major points of contention. 
+
+![](https://static2.srcdn.com/wordpress/wp-content/uploads/2019/05/Game-of-Thrones-Ending-Explained.jpg)
+### # Flaws in Daenerys' Turn
+Daenerys' ruthlessness in burning down **King's Landing** came across as an **unearned character derailment** to most viewers. Her gentle and compassionate nature, established through years of morally upright actions, made the violent turn implausible without sufficient buildup. Despite some foreshadowing, her fateful descent into madness lacked credible motivation and occurred too abruptly. While grief and paranoia could partly explain her actions, lifelong emotional stability cannot unravel so cleanly. 
+Furthermore, Daenerys had consistently shown restraint even when enraged, like locking her dragons to protect innocents. Her sudden willingness to **indiscriminately massacre civilians** directly went against this established trait of avoiding needless bloodshed. The Mad King's irrational killing spree also differed in targeting specific houses for vengeance rather than random butchery. Daenerys' flip to a frothing zealot came across as a flimsy justification for an **expedient plot device**. Fans saw this as a disservice to her complex character arc spanning many seasons.
+### # Bran's Surprising Ascension 
+Equally perplexing was Bran Stark's elevation to **King of the Six Kingdoms**. He had receded into a cryptic mystical role for long stretches, detached from political ambition and human concerns. His election resulted more from a lack of alternatives than legitimate leadership potential. Viewers struggled to believe the lords of Westeros would unanimously accept a figure so unfamiliar and disinterested in governing. 
+Moreover, Bran's new title as **"Lord of the Realm"** seemed nonsensical given his stated inability to hold lands or influence affairs as the **Three-Eyed Raven**. Contradictions like this highlighted how haphazardly the ending had been crafted, valuing convenient resolutions over coherent storytelling. While the premise of breaking the wheel could be meaningful, Bran's elevation felt tonally jarring and dramatically unearned within the narrative framework.
+### # Unrealistic Consequences 
+Other loose ends left fans questioning the validity of certain plotpoints. **Jon Snow's banishment to the Night's Watch** appeared too lenient a penalty considering he had murdered the rightful heir to the Iron Throne. Likewise, **Grey Worm allowing the remaining rivals to Daenerys live** stretched believability, given his unwavering loyalty demanded blood for blood. 
+The implicit fates of factions like the **unsullied army** and **Dothraki hordes** also went unaddressed. Did they truly accept an arrangement securing no tangible gains for themselves? Returning to themes like the **Northern independence** or **Iron Islands' sovereignty** only in passing felt reductive, resolving complex political issues with facile hand-waves. Viewers saw these as neglected story threads unfulfilled by the unsatisfying conclusion.
+### # Pacing and Underdeveloped Resolutions
+While an ending was always inevitable, many felt this could have been more elegantly executed given proper time. Condensing multiple years of history into a single 90-minute finale compelled contrived shortcuts. More gradual crises unfolding over a full season could have realistically motivated changes like Daenerys’ traumatic corruption. 
+Characters also departed without the meaningful final interactions long-time fans deserved. Scenes like **Arya leaving on an open-ended voyage** felt like an afterthought lacking emotional payoff. Icons from **Melisandre to Varys disappeared without resolution**. The lack of **tangible consequences** for the surviving protagonists seemed to pardon too many misdeeds over the years, undoing GoT’s roots in gritty realism.
+### # In Summary
+Game of Thrones elevated the fantasy genre and broke audience records, yet its conclusion divided fans with an ending many saw as implausible and dramatically uneven. While an unpredictable conclusion was always possible, most felt the groundwork had not been adequately laid for the resolution that unfolded. Going forward, this case study highlights how even massively popular works risk alienating longtime supporters with an ending that carelessly undermines its own intricate narrative logic and established character arcs.
+![A Disappointing Resolution: Fans Reflect on the Ending of Game of Thrones](https://www.indiewire.com/wp-content/uploads/2019/05/Courtesy-of-HBO.jpg)

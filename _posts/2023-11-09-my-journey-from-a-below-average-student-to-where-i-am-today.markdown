@@ -1,0 +1,28 @@
+---
+layout: post
+title: "My Journey from a Below Average Student to Where I Am Today"
+date: 2023-11-09 17:25:13 +0000
+categories: "Confessions & stories"
+excerpt_image: https://guide2secret.com/wp-content/uploads/2016/03/From-a-Below-Average-Student-to-a-Top-Ranker.jpg
+image: https://guide2secret.com/wp-content/uploads/2016/03/From-a-Below-Average-Student-to-a-Top-Ranker.jpg
+---
+
+### Receiving the Board Exam Results   
+I still remember the uneasiness and anticipation as I waited for my 10th board exam results. Those couple weeks felt like an eternity. Finally, the day arrived when the results would be announced. I logged onto the result website with sweaty palms, my heart racing with nerves. After what seemed like forever for the page to load, there my [marks were on display for all to see](https://store.fi.io.vn/collection/akhtar). To say I was shocked to see scores in the 50s would be an understatement. With **marks of 57% in English, 56% in Math, 64% in Physics and 56% in Chemistry**, I was clearly below the overall passing percentage. Needless to say, I was disheartened seeing other friends score in the high 80s and 90s.          
+
+![](https://blog.fullfabric.com/hs-fs/hubfs/Journey.png?width=17280&amp;name=Journey.png)
+### Struggling to Find the Right Path
+The poor board results left me unsure of which stream to opt for after 10th. I knew pursuing Science with such mediocre scores would be challenging. However, given my interest in **subjects like Physics and Chemistry**, switching to another domain didn't appeal much either. After long deliberations with teachers and parents, it was decided **I would continue with PCM but with low expectations**. In 11th, I focused on understanding fundamentals thoroughly instead of just clearing exams. Slowly, my grasp over **concepts in subjects like Physics strengthened**. This renewed self-belief that with persistent effort, improvement is possible.
+### Working Hard to Turn Things Around 
+Confidence boosted from 11th, I entered 12th determined to prove past marks don't define one's capabilities. Night studies and rigorous practice became the norm. **Doubts were clarified immediately without delay**. Regular self-assessments helped identify weak areas for focused preparation. Teachers too upped encouragement seeing sincere efforts. All this hard work began bearing fruit as internal exam scores peaked. The increasing scores reaffirmed I was on right path. However, boards will decide if all that labor had paid off.  
+### The Vindicating Board Exam Results  
+That anxious wait for 12th board results was no less nerve-wracking. This time, I was cautiously optimistic thanks to good internal performance. Finally the exam website loaded, revealing my marks. My jaw dropped seeing whopping scores of **66 in Physics, 56 in Chemistry and 60 in Mathematics**. After years of people writing me off due to poor 10th scores, **I had scored an impressive aggregate of 61%**. The transition from below average student to a pass percentage was nothing short of gratifying.
+### Grateful for the Learning Experience  
+As I look back at my academic journey, I'm thankful for tough lessons 10th results taught. They instilled a strong resolve to emerge from my struggles tougher and wiser. **Doing so well in 12th boards proved when you confront hurdles head-on rather than shy away, you surprise even yourself.** My story highlights potential in every student, no matter their past performance. If given opportunities and right support system, **anyone is capable of achieving their true abilities**. I hope sharing my experiences encourages others currently struggling to 'never say die' and keep striving.
+### Pursuing my Passion for Science  
+Buoyed by 12th board results, I pursued Bachelor's in Science confidently. During these years, my interest in subjects like Organic Chemistry grew stronger. College gave exposure to **new areas like Pharmaceutical Chemistry which fascinated me**. I ensured excelling academically by giving equal importance to both practical and theory. This helped in landing a job as an **assistant scientist in a leading pharmaceutical company** post-graduation. Ever since, there has been no looking back. I've progressed to **more responsible roles over years tackling varied challenges in drug development and quality control**. 
+### Paying it Forward 
+Throughout my career, mentoring juniors in academics and adjusting to professional demands has been fulfilling. **Guiding those struggling similar to how I did, gives me satisfaction.** I make it a point to share my story to inspire students who may have faced failures, but not lost hope. My journey proves with self-belief and perseverance, you can bounce back from any stumbling block. **Ordinary students too, with unwavering determination, can accomplish extra ordinary things**. If my experience influences even one to never give up on their dreams, it would be most rewarding.
+### Gratitude for the Journey  
+Standing where I am today, I feel deeply grateful. My career progressed in ways I never imagined possible from someone with under 60% in 10th boards. When I was doubted, people supported and stood by me through thick and thin. **That unconditional backing gave me courage to face hardships headstrong.** I'm thankful to all well-wishers who cheered me during lows and successes alike. I take immense pride in proving potential lies beyond numbers, if given the right opportunities and backing to shine. **My journey is a testimony that where there is a will, there always is a way.**
+![My Journey from a Below Average Student to Where I Am Today](https://guide2secret.com/wp-content/uploads/2016/03/From-a-Below-Average-Student-to-a-Top-Ranker.jpg)

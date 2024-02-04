@@ -1,0 +1,26 @@
+---
+layout: post
+title: "How I Overcame My Obsession With BTS and Focused on My Studies Again"
+date: 2024-02-04 12:28:40 +0000
+categories: "Confessions & stories"
+excerpt_image: https://i.ytimg.com/vi/xF4o9rYhMf0/maxresdefault.jpg
+image: https://i.ytimg.com/vi/xF4o9rYhMf0/maxresdefault.jpg
+---
+
+### Rediscovering My Purpose
+As time went on, I found myself spending more and more hours watching BTS videos and content instead of focusing on my studies. I started neglecting my friendships and worrying excessively about the prospect of the group disbanding one day. It was then that I realized I needed to take action before things got even more out of control. The first step was [reflecting deeply on my priorities and goals in life](https://store.fi.io.vn/collection/alan). I want to become a doctor so I can help people, so I knew I had to get BTS out of the way if I wanted to achieve that dream. I asked myself difficult questions like "Will BTS help pay my college tuition fees if I don't get good grades?" reminding myself of what really mattered most.  
+
+![](https://simplylifetips.com/wp-content/uploads/2017/09/simple-study-tips-infographic.png)
+### Reconnecting With My Support System
+Once I had clarified my purpose, the next important step was **rebuilding connections with loved ones**. I knew I couldn't do this alone, so I opened up to my parents and close friends about how I was feeling and what I was going through. Their understanding and support meant the world to me during that difficult time. No celebrity or band can replace real relationships, so I put effort into strengthening the bonds with those who would be there for me no matter what. Just being able to talk things through with people who cared about me and my wellbeing was incredibly helpful.
+### Limiting My Exposure 
+While talking to others was cathartic, I also knew I needed to put distance between myself and the thing triggering my obsession - BTS. One key action I took was **completely stopping all engagement with them on social media platforms**. Without the constant feed of new photos, videos and updates fueling my fixation, it became easier to detach emotionally. I also removed all images and merchandise related to the group from my surroundings. Out of sight, out of mind really helped in my case. Of course, it was an abrupt change but necessary to recover my mental wellbeing and focus.
+### Achieving Perspective 
+My obsession stemmed partly from putting BTS members on unrealistic pedestals and only seeing the curated highlights of them presented to fans. To overcome that, I had to **gain a more balanced and thoughtful perspective of realities I wasn't aware of**. For instance, I reminded myself that k-pop stages are highly produced to present an idealized image, and that no one is perfect. Celebrities are still humans with flaws despite their fame. With a shift in perspective, my attachment to an imagined version of them lessened. I was also able to appreciate other artists and hobbies more, distributing my interests in a healthier manner.
+### Filling My Time Positively
+No change happens overnight, so I knew staying occupied was important in this process. I started **engaging in meaningful activities that enriched my life instead of just passively consuming content**. This included studying with focus for my exams, spending quality time with family through small get-togethers, exploring hobbies, volunteering, and more. Filling my schedule prevented relapses into old patterns. The happiness and fulfilment drawn from real accomplishments steadily replaced any void left by detaching from the fandom. Over time, my wellbeing significantly improved as a result.
+### Maintaining Perspective Gains 
+Though I have come a long way since, I am aware of triggers that could cause a regression if not managed carefully. Therefore, I try to **maintain an outlet through journaling about my experiences and the lessons learned**. This serves as a reminder of how far I have come and why certain boundaries are in place. I also check in regularly with close friends to stay accountable. With continued self-reflection and a support system, I have been successfully able to balance my interests healthily. My grades are the best they have ever been, and I am thrilled to be back on track achieving my goals stress-free.
+### Looking Towards The Future Positively  
+Reflecting on my journey, I feel proud yet grateful for overcoming such a challenging period of my life. While things may not have turned out how I envisioned back then, **I have faith that every struggle makes us wiser for facing what lies ahead**. Obstacles will always exist but feeling in control of myself gives me strength. My advice to others would be to never lose sight of your true purpose and values. Also, be compassionate with yourself through ups and downs as you steadily work towards growth. Now with a much better mindset, I am excited for the opportunities ahead and what new horizons await discovery.
+![How I Overcame My Obsession With BTS and Focused on My Studies Again](https://i.ytimg.com/vi/xF4o9rYhMf0/maxresdefault.jpg)

@@ -1,0 +1,31 @@
+---
+layout: post
+title: "How Cybercriminals Manipulate the Mobile Number System to Bypass OTP Security"
+date: 2024-02-02 09:56:59 +0000
+categories: "Tech"
+excerpt_image: https://files.scmagazine.com/wp-content/uploads/2023/06/EtayMaorCol-e1686254391672.jpg
+image: https://files.scmagazine.com/wp-content/uploads/2023/06/EtayMaorCol-e1686254391672.jpg
+---
+
+Mobile numbers form an integral part of online authentication via one-time passwords (OTP). However, criminals abuse underlying system vulnerabilities to hijack phone numbers and bypass OTP security. This article discusses how SIM swap fraud works and measures needed to strengthen network security and user awareness.
+### Gaining Unauthorized Access through SIM Swapping
+Fraudsters first collect personal details of potential victims through phishing emails or public data leaks. Posing as the true subscriber, they contact mobile carriers claiming a lost/damaged SIM card and request the [same mobile number reassigned to a new SIM under their control](https://store.fi.io.vn/collection/alegre). Once achieved, they can intercept OTPs meant for account authentication and transactions. 
+Criminals target financial accounts linked to phone numbers, expecting password resets via SMS. With possession of the hijacked mobile, they complete account takeovers before the legitimate user notices anything amiss. Funds are then siphoned off into mule accounts, making the crime hard to trace back. **SIM swapping remains a serious threat exploited for stealing money and sensitive information.**
+
+![](https://blogapp.bitdefender.com/hotforsecurity/content/images/2022/12/Your-phone-number-got-leaked-Here-s-what-cybercriminals-can-do-with-it-and-how-you-can-stop-them.jpg)
+### Strengthening Identification Checks on Mobile Networks  
+Mobile networks are upgrading security on SIM swaps given their abuse potential. Most now require a 4-digit **PIN assigned to each subscriber's mobile number** as an additional verification checkpoint during SIM replacement requests. However, awareness around setting strong PINs and keeping them private still remains low.
+Education is needed to inform subscribers of the importance of creating hard-to-guess PINs and not sharing them with anyone. Mobile carriers must also thoroughly validate customer identities, preferably with secondary ID proofs, before processing any SIM card changes over the phone. Tighter scrutiny can help curb fraudulent SIM swaps at the source by malicious parties pretending to be true account holders.
+### Educating Users on Two-Factor Authentication Best Practices
+While technology solutions make hijacking mobile numbers harder for criminals, end-users also have a responsibility. People need guidance on securely enabling 2FA on important online services using authenticator apps instead of SMS. 
+Relying solely on text messages as the second factor assumes the linked phone number remains in sole possession, which SIM swaps prove is not guaranteed. Using separate authenticator apps generates one-time codes even when the mobile network is compromised. It prevents account takeovers due to the hijacked phone number alone. With network defenses and user awareness improving in tandem, **SIM swap fraud can be curtailed to a large extent.**
+### Strengthening Digital Identity Verification Overall   
+The root cause enabling SIM swap fraud is the ability to easily assume another person's digital identity. Criminals manipulate identity data available from multiple breaches to mimic the true subscriber during carrier authentication calls. Telecom regulators must work with mobile operators on introducing stronger digital identity verification standards sector-wide. 
+Measures like multi-factor identity proofing using government-issued IDs, biometric matching, and monitoring identity data transactions could raise the bar for criminals. It will be much harder to falsely establish someone else's identity without drawing suspicions. With robust checks in place, mobile networks would find it challenging to reassign numbers without thoroughly authenticating requestors. Tighter digital ID validation is key to disrupting the basic premise exploited for SIM swapping.
+### Detection and Reporting of Suspicious Activity
+Even with strengthened defenses, SIM swaps may still succeed in some cases. Therefore, timely detection and reporting of such incidents become important to limit damage. Mobile carriers need proactive fraud monitoring systems analyzing usage patterns to identify abnormal behavior post a SIM swap.  
+For instance, login attempts from unfamiliar locations after a number reissue could indicate successful account takeovers. Alerting subscribers about such activity allows them to immediately secure accounts. Regulators must also mandate timely breach reporting so law enforcement can investigate the scope and entities impacted by such fraud. With simultaneous efforts across technology, process and policy levels, the risks from SIM swapping can be considerably reduced over time.
+### Coordinated Global Action Needed
+Given the cross-border nature of mobile networks and crimes, international cooperation is vital to curb SIM swapping at its source. Telecom standard bodies should introduce enforceable **global SIM swap best practices** addressing issues like identity verification harmonization, activity monitoring norms and timely disclosure guidelines. 
+Individual countries alone cannot solve the problem as fraudsters easily route their attacks through territories with lax laws or oversight. Regulators worldwide need to work with operators and hold them equally accountable for customer security, regardless of jurisdiction. Only by treating this as a unified challenge with collective action can we truly close the various gaps exploited daily by fraudulent actors for illegally accessing phones and accounts through SIM swapping.
+![How Cybercriminals Manipulate the Mobile Number System to Bypass OTP Security](https://files.scmagazine.com/wp-content/uploads/2023/06/EtayMaorCol-e1686254391672.jpg)

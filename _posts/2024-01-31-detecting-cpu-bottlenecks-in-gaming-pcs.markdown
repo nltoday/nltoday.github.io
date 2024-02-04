@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Detecting CPU Bottlenecks in Gaming PCs"
+date: 2024-01-31 19:35:13 +0000
+categories: "Gaming"
+excerpt_image: https://blog.logicalincrements.com/wp-content/uploads/2017/09/cpu-4k-perf2.png
+image: https://blog.logicalincrements.com/wp-content/uploads/2017/09/cpu-4k-perf2.png
+---
+
+Game performance is dependent on both the CPU and GPU working together smoothly. However, a CPU that is not powerful enough can become a bottleneck, limiting how fast information can be processed and sent to the graphics card. This article will discuss various ways to identify if your CPU is bottlenecking your gaming experience and affecting frame rates.
+### Monitoring Hardware Usage 
+One of the most straightforward methods to check for bottlenecks is by monitoring your CPU and GPU usage while gaming. Programs like MSI Afterburner allow you to overlay usage stats directly in games. If the CPU usage is consistently high, such as above 80-90%, while the [GPU usage](https://fistore.mysenprints.com/collection/abdi) remains below optimal levels, around 90-95%, this is a clear sign the CPU is struggling to keep up. Even if CPU usage is only moderate but the GPU is underutilized, performance may still be limited. It's ideal for the GPU to be fully taxed at 95% or more to maximize frame rates.
+
+![](https://www.build-gaming-computers.com/images/cpu-gpu-bottlenecks-explained-guide-beginners.jpg)
+### Benchmarking Different Hardware
+Conducting benchmarks with various hardware configurations can also reveal bottlenecks. One example shown was testing a demanding game scene with a Core i3-9100F CPU paired with an RTX 2080 Ti graphics card. The quad-core CPU without hyperthreading was not able to feed data fast enough in the crowded NPC area, causing frame times to vary wildly and average frames to drop below 100 FPS at 4K. Switching to an Intel Core i9-9900K with higher clock speeds and more physical cores eliminated any bottlenecking of the 2080 Ti. Direct comparisons make limitations obvious. 
+### Limitations of Quad-Core CPUs  
+While quad-core CPUs can still perform well for gaming in many cases, there are limitations. The 9100F tested was able to run most other games without major issues, but did struggle with the specific demanding scene. Some games are becoming more threaded over time and may start to expose constraints of only having four logical cores without hyperthreading. Meanwhile, even in 2020 Intel has not released a consumer quad-core CPU with clock speeds exceeding 4.4GHz, offering less raw processing power than enthusiasts may want paired with high-end video cards. For **longevity and eliminating bottlenecks**, a six-core or higher CPU is generally recommended when using high-end discrete graphics.
+### Low Frame Rates Despite Powerful Hardware
+Another sign that the CPU may be the culprit for performance issues is unexpectedly low frame rates even with powerful components. For example, if you have a RTX 3080 or RX 6800 XT graphics card but are only achieving 60-80 FPS on average in esports titles at 1080p, this suggests a barrier that could be coming from the CPU side. The GPU should have no trouble pushing well over 100 FPS at that resolution with lighter games. Upgrading to a modern six-core or better CPU could unleash its full potential for smooth gameplay. 
+### Varying Frame Times 
+Jittery or stuttery frame pacing can also indicate a bottleneck. Graphics card monitoring software will typically graph frame times, showing smooth consistent lines for ideal performance. Spiky fluctuating frame times mean frames are not being delivered as regularly as possible, which can cause visual lag or stuttering. This is often due to the CPU not being fast enough to steadily feed draw calls and data to the GPU. With a bottleneck resolved, frame times should stabilize around the average refresh interval of your monitor.
+### Task Manager Monitoring
+For a quick and easy check without additional software, Windows Task Manager can provide clues. While running a game, open the Task Manager and go to the Performance tab. If the CPU usage graph is regularly maxing out the CPU or pegged at very high percentages, this suggests it may be under strain. Meanwhile, checking GPU usage in Task Manager or an overlay program will tell if the graphics processing is being fully leveraged or held back due to CPU limitations. 
+### Upgrading to Relieve Bottlenecks
+If monitoring and benchmarks point strongly to the CPU as the limiting factor, upgrading is an option. For gaming, processors with 6 cores/threads or more such as Intel Core i5-10400F and AMD Ryzen 5 5600X are generally recommended as a minimum nowadays when pairing with mid-range or higher graphics cards. Jumping to 8 cores or more futureproofs further against bottlenecks. In some cases, overclocking an existing CPU to boost clocks can also provide worthwhile gains. But ultimately, addressing a CPU bottleneck usually requires installing a faster modern processor to maximize graphics hardware performance potential.
+### Conclusion 
+By monitoring key metrics like CPU and GPU usage both during games and benchmarks, hardware bottlenecks can be efficiently diagnosed. Quad-core CPUs without hyperthreading may show their limitations sooner when pushing high-fidelity games and future titles. Upgrading to a 6-core or higher processor ensures graphic fidelity can be fully realized for improved frame rates and smooth gameplay. Understanding bottleneck behaviors helps optimize gaming PC configurations for best performance.
+![Detecting CPU Bottlenecks in Gaming PCs](https://blog.logicalincrements.com/wp-content/uploads/2017/09/cpu-4k-perf2.png)

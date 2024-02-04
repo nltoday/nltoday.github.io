@@ -1,0 +1,33 @@
+---
+layout: post
+title: "The True Age of the Legendary Bhishma"
+date: 2024-01-29 19:15:22 +0000
+categories: "News"
+excerpt_image: https://i.ytimg.com/vi/ocd-ItSmSpI/maxresdefault.jpg
+image: https://i.ytimg.com/vi/ocd-ItSmSpI/maxresdefault.jpg
+---
+
+### Childhood and Training
+Bhishma was [born](https://yt.io.vn/collection/ackman) to the goddess Ganga and entrusted to King Shantanu of Hastinapur. As a **condition of his upbringing**, Bhishma received years of rigorous martial training from some of the greatest warriors of his time. He spent 16 years learning from his mother Ganga in **Devaloka, the abode of gods and goddesses**. Bhishma then trained for 12 years under the **celebrated warrior Parashurama**, mastering the arts of **archery, sword-fighting and combat strategy**. By the end of his training at age 28, Bhishma had earned a reputation as one of the most **skillful fighters in all of Bharata**.
+
+![](https://4.bp.blogspot.com/-P2B626iwguc/WVNDM1idZ9I/AAAAAAAABio/YQ23SI4yDGwBsLLxlI9B-07M2bp766VRwCLcBGAs/s1600/bhishma-pitamah.jpg)
+### Rising to Prominence 
+At age 32, Bhishma formally joined King Shantanu's court in Hastinapur. He **defended Hastinapur's borders and soon established himself** as the king's most trusted commander and advisor. During this time, Bhishma participated in the **svayamvara ceremonies** of the princesses Amba, Ambika and Ambalika. Through displays of unparalleled martial prowess, Bhishma defeated all rival suitors and **won the right to choose brides** for his half-brothers Vichitravirya. Over the next few decades, Bhishma supported King Shantanu and aided in the **succession of future generations** in Hastinapur as Vichitravirya, Dhritarashtra and Pandu came of age.
+### A Guardian for Future Kings
+With King Shantanu's passing and Vichitravirya's untimely death, Bhishma took on the additional duty of **guiding and protecting the crown princes Dhritarashtra and Pandu**. He **instructed them in the duties of kingship and ensured the safety of the kingdom**. During this time, Ambika and Ambalika bore Dhritarashtra and Pandu sons through the blessings of Vyasa Rishi. Bhishma also helped **raise and teach martial skills to the young Kauravas and Pandavas**. As the Pandavas came of age, Bhishma provided **counsel to King Dhritarashtra on governance and diplomacy challenges facing Hastinapur**. He remained the **pillar of strength and wisdom for two generations of Hastinapur rulers**.
+### A Commitment to Nonviolence 
+Despite his unrivaled prowess in combat, Bhishma lived a life committed to **nonviolence and defense of the innocent.** During the rule of King Dhritarashtra, **internal conflicts arose in Hastinapur over royal succession**. When war threatened to break out between the Kauravas and Pandavas, Bhishma - now well over a century old - reluctantly agreed to **command the Kaurava forces out of duty to Dhritarashtra**. Even so, Bhishma remained **true to his vow of nonviolence** and chose not to kill any of the Pandava warriors, who were like family to him. In battle, he fought **only to defend and never to destroy lives needlessly**. This showed Bhishma's deep commitment to **dharma and ahimsa through all challenges**.
+### The Final Stand at Kurukshetra 
+When open war finally erupted on the fields of Kurukshetra between the Kauravas and Pandavas, Bhishma launched a **magnificent display of martial prowess despite his advanced age**. For 10 days, he **single-handedly held off the entire Pandava army**, demonstrating masterful generalship. However, he refused to **use his full strength against family**. Through strategic fighting only, Bhishma sustained few injuries while **buying time for negotiations**. In a deeply moving end, the **Pandava ruler Arjuna sought and was granted permission by Bhishma** to fire upon him with celestial weapons. Lying on a bed of arrows, Bhishma gave his final **teachings on dharma to Yudhistira before departing for salvation**. Thus closed the **illustrious military career of the legendary Bhishma Pitamah**.
+### Calculating Bhishma's True Age
+To determine Bhishma's age at the time of the Kurukshetra war, we must carefully **examine historical accounts of his life and timeline of events in the Mahabharata period**. Based on descriptions of his training and career milestones:
+- Bhishma received 16 years of education from goddess Ganga, making him 16 years old. 
+- He then trained for 12 years under Parashurama, totaling 28 years of age.
+- After joining King Shantanu's court at age 32, he actively served for over 50 years through the births of Vichitravirya's sons and their education. 
+- Factor in the time from Dhritarashtra and Pandu's births to Kurukshetra, which included the Pandavas' childhood, education, exile and pre-war politics. 
+Accounting for all known periods concludes that **Bhishma was at least 130 years old and likely older when the famed battle began**. Though considerably aged, he remained an unrivaled warrior - a testament to his exceptional skills, discipline and sacred heritage from the goddess Ganga.
+### Legacies of a True Leader
+To this day, Bhishma Pitamah remains **revered in India for embodying dharma and military virtue**. Through **selfless service, unwavering commitment to truth and ability to guide future generations wisely**, he left an enduring mark on the region. **Prominent armies still study his battle tactics and soldiers reflect on his honorable conduct even in warfare**. Above all, Bhishma showed that **nonviolence, compassion and duty to principles can triumph over force of arms**. His remarkable life story continues **inspiring communities on leadership, character and upholding dharma despite adversity**. The **values exemplified by the great grandfather of the Bharatas remain highly relevant for modern times**.
+### Conclusion 
+By piecing together references in historical texts, a **clear timeline emerges to calculate Bhishma's age accurately**. Although he lived during a period before explicit record keeping, internal evidence and context clues allow us to **reasonably determine he was at least 130 years old at Kurukshetra.** More importantly, Bhishma's **stellar military accomplishments, impeccable commitment to righteousness and nurturing role** earned him an eternal place among the most **revered figures in Indian civilization and world philosophy.** His example of **living righteously according to sacred duty while treating all with empathy** is a timeless lesson for humankind.
+![The True Age of the Legendary Bhishma](https://i.ytimg.com/vi/ocd-ItSmSpI/maxresdefault.jpg)

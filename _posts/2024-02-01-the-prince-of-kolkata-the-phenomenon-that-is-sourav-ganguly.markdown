@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The Prince of Kolkata: The Phenomenon that is Sourav Ganguly"
+date: 2024-02-01 07:13:52 +0000
+categories: "Soccer"
+excerpt_image: https://gumlet.assettype.com/freepressjournal/2021-06/7486acd6-a3db-49bd-9b93-c5c85e81cca8/cde9b9ea884e04ed56eb3fcf2aba8834.jpg
+image: https://gumlet.assettype.com/freepressjournal/2021-06/7486acd6-a3db-49bd-9b93-c5c85e81cca8/cde9b9ea884e04ed56eb3fcf2aba8834.jpg
+---
+
+### A Legend in the Making
+Sourav Ganguly had all the makings of a special player ever since he first stepped onto the field for India. However, it was after being appointed captain of the Indian cricket team that he truly came into his own. Ganguly put India back on the map as a force to be reckoned with in international cricket. Under his leadership, teams no longer considered India as pushovers. India started winning more consistently at home and abroad. Ganguly nurtured young talents like Virender Sehwag, Zaheer Khan, Yuvraj Singh, and Harbhajan Singh who went on to become legendary [Indian cricketers](https://yt.io.vn/collection/alcock). 
+
+![](https://www.newsleakcentre.com/wp-content/uploads/2021/07/hl52tfp8_sourav-ganguly-afp_625x300_01_April_20-768x576.jpg)
+### The Comeback King
+When Greg Chappell took over as coach of the Indian team, it signified the beginning of troubled times for Ganguly. He was stripped of captaincy and later dropped from the team. However, Ganguly is known for his fighting spirit and resolve. He made a stellar comeback against South Africa, scoring a match-winning 51. This cemented his status as India's premier batsman once again. No matter how many times he was kept down, Ganguly always emerged stronger. His tenacity and will to never say die is an inspiration for millions of his fans.
+### Dada and His City of Joy  
+Kolkata loves its **Dada**. Even when the Indian team didn't feature him, the Eden Gardens crowd supported neighboring South Africa over India during an ODI. They showed Greg Chappell the middle finger in anger. When Ganguly played for **Pune Warriors India** in the IPL against local favorites **Kolkata Knight Riders**, an unthinkable number of fans cheered for Pune instead. After Ganguly was released by KKR, fans protested with the **"No Dada No KKR"** campaign. Empty stands at the Eden greeted KKR for defying the wishes of the locals. No cricketer perhaps comes close to evoking such passion and loyalty in an entire city like Ganguly does for Kolkata. 
+### Father Figure to Young Stars
+Ganguly was a big brother/father figure to many youngsters in the Indian team during his captaincy days. He nurtured their talent and backed them unconditionally, even when they were going through rough form. Names like Virender Sehwag, Yuvraj Singh, Zaheer Khan, Harbhajan Singh all credit Ganguly for giving them the confidence and platform to express themselves freely. His man management skills and ability to bring the best out of players is unparalleled. Even today, both former and current cricketers look up to Ganguly as a guiding light and mentor. His legacy lives on in these protégés who have taken Indian cricket to greater heights.
+### Lifting the Sport in Bengal
+Beyond cricket, Ganguly has come to represent the aspirations, spirit and pride of West Bengal. He sparked unprecedented interest in cricket and elevated the sport's status in a state once known more for its passion in football. Ganguly has led **Bengal cricket** from the front and ensured it produces world-class players on a regular basis now. Several trophies and awards have been bestowed upon him by the state in recognition of his monumental contribution. His popularity across all sections of Bengali society makes him a cult figure and living legend for future generations in the state to look up to.
+### Dada's Magic Lives On
+Visiting the iconic Eden Gardens even today, one can sense Ganguly's magic lingering in the air. Crowds still break into chants of "Dada Dada" spontaneously as a show of affection. His autobiography **"A Century is Not Enough" became a bestseller**, giving readers deep insights into his illustrious journey. A host of brands endorse him as their face, attracted by his charisma and connect with the masses. His sports show **"Dadagiri"** remains highly popular. Whenever Ganguly walks into a cricket field or speaks, thousands tune in feeling a surge of motivation and nostalgia. There is no doubt that **Sourav Ganguly** will always occupy a rarefied space in people's hearts as Bengal's favorite son and one of **India's greatest captains of all time.**
+![The Prince of Kolkata: The Phenomenon that is Sourav Ganguly](https://gumlet.assettype.com/freepressjournal/2021-06/7486acd6-a3db-49bd-9b93-c5c85e81cca8/cde9b9ea884e04ed56eb3fcf2aba8834.jpg)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Is Reddit a True Platform for Free Expression and Discourse?"
+date: 2024-02-07 03:12:01 +0000
+categories: "Writing"
+excerpt_image: https://www.blucactus.ca/wp-content/uploads/2021/09/Blucactus-What-is-Reddit-and-what-is-this-platform-about-cover-page.jpg
+image: https://www.blucactus.ca/wp-content/uploads/2021/09/Blucactus-What-is-Reddit-and-what-is-this-platform-about-cover-page.jpg
+---
+
+Reddit has long positioned itself as a platform that values freedom of expression and open discourse. However, a closer examination reveals that the site's focus on popularity and karma points may undermine these ideals. In this article, we will explore some of the fundamental challenges facing Reddit in living up to its principles of openness.
+### Echo Chambers and the need for Approval 
+One of the biggest issues with Reddit's system is that it primarily surfaces content that already has agreement from existing users. New or dissenting views struggle to break through without first gaining approval. As the input notes, a post on Reddit needs "at least 25 people to look at you and go 'yup they present no challenge to me whatsoever'" before it can reach a wider audience. **This establishes echo chambers where only popular or non-controversial ideas are amplified**. 
+While gaining initial traction is a challenge for any new idea, Reddit's focus on early upvotes skews the system towards status quo views. Novel or challenging perspectives have little chance of broader discussion without first conforming to the biases of initial voters. Though upvoting helps filter low-quality content, it also shields users from alternative vantage points. Over time, this shapes Reddit into **a collection of isolated communities where dissent is discouraged rather than debated.**
+
+![](https://www.komando.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-18-at-7.54.40-AM.png)
+### The Tyranny of the High Score 
+Closely related is the impact of Reddit's karma point system. As the input warns, the site risks becoming "a popularity contest" where users focus on amassing points instead of meaningful exchange. The advice to "always respond to keep the conversation going" is telling - it indicates interaction is about accruing karma rather than exploring ideas. **When karma becomes the primary goal, authentic discussion is replaced by pandering to the biases of whoever has the "high score".** 
+Gaining approval and karma also encourages conformity over independent thought. As the input notes, users are advised to "never, ever, no matter how politely you word a disagreement, disagree" if they want popularity. Or as another saying goes, "don't rock the boat". This undermines Reddit's stated goal of fostering "thoughtful discussion and debate". **When upvotes shape all behavior, communities risk becoming echo chambers where dissent is silenced rather than engaged with respectfully.**
+### Can Reddit Overcome these Challenges?
+So in summary, Reddit faces an inherent conflict between its aspirations for open discourse and the realities of its gamified karma system. Gaining traction and participation requires popularity, but popularity often comes at the expense of ideological diversity or willingness to consider opposing stances. This raises questions about whether Reddit can truly fulfill its role as a platform supporting "healthy debate between all viewpoints."
+There are no easy fixes, but a few options could help mitigate these tensions. Reddit could experiment with anonymity to divorce identities from votes, allowing ideas to stand on their own merits. It could also avoid over-relying on early upvotes to surface new content and give more time for discovery. More importantly, Reddit and its communities must actively cultivate **a culture of empathy, critical thinking and good faith discussion** - where understanding differing perspectives is valued over point scoring. 
+With commitment to these principles, Reddit shows it prioritizes the free flow of ideas over popularity contests. But meaningful change requires acknowledging the system's biases first. Only then can Reddit work to reshape incentive structures and norms, so users believe their voice and original thoughts have equal opportunity to be heard.
+![Is Reddit a True Platform for Free Expression and Discourse?](https://www.blucactus.ca/wp-content/uploads/2021/09/Blucactus-What-is-Reddit-and-what-is-this-platform-about-cover-page.jpg)

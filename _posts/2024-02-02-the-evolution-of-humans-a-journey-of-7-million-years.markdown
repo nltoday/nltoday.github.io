@@ -1,0 +1,35 @@
+---
+layout: post
+title: "The Evolution of Humans: A Journey of 7 Million Years"
+date: 2024-02-02 22:16:00 +0000
+categories: "History"
+excerpt_image: https://thekidshouldseethis.com/wp-content/uploads/2018/12/seven-million-years-of-human-evo-1024x576.jpg
+image: https://thekidshouldseethis.com/wp-content/uploads/2018/12/seven-million-years-of-human-evo-1024x576.jpg
+---
+
+## Foundations in Africa
+From our earliest ancestors around 7 million years ago, humans have undergone significant evolutionary changes that have led to the species we are today. Some of the first recognizable hominins included **_Sahelanthropus tchadensis_**, dated to around 6-7 million years ago in central Africa. With a brain size of around 350-380cc, _S. tchadensis_ displayed a combination of ancestral ape-like features along with more human-like traits such as reduced canine teeth and adoption of bipedal locomotion. 
+Another early hominin was **_Orrorin tugenensis_** from around 6 million years ago in Kenya. _O. tugenensis_ had features associated with both arboreal habits and bipedalism. Estimated brain size was around 300-350cc. Findings such as these demonstrate that the human lineage had already begun to diverge from the last common ancestor with chimpanzees by around 7-6 million years ago.
+### Adaptations on the Savanna
+From 4-2 million years ago, hominins such as **_Ardipithecus_**, **_Australopithecus afarensis_[ and ](https://store.fi.io.vn/collection/abbasi)_Australopithecus africanus_** inhabited the African savanna and woodland areas. Species like _A. afarensis_ , represented by the famous "Lucy" fossil dating to 3.2 million years ago, were adapated to bipedalism while still retaining some arboreal capabilities. Brain sizes were around 400-550cc. These early hominins were likely key in advancing bipedalism and developing **nut-cracking and stone tool use** behaviors in changing environmental conditions.
+
+![](https://i.ytimg.com/vi/H4ROaPx3i40/maxresdefault.jpg)
+## Spread of Genus Homo 
+Around 2 million years ago saw the emergence of the genus _Homo_ in Africa, including early species like **_Homo habilis_** and **_Homo rudolfensis_**. Characterized by larger brains averaging 625cc, thin skulls, and elongated lower limbs adapted for efficient bipedalism, _H. habilis_ is considered the first true tool-making hominin based on archaeological evidence of stone tool production. 
+### Out of Africa Migration
+Starting around 1.8 million years ago, the early **_Homo ergaster_** migrated out of Africa, likely in response to climate change. One population settled in Asia and evolved into **_Homo erectus_**, which eventually spread throughout Africa, Asia and into Europe. With a brain size of 800-1200cc, _H. erectus_ manufactured advanced stone tools and controlled fire. They represent the first long-distance human migration out of Africa. Findings of _H. erectus_ in Indonesia dating to over 1 million years ago exemplify their wide dispersal.
+## Evolution of the Genus Homo
+Back in Africa, populations of _H. erectus_ or _H. ergaster_ evolved into **_Homo heidelbergensis_** around 600,000 years ago. Characterized by a wide, rounded braincase, _H. heidelbergensis_ had more modern human-like faces but retained archaic traits as well. This species then migrated out of Africa again around 400,000-500,000 years ago. 
+### Neanderthals and Denisovans
+The _H. heidelbergensis_ populations that settled in Europe and Central Asia evolved into the **_Neanderthals_**, famous for their robust builds and thick browridges. Neanderthals inhabited Europe and parts of Asia for over 300,000 years before going extinct around 40,000 years ago. Meanwhile in Asia, another population transitioned into the mysterious **_Denisovans_**. DNA evidence shows both Neanderthals and Denisovans interbred with modern humans when they encountered each other after migrating out of Africa again.
+### Emergence of Modern Humans 
+The _H. heidelbergensis_ populations that remained in Africa evolved traits closer to _Homo sapiens_ and eventually gave rise to **_anatomically modern humans_** between 300,000-200,000 years ago. Characterized by a globular braincase, chin, and reduced browridge and face size, _H. sapiens_ inherited cultural and genetic exchanges from extinct hominins like Neanderthals. Technological innovations like controlled use of fire, artistic expressions in cave paintings, and advanced stone tools emerged.
+## Migration and Spread of Humans 
+Around 70,000 years ago, modern humans embarked on a series of migrations out of Africa, spreading throughout Europe, Asia, Australia and later the Americas. Carrying Stone Age technologies and cultural traditions with them, these people encountered many environmental changes and challenging climates. Evidence suggests they may have competed with or assimilated resident populations of Neanderthals and Denosovians, contributing to their extinction. 
+### Adapting to New Environments 
+As settlers reached higher latitudes in places like Europe and Asia, certain genetic changes enabled populations to adapt to local environments through **_natural selection_**. For example, variations in skin pigmentation, fat metabolism, lactose tolerance and immunity are hypothesized as adaptive responses to climates with less sunlight and new diets. These migratory episodes brought all of humanity's genetic diversity outside of Africa within the last 100,000 years.
+### Modern Human Diversity
+Today, genetic studies indicate all humans alive share a common origin in Africa within the last 200,000 years. While surface level traits like skin color have diversified across climates, modern human populations remain remarkably similar at the DNA level. Only tiny genetic variations separate individuals of different geographic ancestries and 'races' as socially constructed categories do not scientifically classify different species.This reflects our shared evolutionary heritage as a single surviving hominin lineage, _Homo sapiens_.
+## Conclusion 
+The evolutionary journey of humans over the past 7 million years traces an incredible story of adaption, migration, and genetic interchange between ancestral species. Through technological, behavioral, and biological changes in response to environmental stimuli, ancestral hominins diversified and spread before modern humanity arose in Africa. Although many relatives went extinct, descendants of one small founding population colonized the entire planet, a testament to the success and flexibility of our species. With a shared ancestry and 99.9% identical DNA, all humans today remain intimately connected on our ongoing evolutionary path.
+![The Evolution of Humans: A Journey of 7 Million Years](https://thekidshouldseethis.com/wp-content/uploads/2018/12/seven-million-years-of-human-evo-1024x576.jpg)

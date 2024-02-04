@@ -1,0 +1,8 @@
+---
+layout: post
+title: "For Them"
+date: 2023-11-22 13:44:46 +0000
+categories: "Camping & hiking"
+excerpt_image: https://www.themomcafe.com/wp-content/uploads/2014/12/Pray-For-Them1.jpg
+image: https://www.themomcafe.com/wp-content/uploads/2014/12/Pray-For-Them1.jpg
+---

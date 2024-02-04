@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Assassin's Creed: Saboteur"
+date: 2024-01-30 10:55:02 +0000
+categories: "News"
+excerpt_image: https://i.ytimg.com/vi/t6P_TQRvlGM/maxresdefault.jpg
+image: https://i.ytimg.com/vi/t6P_TQRvlGM/maxresdefault.jpg
+---
+
+### A City Under Occupation
+The streets of Paris were empty and silent as Jacques Delacroix made his way through the alleys and side paths. The darkness of the night provided some cover but he had to be careful, one wrong move and the patrols of Nazi soldiers that occupied the city would be upon him. As a member of the French Resistance and one of the few remaining Assassins in Paris, it was up to Jacques to fight back against the oppressive regime through sabotage and stealth. 
+
+![](https://i.ytimg.com/vi/7qVUVPw02QQ/maxresdefault.jpg)
+### Gathering Intelligence
+Jacques met with contact in a small safe house near Montmartre. "What have you learned?" he asked. "Our scouts have discovered a radio tower the Nazis are using to coordinate their forces. If you can take it down, it will disrupt their communication." Jacques nodded, adding the location to his mental map of the city. Disrupting the Nazi networks through [strategic sabotage](https://store.fi.io.vn/collection/alejandre) was key to weakening their grip on the people of Paris. After gathering some additional supplies, Jacques headed out once more into the night.
+### Silencing the Radio Tower  
+Reaching the outskirts of the city, Jacques spotted the radio tower in the distance, lit up against the dark sky. Searchlights swept the area, making a direct approach impossible. After some careful observation, Jacques noticed a gap in the patrol route that would allow him to sneak closer. Using cover of night and his Assassin skills, he was able to get near the base of the tower unseen. Planting explosives, he retreated to a safe distance and detonated the charges, collapsing the tower. The searchlights went dark, a small victory for the resistance.
+### Infiltrating the Command Post
+Word of the radio tower sabotage reached the Nazi command. At a follow up meeting, Jacques overheard talk of increased patrols around their main garrison and command center in the city. If he could infiltrate it, documents and intelligence could be obtained to further aid the resistance. After formulating a plan, Jacques made his way to the headquarters under cover of darkness. Disguising himself as a Nazi soldier, he was able to slip past guards and search officers' quarters. Among papers seized was information on upcoming supply convoys. This would prove very useful indeed...
+### Ambush on the Roadways 
+Using the intelligence gathered, Jacques worked with other resistance cells to plan an ambush on one of the supply convoys. On the designated night, resistance fighters lay in wait along the road into Paris as the trucks rumbled toward the city outskirts. At the given signal, explosives were detonated to cripple the lead and trailing vehicles. Men swarmed out of hiding, overwhelming the shocked Nazi troops. Weapons, ammunition, fuel and food stores were liberated for the resistance cause. The blow struck a further blow to the Nazi occupation's fragile supply lines.
+### Showdown at the Opera
+Word of these damaging attacks reached high-ranking Nazi officials in Paris. At a gala event at the Paris Opera, Jacques infiltrated a meeting of senior officers and bureaucrats. But he had been discovered, and a chase ensued throughout the magnificentyet now tarnished opera hall. Jacques utilized his **agility and tricks** learned over years of Assassin training to evade capture. In a dramatic rooftop clash, he was able to kill the head of the Gestapo in Paris. With the shadowy figure gone, the resistance would find it easier to work against the oppressors without fear of reprisals. Though the fight was far from over, every victory lifted Paris a little closer to liberation.
+### Betrayal and Loss  
+Not all in the resistance could be trusted, however. One of the cell leaders, believing the Nazis had more to offer, had begun passing information to the enemy. This betrayal was only uncovered when a planned attack went catastrophically wrong, with many fighters killed or captured due to tipped-off Nazi forces laying an ambush. Jacques and a few others barely escaped with their lives. Shaken by the losses of loyal comrades, Jacques vowed to bring the traitor to justice before more lives could be put at risk. Tracking him to a safehouse, a vicious duel ensued between the former allies. Emerging victorious, Jacques carried on the fight, more determined than ever to see Paris free once more.
+### The Long Road Ahead
+Though the resistance was battered by losses, the surviving cells regrouped under new leadership. With the Gestapo chief gone, they faced less repressive measures but the challenge remained huge. Jacques continued using his skills and growing experience to chip away at the Nazi hold on the city through daring raids, ambushes and acts of sabotage that came to be feared. As 1944 dawned, the Allied armies closed in from the borders. The people found new hope, kept alive through terrible sacrifices. In the shadows, Jacques prepared for the uprising to liberate Paris at the opportune moment, when victory was closest. The long road was almost run; from there, a new journey would begin.
+![Assassin's Creed: Saboteur](https://i.ytimg.com/vi/t6P_TQRvlGM/maxresdefault.jpg)

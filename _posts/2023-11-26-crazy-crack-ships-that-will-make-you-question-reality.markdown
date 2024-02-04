@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Crazy Crack Ships that will make you Question Reality"
+date: 2023-11-26 01:20:17 +0000
+categories: "Anime & manga"
+excerpt_image: https://i.ytimg.com/vi/oLQLd-Aza-I/maxresdefault.jpg
+image: https://i.ytimg.com/vi/oLQLd-Aza-I/maxresdefault.jpg
+---
+
+### Fleetwood Macapine 
+Bakugou couldn't believe what he saw - his beloved Popsicle-kun was kissing another man. Heartbroken, he turned to [alcohol for comfort](https://fistore.mysenprints.com/collection/adamczyk). One drunken night, he met his new love - Fleetwood Macapine, a vintage Volkswagen camper van. Bakugou was instantly attracted to Fleetwood's **rustic wooden interior** and the vibe of freedom it represented. They began travelling the open road together, but it was a turbulent relationship. Fleetwood's **unreliable engine** left them stranded for days, and Bakugou's **fiery temper** often saw them in loud arguments. Despite the drama, a passionate love was kindled between man and machine.
+
+![](https://i.ytimg.com/vi/vXBLKTto3O0/maxresdefault.jpg)
+### A Stormy Romance
+Meanwhile, Todoroki's relationship with Kettle-chan had turned toxic. During an argument, **Kettle-chan's steaming contents erupted**, leaving Todoroki with his infamous scar. Heartbroken at losing his first love, Todoroki turned to the bottle himself. One night, alone in a bar during a storm, he had a chance encounter with Soba-san - a fierce weather front packing **150km/h winds**. Their chemistry was electric; the passion between these two was impossible to ignore. Soon they were inseparable, **whirling across the nation** together causing chaos and mayhem. Despite society disapproving of their cross-element romance, Todoroki had finally found comfort in the arms of his storm.
+### A Slippery Situation
+Down in the U.A. nurse's office, Deku's crush on Hospital Bed was blossoming into love. One evening, **under the cover of darkness**, they shared a stolen kiss. But their happiness was not to last - the next day, Deku caught Hospital Bed in a compromising position with another. Wall was pressing up firmly behind Hospital Bed, their **hard surfaces rubbing together** in a most inappropriate way. Deku was heartbroken by the betrayal; how could smooth, sleek Wall ever satisfy in the way his cushy Hospital Bed could? With his trust in medical equipment shattered, Deku vowed to find comfort elsewhere.  
+### An Animal Attraction
+Meanwhile, little Kota seemed the picture of innocence with his menagerie of forest friends. However, even **for one so young**, desires of the flesh can take hold. Kota found himself irresistibly drawn to Fluffles, his adorable rabbit. One moonlit evening, overcome by new feelings, Kota gave in to his instincts. But their act was observed, and shame followed. Banished to the fringes of the forest in disgrace, Kota learned a difficult lesson about societal norms. However, his bond with Fluffles could not be broken; their love would endure, for better or worse, as outcasts in the wild.
+### A Regimen Reassessment   
+Exiled from the sidelines, Kirishima's confidence had hit rock-bottom. Wallowing in self-doubt, he stumbled upon an old friend - Crimson Hair Dye. One application was all it took to rekindle the flames of Kirishima's strength. With **Cerise tones dancing across his cranium**, Kirishima bulked up into a new man. His dedication to Crimson was absolute; soon he was **dyeing strands daily** to maintain their vermilion vibrancy. Though some questioned the sanity of such a scarlet schedule, for Kirishima it was a source of empowerment like no other. With Crimson by his side, nothing could hold him back from achieving his dreams.
+### An Airborne Alliance
+At U.A., Mirio's reputation as a playboy was well-earned. But after being caught cheating by Deku, Mirio knew he had to change. Looking to the skies for answers, Mirio spied his salvation floating by - he had to have Wall. Pursuing Wall relentlessly, Mirio wore the structure down with compliments and charm until Wall's defenses crumbled. Their first date was magical - entwined in each others' **blocks and beams**, feelings long-buried in brick and mortar were reignited. Though some considered their union structurally unsound, for Mirio and Wall it was the most solid foundation either had ever known. Their love would stand the test of time.
+# A Final Word
+And so in the land of absurd anime ships, new powers emerged while old loves withered and died. Bakugou found solace in Fleetwood, Todoroki in Soba-san's winds, while Deku, Kirishima and Mirio learned lessons of life, love and red hair dye the hard way. Even innocent Kota was not spared society's judgement. Through it all they discovered the transcendent strength of unorthodox partnerships, and how true love can bloom even in the unlikeliest of places. In a world that tells you who and what you should love, sometimes the crazy ones show us how to follow our hearts instead.
+![Crazy Crack Ships that will make you Question Reality](https://i.ytimg.com/vi/oLQLd-Aza-I/maxresdefault.jpg)

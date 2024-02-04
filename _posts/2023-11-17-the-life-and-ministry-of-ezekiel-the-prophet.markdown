@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The Life and Ministry of Ezekiel the Prophet"
+date: 2023-11-17 16:42:40 +0000
+categories: "News"
+excerpt_image: https://i.pinimg.com/originals/39/ca/b3/39cab31424f8af94b4e4055ebd80d9bf.jpg
+image: https://i.pinimg.com/originals/39/ca/b3/39cab31424f8af94b4e4055ebd80d9bf.jpg
+---
+
+### Ezekiel's Call and Early Visions
+Ezekiel was among the Jews exiled to Babylon in 597 BCE. In [his visions from God](https://fistore.mysenprints.com/collection/abdalla), he saw himself called to prophesy to the exiles by the Chebar Canal in Babylon. Ezekiel was 30 years old at this time, the typical age for priests to begin their service. However, instead of serving as a priest, God called Ezekiel to serve as a prophet. His first recorded vision came in 592 BCE, the fifth year of King Jehoiachin's exile, when Ezekiel saw incredible visions of God's glory and angels. Through these early visions, Ezekiel received his call and commission from God to prophesy to the exiles.
+
+![](https://insightforliving.swncdn.com/images/ifl-usa/content/ascendio/resources/bible/26-Ezekiel.png)
+### Prophesying Judgment on Jerusalem
+Much of Ezekiel's early prophecies focused on impending judgment against Judah and Jerusalem for their unfaithfulness to God. He prophetically acted out sieges against Jerusalem to dramatize the impending destruction. Ezekiel warned that God would bring the full force of his wrath upon the city unless they repented of their sins of idolatry and injustice. Through his graphic and vivid prophecies, Ezekiel declared with certainty that Jerusalem would fall and the nation would be judged. His warnings did not turn the people from their wicked ways, so his predictions of Jerusalem's destruction were tragically fulfilled in 586 BCE.
+### Oracle of Hope for Israel's Restoration
+While Ezekiel's message was often one of warning and judgment, he also proclaimed a message of future hope. After foretelling Jerusalem's downfall, Ezekiel began receiving visions that looked beyond to a future time when God would restore Israel in a new exodus. He foresaw the re-gathering of exiled Israelites from among the nations and their return to the promised land. Ezekiel also prophesied about a new covenant God would make with his people and the receiving of a **new heart and spirit** . This gave the exiles hope that their dispersion was not the final word, and one day God would bring his people back to the land and establish an everlasting covenant with them.
+### Prophecies of the Nations and Israel's New Temple
+In addition to oracles against Judah and prophecies of hope, Ezekiel also delivered messages concerning surrounding nations like Egypt, Assyria, Ammon and Moab. He foretold their destruction for how they mistreated God's people. Ezekiel also received revelatory visions about plans for a new temple that would be built after the exile. In vivid detail, he described the **future millennial temple's** layout, regulations, and the return of God's glory. These prophecies not only provided solace to the exiles but also signified God's faithfulness to ultimately restore Israel in the promised land with his presence once more.
+### Unknown End but Faithful Until the Finish
+The Bible gives no details about Ezekiel's later life or the manner of his death. He faithfully prophesied for at least 22 years among the exiles by the Chebar Canal in Babylon. Ezekiel would have been over 80 years old when the Jews began returning to Jerusalem after 70 years of captivity. Most scholars agree Ezekiel likely lived out the remainder of his life in exile in Babylon, continuing to minister to the people although they did not fully repent as he had hoped. But to the very end, Ezekiel remained a faithful prophet, delivering the entirety of God's message without compromising. His obedience set an example for future generations to trust and follow God alone.
+### Ezekiel's Enduring Legacy and Prophecies Fulfilled
+Though Ezekiel lived in a time of judgment, exile and unbelief, his prophecies gave Israel enduring hope. He foresaw their restoration and a future glorious kingdom ruled by God through his servant David. Portions of Ezekiel's visions await complete fulfillment, such as the establishment of the millennial temple. But remarkably, many of Ezekiel's predictions concerning Jerusalem's overthrow, the exiles' return and resettlement in Israel were literally fulfilled within 100 years after his ministry. Ezekiel's unshakable faithfulness and accuracy as God's spokesman cemented his place as one of the great prophet's in the Old Testament who exemplified total reliance on and declaration of the word of the Lord. His legacy continuesimpact countless generations with God's messages of warning, hope and promise.
+![The Life and Ministry of Ezekiel the Prophet](https://i.pinimg.com/originals/39/ca/b3/39cab31424f8af94b4e4055ebd80d9bf.jpg)

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "How personal mistakes and losses shaped me as a trader"
+date: 2024-02-02 02:52:09 +0000
+categories: "Personal finance"
+excerpt_image: https://www.tradingsuccess.com/blog/wp-content/uploads/2019/04/01-traders-journey-stages.png
+image: https://www.tradingsuccess.com/blog/wp-content/uploads/2019/04/01-traders-journey-stages.png
+---
+
+### Beginning my journey
+As a new constable working at the Mumbai airport in 2007-2008, I was eager to learn more about stock trading after hearing about it from a colleague. This sparked my interest to dive into the market, despite having no prior knowledge or experience. I opened a demat account and invested my entire savings of Rs. 1 lakh based on the advice of the broker, without doing any research of my own. Within a year, the company I invested in faced financial troubles and was placed under the **National Company Law Tribunal (NCLT)**, wiping out all of my capital. Losing such a substantial amount that I had saved over 3 years hit me hard financially and emotionally. 
+
+![](https://i.pinimg.com/736x/90/34/ad/9034ade4e215f1c16e60d2431fb8a2c6.jpg)
+### A costly lesson in risk management
+The loss of my entire savings from a single investment taught me the importance of proper [risk management](https://yt.io.vn/collection/aldaco) practices. I realized I should never invest all my capital into one company without diversifying. Tips from others cannot replace doing your own analysis and research. Most importantly, I learned to always use **stop-loss limits** to cut losses before they snowball out of control. If I had set stop-losses, I could have limited my downside instead of losing everything. This chastening experience made me wary of trading for many years.
+### Revisiting the market with caution 
+About a decade later, in 2017, I was working a new job with higher income and decided to give trading another chance. This time, I committed to educating myself thoroughly before taking any positions. I paper traded for months to test strategies, understand chart patterns and develop a rules-based approach. When I started with real money, I traded only 5% of my capital in each stock and set strict stop-losses at 5-7% below entry price. Focusing on **risk-adjusted returns** over the long run, I was consistently profitable albeit with small gains of Rs. 1,000 to 4,000 daily on average.
+### A lesson in volatility and emotion
+Despite my cautious approach, an occasional large loss still happened due to unforeseen market volatility. In one instance, I short sold a stock that unexpectedly surged to its upper circuit limit, resulting in a Rs. 33,000 loss for the day - by far my biggest single loss to date. This traumatic experience highlighted the importance of factoring in short-term **price unpredictability** , as even logical trades can go wrong. It also served as a reminder to manage emotions and not chase losses, which could have led me to take even riskier steps out of frustration.
+### Developing discipline through practice  
+After each setback, I took time to reflect on what went wrong and identify areas for improvement. Over the years, consistent practice has helped me fine-tune my strategy and hone my **money management skills**. Now, I follow a strict 2% position size per trade and exit even profitable trades that hit my predefined risk thresholds. Tracking metrics like win-rate and risk-reward ratio keeps me accountable. Through rigorous backtesting of concepts on historical data before applying them live, I’ve limited costly experimentation. Overall, a process-driven approach focused on risk-adjusted returns has seen me become a consistently profitable trader.
+### Sharing learnings to help others
+Reflecting on my early mistakes and subsequent development as a trader, I realized the value of teaching others through knowledge sharing. Retelling my stories online helps caution new entrants about potential pitfalls while also keeping me accountable. My goal is to promote a balanced understanding of trading as a business requiring both art and science. By emphasizing principles like diversification, research, risk management and discipline, I aim to spread awareness on developing sustainable habits. Through experience and continual learning, what started as a casual interest has become my passion to equip others with the right mindset and tools for their trading journey.
+### Staying curious and growing continually 
+To this day, I remain a student of the market, staying open-minded and curious. New technologies are constantly changing how trading occurs. From server updates to trading algorithms, adaptations must be made. I keep refining strategies, testing indicators, automating processes and exploring educational resources to evolve with changing market dynamics. While past setbacks taught me valuable life lessons, my goal now is not to avoid losses but to learn from each one. Through resilience and an eagerness to improve each day, I hope to keep progressing steadily in this ever-evolving field.
+![How personal mistakes and losses shaped me as a trader](https://www.tradingsuccess.com/blog/wp-content/uploads/2019/04/01-traders-journey-stages.png)
