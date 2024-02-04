@@ -1,0 +1,37 @@
+---
+layout: post
+title: "A History of Petty Rivalries and Cultural Misunderstandings"
+date: 2024-02-06 02:20:54 +0000
+categories: "Opinions"
+excerpt_image: https://i.pinimg.com/736x/45/a1/a7/45a1a70e405ce4cc684e6915e22a8170.jpg
+image: https://i.pinimg.com/736x/45/a1/a7/45a1a70e405ce4cc684e6915e22a8170.jpg
+---
+
+## [Origins of Naming and Cultural Appropriation](https://store.fi.io.vn/collection/ader)
+When new towns and cities are founded, the process of naming is as much an opportunity to honor history as it is to stake a claim on the future. However, not all perceptions of 'honoring' are viewed equally across cultures. The origins of geographic names in the New World often stem from misunderstandings between European settlers and the indigenous peoples whose lands they occupied.
+### **Misinterpreting Native Place Names** 
+Many early American place names arose from European colonists mangling or purposely changing the names used by the Native Americans already inhabiting the land. For instance, the city of Manhattan derives from the Lenape word "Manna-hata", meaning "hilly island". However, to the colonists' ears, it did not sound suitably dignified, so the name was altered. In a similar vein, the **prominent Northeast city of Boston** takes its name from "Passonagessit", the area's Massachusett name meaning "at the little cove"—hardly evocative of the bustling metropolis it would become. While settlers' attempts to honor indigenous cultures through place names sometimes had the opposite effect of diminishing their significance.
+
+![](https://i.enkivillage.org/rZLqXNNlg9ZAsIjDPObt0pgYs10=/800x0/images/2016/10/1f40e6625bb525f17de1b2a5f42cf296.jpg)
+## **Transatlantic Tensions over Geographic Identity**
+Across the Atlantic, news of the Americas' burgeoning cities and territories naturally led to fascination as well as jealousy from European powers still defining their own national identities. England in particular kept a close eye on developments in the former colonies that had rebelled and become the new United States of America. 
+### **One-Upmanship in Town Founding**
+When word reached Britain that a major commercial center was taking root in New York state and being dubbed "New York City" in the late 18th century, it was inevitably perceived as a challenge and opportunity for one-upmanship. So in the early 19th century, residents of the historic county of York rallied to establish their own "New York" as **Ýork New York**—reminiscent of the American city in name yet proudly retaining British heritage. While the new settlement never rivaled its namesake across the sea in size, the petty act of replicating the name showed lingering transatlantic tensions.
+## **Cultural Appropriation through Naming** 
+As the young American nation continued establishing new territories in the expanding West during the 19th century, Europeans watched with a mixture of fascination and indignation. While attracted to the lands of opportunity, some felt the upstart Yankee nation was growing too fast and borrowing too freely from the Old World.
+### **A Question of Origins**
+When in the 1830s maps started identifying a swath of land in northern English and Scottish border country as "New England", British resentment grew at this **blatant appropriation of the name**. Never mind that American Puritan settlers had given the name in the 17th century to evoke their vision of a religious refuge akin to England—now it seemed the colonists were claiming cultural ownership over the English name itself. An 1830 article in the London Times sniped that "there seems to be no other reason for its assumption but that of marking out for ourselves a rival England on the other side of the Atlantic."
+## **Tit for Tat in Town Planning** 
+As the 18th and 19th centuries progressed, Americans and British observed each other's developments keenly, with occasional petty one-upmanship resulting. New settlements on both sides of the ocean engaged in symbolic claims and counterclaims through their names and designs.
+### **A Planned Riposte to Washington D.C.**
+When American founding father George Washington commissioned the design of the new capital city of Washington D.C. in the 1790s, it was rightly seen as a grand mark of the nation's aspirations to liberty and democracy. However, some saw in its layout a symbolic break from British traditions of organic growth. In response, advocates were nominated in England during the 1830s to plan an equally ambitious yet emphatically British model city that would become **Liverpool Newtown Pennyford**—a name contrived to invoke Anglo influences while one-upping the American capital's grandeur. While the town was never fully realized, it showed the competitive spirit of the age.
+## **Cultural Stereotypes Take Root on Both Sides**
+As the 19th century Anglo-American "special relationship" evolved, popular perceptions of each other's culture became entrenched on both sides of the Atlantic—some based in truth but others pure stereotype. While migration and exchange of ideas increased mutual understanding, long-held caricatures also distorted realities.
+### **Perceived Foibles and Fixations** 
+The fast-growing industrial economies of Britain and America saw mass migration between the nations, but also nurtured caricatures that reinforced national identities. For instance, British humorists lampooned Americans as boastful hustlers obsessed with business and the almighty dollar, while **Yankee cartoonists depicted Brits as stuffy snobs fixated on class divisions**—stereotypes with just enough truth to endure for generations. Whether rooted in admiration or mocking condescension, such widely-spread cultural impressions promoted misunderstandings while preserving competitive national pride on both sides of "the pond".
+## **Petty Rivalries Persist through Shared Heritage**
+Even as the "special relationship" between Britain and America blossomed over the 20th century with two world wars fought side by side, undercurrents of competition endured. Shared culture and familial ties fostered mutual pride, yet also residual one-upmanship over achievements large and small.  
+### **Sports Rivalry as Cultural Identity**
+Two domains where this manifested most visibly were in **soccer/football** fandom and the Olympics. During England's 1966 World Cup triumph, union jacks were hastily manufactured and paraded with abandon by Brits mocking American disinterest—and vice versa when Team USA shocked England in 1950. Similarly, dueling chants of "USA!" and "England!" echoed in stadiums and pubs as tallies were kept of gold medals at each Olympics. Performances in sports, long a proxy for national potency, stirred passions that preservation of special bonds could not suppress. Even amongst allies, a hint of one-upmanship lingers as part of tribal identities.
+While cultural misunderstandings, name appropriations, and petty competitions arose from tensions between nascent Britain and America, their intertwined heritage is now undeniable. Though whiffs of one-upmanship still surface now and then, centuries of close exchange have fostered appreciation for shared aspirations wherever national origins may lie. An awareness of history's little jealosies reminds us how far the special relationship has come.
+![A History of Petty Rivalries and Cultural Misunderstandings](https://i.pinimg.com/736x/45/a1/a7/45a1a70e405ce4cc684e6915e22a8170.jpg)
